@@ -59,40 +59,40 @@ theme = "LoveIt"
 
 [params.cdn]
   fontAwesomeFreeCSS = "https://kit.fontawesome.com/fe402a6cf8.js"
-  
+
 [menu]
   [[menu.main]]
     identifier = "all"
-    pre = ""
+    pre = '<i class="fal fa-globe"></i>&nbsp;'
     name = "All"
     url = "/posts/"
     title = "All posts in any category"
     weight = 1
   [[menu.main]]
     identifier = "guitar"
-    pre = ""
+    pre = "<i class='fal fa-guitars'></i>&nbsp;"
     name = "Guitar"
     url = "/categories/guitar/"
     title = "Guitar related topics"
     weight = 2
   [[menu.main]]
     identifier = "shop"
-    pre = ""
+    pre = '<i class="far fa-hammer"></i>&nbsp;'
     name = "Shop"
     url = "/categories/shop/"
-    title = "Machining, other metalworking, and woodworking mostly"
+    title = "Shop stuff (metal/woodworking)"
     weight = 3
   [[menu.main]]
     identifier = "other"
-    pre = ""
+    pre = '<i class="fal fa-ellipsis-h-alt"></i>&nbsp;'
     name = "Other"
     url = "/categories/other/"
-    title = ""
+    title = "Other categories"
     weight = 4
   [[menu.main]]
     identifier = "tags"
-    pre = ""
+    pre = '<i class="fal fa-tags"></i>'
     name = "Tags"
     url = "/tags/"
-    title = ""
+    title = "All posts sorted by tag"
     weight = 5
