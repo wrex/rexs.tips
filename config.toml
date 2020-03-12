@@ -70,19 +70,26 @@ theme = "LoveIt"
     pre = ""
     name = "Guitar"
     url = "/categories/guitar/"
-    title = ""
+    title = "Guitar related topics"
     weight = 2
+  [[menu.main]]
+    identifier = "shop"
+    pre = ""
+    name = "Shop"
+    url = "/categories/shop/"
+    title = "Machining, other metalworking, and woodworking mostly"
+    weight = 3
   [[menu.main]]
     identifier = "other"
     pre = ""
     name = "Other"
     url = "/categories/other/"
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "tags"
     pre = ""
     name = "Tags"
     url = "/tags/"
     title = ""
-    weight = 4
+    weight = 5
