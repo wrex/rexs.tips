@@ -57,6 +57,9 @@ theme = "LoveIt"
       shortname = "rexstips"
 
 
+[params.cdn]
+  fontAwesomeFreeCSS = "https://kit.fontawesome.com/fe402a6cf8.js"
+  
 [menu]
   [[menu.main]]
     identifier = "all"
