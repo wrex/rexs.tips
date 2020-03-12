@@ -1,17 +1,7 @@
-{{- $scratch := .Scratch.Get "scratch" -}}
 
 <div class="home-profile">
     <img src="/img/shop.svg" alt="Vector diagram of old-time machine shop">
-
-    {{- with .Site.Params.home.profile.subtitle -}}
-        <h2 class="home-description">
-                {{- . -}}
-        </h2>
-    {{- end -}}
-
-    <div class="home-social-links">
-        {{- if .Site.Params.home.profile.social -}}
-            {{- partial "plugin/social.html" . -}}
-        {{- end -}}
-    </div>
+    <p class="home-description">
+      {{ .Site.Params.home.profile.subtitle }}
+    </p>
 </div>

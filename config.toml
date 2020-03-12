@@ -12,7 +12,7 @@ theme = "LoveIt"
 # Author Info
 [author]
   name = "Rex Walters"
-  link = "https://www.linkedin.com/in/rexrwalters"
+  link = ""
 
 
 [params]
@@ -41,7 +41,7 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "/img/rex-hs-small.jpg"
       # subtitle shown in home page
-      subtitle = "Learning, making, playing"
+      subtitle = "Rex's tips: Learning, making, and just goofing around"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
