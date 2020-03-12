@@ -1,0 +1,34 @@
+{{- $scratch := .Scratch.Get "scratch" -}}
+
+<div class="home-profile">
+    <h3>TEST TEST TEST</h3>
+    {{- $avatar := .Site.Params.home.profile.avatarURL -}}
+    {{- with .Site.Params.home.profile.gravatarEmail -}}
+        {{- $avatar = md5 . | printf "https://www.gravatar.com/avatar/%s?s=240&d=mp" -}}
+    {{- end -}}
+    {{- with $avatar -}}
+        <div class="home-avatar">
+            <a href="/posts">
+                {{- partial "plugin/image.html" (dict "src_s" . "title" "avatar" "description" (T "home") "scratch" $scratch) -}}
+            </a>
+        </div>
+    {{- end -}}
+
+    {{- with .Site.Params.home.profile.subtitle -}}
+        <h2 class="home-description">
+            {{- if $.Site.Params.home.profile.typeit -}}
+                {{- $id := partial "function/id.html" (dict "content" . "scratch" $scratch) -}}
+                <div id="{{ $id }}" class="typeit"></div>
+                {{- $scratch.SetInMap "typeitMap" $id (slice $id) -}}
+            {{- else -}}
+                {{- . -}}
+            {{- end -}}
+        </h2>
+    {{- end -}}
+
+    <div class="home-social-links">
+        {{- if .Site.Params.home.profile.social -}}
+            {{- partial "plugin/social.html" . -}}
+        {{- end -}}
+    </div>
+</div>
