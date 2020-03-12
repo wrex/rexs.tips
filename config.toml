@@ -56,10 +56,6 @@ theme = "LoveIt"
       # Disqus shortname to use Disqus in posts
       shortname = "rexstips"
 
-
-[params.cdn]
-  fontAwesomeFreeCSS = "https://kit.fontawesome.com/fe402a6cf8.js"
-
 [menu]
   [[menu.main]]
     identifier = "all"
