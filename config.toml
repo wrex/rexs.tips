@@ -9,6 +9,12 @@ defaultContentLanguage = "en"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
+# Author Info
+[author]
+  name = "Rex Walters"
+  link = "https://www.linkedin.com/in/rexrwalters"
+
+
 [params]
   # LoveIt theme version
   version = "0.1.X"
