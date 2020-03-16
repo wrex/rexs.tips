@@ -1,20 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
 
-/**Footer**/
 .copyright {
-  font-size: .6rem;
-}
-
-.single .content h2 > .header-mark::before {
-  content: "|";
+  font-size: 0.6rem;
+  color: red;
 }
 
 .section-header {
   background-color: #ddd;
-
 }
 
 .section-header img {
   width: 100%;
   opacity: 0.3;
+}
+
+.single .content blockquote {
+margin: 2em 0;
+}
+
+.single .content blockquote::after {
+content: "";
+}
+
+.single .content h2 > .header-mark::before {
+  content: "|";
 }
