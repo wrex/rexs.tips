@@ -1,6 +1,9 @@
 {{- define "content" -}}
     <div class="page home">
-      <h3>Latest guitar posts:</h3>
+      <figure class="section-header">
+        <img src="/img/guitars2.jpg" alt="image of guitars">
+        <figcaption>Guitar posts:</figcaption> 
+      </figure>
       {{ $paginator := .Paginate (where .Site.RegularPages "Section" "guitar") }}
       {{- range  $paginator.Pages -}}
           {{- .Render "summary" -}}

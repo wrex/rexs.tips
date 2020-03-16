@@ -8,3 +8,13 @@
 .single .content h2 > .header-mark::before {
   content: "|";
 }
+
+.section-header {
+  background-color: #ddd;
+
+}
+
+.section-header img {
+  width: 100%;
+  opacity: 0.3;
+}
