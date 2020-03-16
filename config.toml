@@ -37,15 +37,15 @@ theme = "LoveIt"
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "rex.home@gmail.com"
+      gravatarEmail = ""
       # URL of avatar shown in home page
       avatarURL = "/img/rex-hs-small.jpg"
       # subtitle shown in home page
-      subtitle = "Rex's tips: Learning, making, and just goofing around"
+      subtitle = "Learning, making, and just goofing around"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
-      social = true
+      social = false
 
   [params.comment]
     enable = true
