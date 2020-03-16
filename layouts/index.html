@@ -19,7 +19,7 @@
             {{- else -}}
                 {{- $paginator = $.Paginate $paginator -}}
             {{- end -}}
-            <h3>Site news:</h3>
+            <h3>Latest site news:</h3>
             {{- range $paginator.Pages -}}
                 {{- .Render "summary" -}}
             {{- end -}}
