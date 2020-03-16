@@ -9,8 +9,8 @@ description: ""
 license: ""
 
 tags: ["machines","metalworking"]
-categories: ["shop"]
-hiddenFromHomePage: true
+categories: ["workshop"]
+hiddenFromHomePage: false
 
 featuredImage: ""
 featuredImagePreview: ""

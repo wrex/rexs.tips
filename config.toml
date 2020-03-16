@@ -72,10 +72,10 @@ theme = "LoveIt"
     title = "Guitar related topics"
     weight = 2
   [[menu.main]]
-    identifier = "shop"
-    pre = '<i class="far fa-hammer"></i>&nbsp;'
-    name = "Shop"
-    url = "/categories/shop/"
+    identifier = "workshop"
+    pre = ''
+    name = "Workshop"
+    url = "/workshop/"
     title = "Shop stuff (metal/woodworking)"
     weight = 3
   [[menu.main]]
