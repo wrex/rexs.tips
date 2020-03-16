@@ -58,17 +58,10 @@ theme = "LoveIt"
 
 [menu]
   [[menu.main]]
-    identifier = "all"
-    pre = ''
-    name = "All"
-    url = "/categories/"
-    title = "All posts in any category"
-    weight = 1
-  [[menu.main]]
     identifier = "guitar"
     pre = ""
     name = "Guitar"
-    url = "/categories/guitar/"
+    url = "/guitar/"
     title = "Guitar related topics"
     weight = 2
   [[menu.main]]
@@ -82,7 +75,7 @@ theme = "LoveIt"
     identifier = "other"
     pre = ''
     name = "Other"
-    url = "/categories/other/"
+    url = "/other/"
     title = "Other categories"
     weight = 4
   [[menu.main]]

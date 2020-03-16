@@ -1,0 +1,10 @@
+{{- define "content" -}}
+    <div class="page home">
+            {{- /* Paginate */ -}}
+            <h3>Site news:</h3>
+            {{- range where .Site.RegularPages "Section" "guitar" -}}
+                {{- .Render "summary" -}}
+            {{- end -}}
+            {{- partial "paginator.html" . -}}
+    </div>
+{{- end -}}

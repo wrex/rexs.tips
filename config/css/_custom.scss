@@ -4,3 +4,7 @@
 .copyright {
   font-size: .6rem;
 }
+
+.single .content h2 > .header-mark::before {
+  content: "|";
+}
