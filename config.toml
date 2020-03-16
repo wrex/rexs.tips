@@ -59,14 +59,14 @@ theme = "LoveIt"
 [menu]
   [[menu.main]]
     identifier = "all"
-    pre = '<i class="fal fa-globe"></i>&nbsp;'
+    pre = ''
     name = "All"
-    url = "/posts/"
+    url = "/categories/"
     title = "All posts in any category"
     weight = 1
   [[menu.main]]
     identifier = "guitar"
-    pre = "<i class='fal fa-guitars'></i>&nbsp;"
+    pre = ""
     name = "Guitar"
     url = "/categories/guitar/"
     title = "Guitar related topics"
@@ -80,14 +80,14 @@ theme = "LoveIt"
     weight = 3
   [[menu.main]]
     identifier = "other"
-    pre = '<i class="fal fa-ellipsis-h-alt"></i>&nbsp;'
+    pre = ''
     name = "Other"
     url = "/categories/other/"
     title = "Other categories"
     weight = 4
   [[menu.main]]
     identifier = "tags"
-    pre = '<i class="fal fa-tags"></i>'
+    pre = ''
     name = "Tags"
     url = "/tags/"
     title = "All posts sorted by tag"
