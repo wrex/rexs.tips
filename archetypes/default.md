@@ -10,7 +10,7 @@ license: ""
 
 tags: []
 categories: []
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
 featuredImage: ""
 featuredImagePreview: ""
