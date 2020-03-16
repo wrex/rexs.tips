@@ -8,7 +8,7 @@
         {{- /* Posts */ -}}
         {{- if ne .Site.Params.home.posts.enable false -}}
             {{- /* Paginate */ -}}
-            {{- $paginator := where .Site.RegularPages "Type" "posts" -}}
+            {{- $paginator :=  .Site.RegularPages -}}
             {{- if ne .Site.Params.home.posts.mode.defaultHiddenFromHomePage false -}}
                 {{- $paginator = where $paginator "Params.hiddenfromhomepage" "!=" true -}}
             {{- else -}}

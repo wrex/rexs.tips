@@ -10,7 +10,7 @@ license: ""
 
 tags: ["machines","metalworking"]
 categories: ["workshop"]
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
 featuredImage: ""
 featuredImagePreview: ""
