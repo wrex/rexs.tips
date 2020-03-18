@@ -27,12 +27,12 @@ comment: true
 
 This is part 2 of a two part series about learning the notes on the fretboard.
 
-Unlike the previous post, we are now going to get our hands and muscle memory going &mdash; enough theory!
+Unlike the [previous post]({{< ref "/guitar/2019-02-11-just-12-notes.md" >}}), we are now going to get our hands and muscle memory going &mdash; enough theory!
 <!--more-->
 
 ## The end goal
 
-Try not to be intimidated, but here is what we are eventually going to learn (this diagram is just for the first 15 frets, but you will learn your entire fretboard). You'll eventually be able to find and name every single note in this diagram *effortlessly*:
+Try not to be intimidated, but here is what we are eventually going to learn. You'll eventually be able to find and name every single note in this diagram *effortlessly*:
 
 <a name="Fig 1."></a>
 {{< figure src="/img/neck-diagrams/natural-notes.png" title="Fig 1. The natural notes" >}}
@@ -65,26 +65,26 @@ TODO: Replace this with video demonstration of GTD-Notes.final
 
 ## Process overview
 
-Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the ones that give you any trouble. Again, this will take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [GTD-Notes.final](#GTD-Notes.final).
+Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [GTD-Notes.final](#GTD-Notes.final).
 
-Here's the process to get to the end goal (passing [GTD-Notes.final](#GTD-Notes.final)):
+Follow this process to get to the end goal:
 
 1. Memorize the cycle of fourths.
 2. Learn the open strings and notes at the 5th and 12th frets.
 3. Learn the notes on the lowest (E) string.
 4. Learn some octave shapes to find notes.
 5. Practice on one string at a time.
-6. Practice [GTD-Notes.final](#GTD-Notes.final) at the beginning of each practice session until you have it nailed.
+6. Practice [GTD-Notes.final](#GTD-Notes.final) at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
 
-Spend as much time as you need on each of these subsections. The first few will only take a few minutes to master, but other steps may take days, weeks, or even months. Take your time. Thorough and confident beats quick and sketchy every day.
+Spend as much time as you need on each of these steps. The first few will only take a few minutes to master, but other steps may take days, weeks, or even months. Take your time. Thorough and confident beats quick and sketchy every day.
 
-### Memorize the cycle of fourths
+### 1. The cycle of fourths
 
 As described in the previous post, an interval of a perfect fourth (P4) is five frets, or five half steps. If you start on the note C, going up a perfect fourth arrives at the note F, for example.
 
 Fourths are extremely common in music, however, especially in chord progressions. It's way, *way*, **way** to much effort to figure out this every time. Instead, it's well worth your time to simply use rote memorization to remember the sequence.
 
-First remember the word "bead" and how to spell it.
+First, remember the word "bead" and how to spell it.
 
 Now regress to middle school and remember the acronym for "greatest common factor", GCF.
 
@@ -115,24 +115,24 @@ Pass criteria:
 
 <a name="GTD-Notes.fifths"></a>
 {{< admonition type="success" title="GTD-Notes.fifths" details=true >}}
-This one is also really easy.
+This one is also pretty easy, but trickier than fourths.
 
 Instead of going clockwise around the clock, we are going to practice moving in fifths by moving *counter*-clockwise.
 
-Practice saying the full 12 note cycle of fifths *out loud* a few times, starting at F : B E A D G C F B&flat; E&flat; A&flat; D&flat; G&flat;. Keep looping around from G&flat; to B and continue the cycle.
+Practice saying the full 12 note cycle of fifths *out loud* a few times, starting at F: F G C D A E B G&flat; D&flat; A&flat; E&flat; B&flat;. Keep looping around from B&flat; to F and continue the cycle.
 
-Once you are bored with that practice starting on different notes within the sequence and continuing around the "clock" (without looking at the image above of course!). Starting at F, for example, say *out loud* "F B&flat; E&flat; A&flat; ...."
+Once you are bored with that practice starting on different notes within the sequence and continuing backward around the "clock" (without looking at the image above of course!). Starting at C, for example, say *out loud* "D A E B G&flat; D&flat; ...."
 
 Pass criteria:
 
 1. You can answer any of the following *effortlessly*:
-* What's after D?
-* What's after A&flat?
+* What's before D on the "clock"?
+* What's before A&flat; on the "clock"?
 
-2. You can start on any of the 12 notes and effortlessly recite the cycle of fourths starting on that note.
+2. You can start on any of the 12 notes and effortlessly recite the cycle of fifths starting on that note.
 {{< /admonition >}}
 
-### Open string notes
+### 2. Open string notes
 
 From lowest (thickest) string to highest (thinnest) the guitar is normally tuned to the notes E, A, D, G, B, and E. From the previous section, you should realize that each string is tuned a fourth higher than the last.
 
@@ -152,12 +152,29 @@ I'm not creating any tests for these, since it should only take a few minutes to
 
 Please don't continue until you are 100% confident you **KNOW** these notes, however.
 
-### Notes on the sixth string
+### 3. Notes on the sixth string
 
-We learned in the last post that the major scale comprises the intervals whole-step, whole-step, half-step, whole-step, whole-step, whole-step, half-step.
+We learned in [the last post]({{< ref "/guitar/2019-02-11-just-12-notes.md" >}}) that the major scale comprises the intervals whole-step, whole-step, half-step, whole-step, whole-step, whole-step, half-step.
 
 In other words, there is a whole step (two frets) between any two natural notes except E/F and B/C.
 
 Since the open sixth string is the note E, this leads directly to this diagram:
 
 {{< figure src="/img/neck-diagrams/e6-string.png" caption="Notes on the E string"  >}}
+
+Spend a few minutes just saying each natural note name out loud as you play each note, ascending up and descending down the frets. Try to do be "mindful" as you don this. The goal is to connect the note names with the fret locations in your brain and muscle memory.
+
+Once you are comfortable just moving up and down the scale linearly, try the following GTD test:
+
+<a name="GTD-Notes.estring"></a>
+{{< admonition type="success" title="GTD-Notes.estring" details=true >}}
+Work through the cycle of fourths, finding and playing each note on the sixth string. For the note E, you can either play the open string or at the 12th fret. First play B, then E, then A, etc.
+
+First practice this rubato (out of time &mdash; don't worry about a metronome). Just take your time and try to ensure you are playing the correct note each time.
+
+When you are comfortable with that, set your metronome to 60 BPM, and practice finding the notes of the cycle *in time* by playing half notes (two clicks per note).
+
+Pass criteria: You can play the entire 12 note cycle of fourths in time on the E string without making any mistakes.
+
+Extra credit: Repeat the exercise using the cycle of *fifths*.
+{{< admonition >}}
