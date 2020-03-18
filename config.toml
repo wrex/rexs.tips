@@ -14,6 +14,8 @@ theme = "LoveIt"
   name = "Rex Walters"
   link = ""
 
+[markup.goldmark.renderer]
+  unsafe= true
 
 [params]
   # LoveIt theme version
