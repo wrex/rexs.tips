@@ -28,3 +28,8 @@ content: "";
 .single .content h2 > .header-mark::before {
   content: "|";
 }
+
+.single .post-meta {
+  color: #ccc;
+  margin-bottom: 2rem;
+}
