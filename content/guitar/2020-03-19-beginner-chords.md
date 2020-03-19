@@ -55,7 +55,7 @@ Finally, repeat the chords in alphabetic order (it won't sound very musical): A,
 Pass criteria: You can play all three chord progressions (fourths, fifths, alphabetic) cleanly and in time at 60 BPM with chord changes every whole note.
 {{< /admonition >}}
 
-TODO: add youtube video demonstration
+{{< youtube yGAtYO0VMsA  >}}
 
 The goal is to become proficient playing at least one shape of every major chord in open position (ignoring roots with flats and sharps).
 
