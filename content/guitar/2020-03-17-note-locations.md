@@ -45,8 +45,8 @@ Always tune your guitar at the beginning of **every** practice session. You are 
 
 I'm going to use this as my first trial run of "Test Driven Guitar" and work backward from the end goal. Here's the final test that we are working toward. If you can't pass this test right now, you can't say you **KNOW** the notes on the fretboard:
 
-<a name="GTD-Notes.final"></a>
-{{< admonition type="success" title="GTD-Notes.final" details=true >}}
+<a name="TDG001"></a>
+{{< admonition type="success" title="TDG001 Fretboard Notes" details=true >}}
 1. Set a metronome to 60 BPM. We will be playing half notes (two clicks per note).
 
 2. Progress through the entire circle of fourths, finding and playing each note on the first 12 frets.
@@ -63,7 +63,7 @@ Pass criteria: Successfully work through all 12 notes while keeping time and wit
 
 ## The Process
 
-Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [GTD-Notes.final](#GTD-Notes.final).
+Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [TDG001](#TDG001).
 
 Follow this process to get to the end goal:
 
@@ -72,7 +72,7 @@ Follow this process to get to the end goal:
 3. Learn the notes on the lowest (E) string.
 4. Learn some octave shapes to find notes.
 5. Practice on one string at a time.
-6. Practice [GTD-Notes.final](#GTD-Notes.final) at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
+6. Practice [TDG001](#TDG001) at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
 
 Spend as much time as you need on each of these steps. The first few will only take a few minutes to master, but other steps may take days, weeks, or even months. Take your time. Thorough and confident beats quick and sketchy every day.
 
@@ -141,7 +141,7 @@ Practice plucking random open strings and saying the note name *out loud* for a 
 
 Now fret the strings at the 12th fret and prove to yourself that the notes sound the same, only one octave higher. The thickest string played at the 12th fret is still an E, just one octave higher (the string vibrates at twice the frequency).
 
-Finally, look at [figure 1](#figure-1) again, focusing specifically on the fight fret. Notice that the sixth string at the fifth fret is the note A, the same note as the open fifth string. Same with the D a the 5th fret of the fifth string.
+Finally, look at [figure 1](#figure-1) again, focusing specifically on the fifth fret. Notice that the sixth string at the fifth fret is the note A, the same note as the open fifth string. Same with the D a the 5th fret of the fifth string.
 
 It holds for all the strings except for the third and second string. Again, standard tuning makes everything shift by a fret when moving between the second and third strings.
 
@@ -194,7 +194,7 @@ It should be obvious if you think about it, but the note C exists in only one lo
 
 We already know how to find the C's by counting up or down from notes we already know on the same string, but there's another way: using shapes/patterns that go across strings.
 
-### Octave shape 1
+### 4.1. Octave shape 1
 
 Here's our first **octave shape**:
 
@@ -228,4 +228,56 @@ If you place your first finger on any note on the fifth or sixth strings, the sa
 
 So we can use octave 1a to find notes on the 3rd and 4th strings. Just two more strings to go!
 
-### Octave shape 2
+### 4.2. Octave shape 2
+
+The next octave shape skips two strings, not just one:
+
+{{< figure src="/img/neck-diagrams/octave-shape-2.png" title="Octave shape 2" >}}
+
+Starting from the C at fret 8 on the low E string, we can find another C going over three strings higher and then *down* three frets. Again, this works in both directions. If, for example, you **KNOW** a note on the G string, you can find the same note on the low E string by moving up three frets higher.
+
+The "2a" shapes are shown in grey this time. Because we are skipping two strings in this shape, there are two "2a" shapes and only one "2" shape.
+
+Again, whenever you cross the boundary between the 2nd and 3rd strings, you need to adjust by one fret. If you're going up the strings (toward the thinner strings) you raise the higher note. So moving from the C at the 3rd fret of the A string, you only go down two frets and find the C on the 1st fret of the B string.
+
+Going the other way from the C on the 8th fret of the high E, you find C on the D string at the 10th fret (going *up* two frets).
+
+Most of the time when playing live, your natural inclination is to move your hand up the neck to play higher and down the neck to play lower. It's thus more common to use octave shapes 1 most of the time. When you "run out of neck," though, it can be useful to continue ascending or descending by skipping another string.
+
+Practice finding notes on different strings using these four octave shapes. Be sure to use the shapes in both directions (moving from a lower note to a higher, and vice versa).
+
+### 5. One string at a time
+
+Now that you know the octave shapes you can use them as a temporary crutch for learning the notes on other strings.
+
+Let's tackle the D string next. Refer back to [figure 1](#figure-1) if necessary. You already **KNOW** that the open string is D, the 5th fret is G, and the 12th fret is another D.
+
+If the open string is D, then E must be at the second fret, and F at the third fret. If G is at the fifth fret, then A is at the seventh, B at the ninth, and C at the tenth.
+
+Practice playing the natural notes just going up and down from the lower D on the open string to the higher D at the 12th fret. As always, say the note names **out loud**.
+
+Once you can easily ascend and descend alphabetically through the natural notes, try to mix it up by going in fourths: first play B, then E, then A, etc.
+
+You'll probably find that you need to use octave shape 1 as a reminder occasionally. Remember that this is just a crutch, though. Eventually you want to associate each note name with a string/fret location directly. Even one or two **KNOWN** "landmarks" can help tremendously when navigating.
+
+Once you think you've got it down, test yourself with a metronome (half notes at 60 BPM). You don't know 'em as well as you thought you did, do you? (laugh)
+
+Once you've got the D string licked, move on to other strings the same way.
+
+You'll need to learn the low E and low A strings by rote, but you can use the octave shapes to help you on the other strings.
+
+### 6. Putting it all together
+
+Once you can play the cycle of fourths on each string individually, it's time to start practicing [TDG001](#TDG001) for in it's entirety.
+
+Now, you'll be finding each note on **all** of the strings at once. You'll find this quite challenging at first.
+
+I *strongly* recommend you practice this without a metronome for the first several days. Build up good landmarks in your brain before trying to play in time: the metronome is a harsh taskmaster!
+
+When you're ready though, set the metronome to a nice s-l-o-w tempo and try playing whole notes at first. Then half notes. For a real challenge, try playing quarter notes at a quick tempo (say 100 BPM).
+
+This is one of those drills that you may never truly master, but if you can perform it with half notes at 60 BPM you know the fretboard better than 99% of the guitarists I know.
+
+It's an excellent warm up exercise, and I still perform it at the beginning of all my practice sessions. It only takes a minute or two.
+
+Enjoy!
