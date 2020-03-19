@@ -2,7 +2,6 @@
     <div class="page home">
       <figure class="section-header">
         <img src="/img/guitars2.jpg" alt="image of guitars">
-        <figcaption>Guitar posts:</figcaption> 
       </figure>
       {{ $paginator := .Paginate (where .Site.RegularPages "Section" "guitar") }}
       {{- range  $paginator.Pages -}}
