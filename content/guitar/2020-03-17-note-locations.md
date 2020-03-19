@@ -34,8 +34,8 @@ Unlike the [previous post]({{< ref "/guitar/2019-02-11-just-12-notes.md" >}}), w
 
 Try not to be intimidated, but here is what we are eventually going to learn. You'll eventually be able to find and name every single note in this diagram *effortlessly*:
 
-<a name="Fig 1."></a>
-{{< figure src="/img/neck-diagrams/natural-notes.png" title="Fig 1. The natural notes" >}}
+<a name="figure-1"></a>
+{{< figure src="/img/neck-diagrams/natural-notes.png" title="Fig. 1: The natural notes" >}}
 
 I'm not going to kid you, it's *hard* to really **KNOW** all those notes. It will take weeks or months of real practice, but *everything* gets easier once you've learned the note locations. It's progressive, too: the better you know the notes the easier things get, but even if you can only find a few notes (say those on just the E strings) you'll still find it amazingly helpful.
 
@@ -59,11 +59,9 @@ Pass criteria: Successfully work through all 12 notes while keeping time and wit
 
 {{< /admonition >}}
 
-{{< style "background-color: #eee; text-align: center;" >}}
-TODO: Replace this with video demonstration of GTD-Notes.final
-{{< /style >}}
+{{< youtube 8Iz3sAvcZrM  >}}
 
-## Process overview
+## The Process
 
 Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [GTD-Notes.final](#GTD-Notes.final).
 
@@ -94,7 +92,8 @@ That's just seven notes, though. The complete cycle of fourths includes flatted 
 
 For reasons I won't go into now, it's good to visualize this sequence as the numbers on a clock face. Start with the B at the 7 o\'clock position, and the C at the top. Like this:
 
-{{< figure src="/img/fourths-clock.png" caption="Cycle of Fourths Clock" width="33%" >}}
+<a name="figure-2"></a>
+{{< figure src="/img/fourths-clock.png" caption="Fig. 2: Cycle of Fourths Clock" width="33%" >}}
 
 <a name="GTD-Notes.fourths"></a>
 {{< admonition type="success" title="GTD-Notes.fourths" details=true >}}
@@ -142,7 +141,7 @@ Practice plucking random open strings and saying the note name *out loud* for a 
 
 Now fret the strings at the 12th fret and prove to yourself that the notes sound the same, only one octave higher. The thickest string played at the 12th fret is still an E, just one octave higher (the string vibrates at twice the frequency).
 
-Finally, look at [figure 1](#fig-1) again, focusing specifically on the fight fret. Notice that the sixth string at the fifth fret is the note A, the same note as the open fifth string. Same with the D a the 5th fret of the fifth string.
+Finally, look at [figure 1](#figure-1) again, focusing specifically on the fight fret. Notice that the sixth string at the fifth fret is the note A, the same note as the open fifth string. Same with the D a the 5th fret of the fifth string.
 
 It holds for all the strings except for the third and second string. Again, standard tuning makes everything shift by a fret when moving between the second and third strings.
 
@@ -160,7 +159,8 @@ In other words, there is a whole step (two frets) between any two natural notes 
 
 Since the open sixth string is the note E, this leads directly to this diagram:
 
-{{< figure src="/img/neck-diagrams/e6-string.png" caption="Notes on the E string"  >}}
+<a name="figure-3"></a>
+{{< figure src="/img/neck-diagrams/e6-string.png" caption="Fig. 3: Notes on the E string"  >}}
 
 Spend a few minutes just saying each natural note name out loud as you play each note, ascending up and descending down the frets. Try to do be "mindful" as you don this. The goal is to connect the note names with the fret locations in your brain and muscle memory.
 
@@ -177,4 +177,55 @@ When you are comfortable with that, set your metronome to 60 BPM, and practice f
 Pass criteria: You can play the entire 12 note cycle of fourths in time on the E string without making any mistakes.
 
 Extra credit: Repeat the exercise using the cycle of *fifths*.
-{{< admonition >}}
+{{< /admonition >}}
+
+Note that the notes on the high E string are exactly the same (of course) as the ones on the low E string. Once you **KNOW** the open strings and the E string notes, you've got over half of the fretboard covered!
+
+### 4. Octave shapes
+
+We are now going to learn a trick for finding notes from locations we already know. The shapes used for this trick are extremely useful and you'll use them forever, but please understand that you don't really **KNOW** the fretboard until you no longer need to rely on this trick. It is just a temporary crutch to assist you as you progress.
+
+Let's channel our inner Marie Kondo and de-clutter [figure 1](#figure-1) a bit. The root or tonic of the C Major scale brings *me* joy, so let's focus on that note first:
+
+<a name="figure-4"></a>
+{{< figure src="/img/neck-diagrams/c-notes.png" title="Fig. 4: C Everywhere on the Fretboard" >}}
+
+It should be obvious if you think about it, but the note C exists in only one location on each string between frets 1 and 12.
+
+We already know how to find the C's by counting up or down from notes we already know on the same string, but there's another way: using shapes/patterns that go across strings.
+
+### Octave shape 1
+
+Here's our first **octave shape**:
+
+<a name="figure-5"></a>
+{{< figure src="/img/neck-diagrams/octave-shape-1.png" title="Fig. 5: Octave shape 1" >}}
+
+If we already **KNOW** a note on string 6, we can find the same note on string 4 with a little zig-zag: two strings higher and two frets higher. The C at fret 8 on the the E string leads us to the C at the 10th fret of the D string.
+
+The same thing works on the 5th string (the grey notes): We **KNOW** that C is on the 3rd fret of the A string, so we can navigate (dead reckon) to the C at the 5th fret of the G string. (Of course, you should already **KNOW** that note since it's on the fifth fret, but it's nice to have confirmation.)
+
+What about the higher strings? Let's look at the octave shapes between the G and high-E strings, and between the D and B strings.
+
+<a name="figure-6"></a>
+{{< figure src="/img/neck-diagrams/octave-shape-1a.png" title="Fig. 6: Octave shape 1a" >}}
+
+At first glance, this shape may look different than the previous one, but it's important to realize that they are the same shape, even though there's an additional fret between the notes.
+
+Because of the tuning anomaly between the G and B strings, we have to move up an extra fret whenever a shape spans the gap between those strings. When navigating from the C at the 5th fret of the G string, we find the C on the 1st string up *three* frets, not two, on the 8th fret.
+
+Same thing with the C at the 10th fret of the D string. The C on the B string is two strings, and *three* frets higher at fret 13 on the B string.
+
+Two very important points about this first octave shape:
+
+* It works, of course, for *any* note, not just C. Look again at the diagram with all the natural notes: any given note exists two strings higher, and two or three frets higher depending on whether it crosses the G-B string boundary.
+
+* It also, of course, works in *both* directions. If you **KNOW** a note on a higher string, you can find the same note two strings and two or three frets *lower*.
+
+This first octave shape is particularly advantageous if you follow the recommended "one finger per fret" technique. If you put your pinky finger on any note on the high E string, you can find the same note on the G string under your first finger (or vice versa).
+
+If you place your first finger on any note on the fifth or sixth strings, the same note can be found under your third finger two frets higher (or vice versa). Same thing in reverse for notes on the 1sth string, only now with your pinky on the first string the same note is under your index finger two strings lower.
+
+So we can use octave 1a to find notes on the 3rd and 4th strings. Just two more strings to go!
+
+### Octave shape 2
