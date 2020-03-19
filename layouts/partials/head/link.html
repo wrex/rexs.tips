@@ -9,9 +9,6 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
- <!--load FontAwesome Full -->
-<link href="/css/fa-full.min.css" rel="stylesheet">
-
 {{- if .PrevInSection -}}
     <link rel="prev" href="{{ .PrevInSection.Permalink }}" />
 {{- end -}}
@@ -24,14 +21,8 @@
     <link rel="feed" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ $.Site.Title }}">
 {{- end -}}
 
-{{- /* Animate.css */ -}}
-{{- with $CDN.animateCSS -}}
-    {{- . | safeHTML -}}
-{{- else -}}
-    {{- $res := resources.Get "lib/fontawesome-free/all.min.css" -}}
-    {{- $stylesheet := dict "resource" $res "fingerprint" ($scratch.Get "fingerprint") -}}
-    {{- partial "plugin/stylesheet.html" $stylesheet -}}
-{{- end -}}
+<!--load FontAwesome Full -->
+<link href="/css/fa-full.min.css" rel="stylesheet">
 
 {{- /* style.min.css */ -}}
 {{- $res := resources.Get "css/style.template.scss" -}}
