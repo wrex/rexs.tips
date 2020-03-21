@@ -79,21 +79,37 @@ My brain struggled with five CAGED shapes. It became *much* easier when I reduce
 
 {{< figure src="/img/neck-diagrams/barre-triads.png" caption="Rex's CAGED: Three Triads" >}}
 
-The triad "kernels" of Rex's CAGED are shown as solid dots. Note how the root is **always in the middle** of those adjacent three note shapes (the roots are shown in red). If you know [where the notes are on the fretboard]({{< ref "/guitar/2020-03-17-note-locations.md" >}}) you'll find it easy to form any major chord all over the fretboard just using these three shapes.
+The triad "kernels" of Rex's CAGED are shown with filled-in circles. Note how the root is **always in the middle** of each triad shape (the roots are shown in red). If you know [where the notes are on the fretboard]({{< ref "/guitar/2020-03-17-note-locations.md" >}}) you'll find it easy to form any major chord all over the fretboard just using these three shapes.
 
-Other locations for the roots outside of the triad kernels are shown as hollow circles. You can find these with simple octave shapes. **You don't need to think about these alternate root locations** &mdash; the solid triad shapes are all you need to "see" in your mind's eye. Once you see the triad shape, navigating to the alternate root locations is easy.
+In addition to the solid root note in the middle of each triad, two alternative locations for the root on different strings are also shown. You can find these alternate root locations with simple octave shapes.
 
-Note how the CAGED A shape barré chord uses the root on the 5th string, but the G shape barré chord uses the root on the 1st (and/or 6th) string. Similarly, the CAGED C shape uses the root on the 5th string, but the D shape uses the root on the 4th string.
+**You don't need to think about these alternate root locations** &mdash; the solid triad shapes are all you need to "see" in your mind's eye. Once you see the triad shape, navigating to the alternate root locations is easy. *Focus primarily on the root note in the center of each triad.*
 
-The value of "Rex's CAGED" to me is that I only need to **KNOW** three things rather than five. It's also trivial to **KNOW** where the roots are in each shape (always in the middle!). This in turn makes it much easier to navigate around the fretboard and find chords anywhere, since I know where the notes are on the fretboard. You have learned your [note locations]({{< ref "/2020-03-17-note-locations" >}}) haven't you?
+The regular CAGED system wants you to think about, say, D Major as an A shape barré chord with the root on the 5th fret of the 5th string, or a G shape barré chord with the root on the 10th fret. To me, they both "hang off of" the D triad at the 7th fret.
 
-A word about fretting the CAGED shapes: almost nobody can actually play the full D or G shapes in CAGED, the fingerings are just too tricky.
+Similarly, the CAGED C shape D Major chord (what a mouthful!) uses the root on the 5th string, but the D shape D major uses the root on the open 4th string. To my mind, they are both the same thing: D Major with the root on the 3rd fret.
 
-In practice, most people play the D shape by leaving out the highest note and just playing it as a three note power chord on the inner strings: the root on the 4th string, fifth on the 3rd, and a second root on the 2nd string.
+The value of "Rex's CAGED" to me is:
+
+* I only need to **KNOW** three things rather than five.
+
+* It's trivial to **KNOW** where the roots are in each shape (always in the middle!).
+
+* **KNOWING** where the root is lets me find major chords anywhere. You have learned your [note locations]({{< ref "/2020-03-17-note-locations" >}}) haven't you?
+
+* **Most important of all**: I no longer think about shapes and shape names at all. With the fret locations shown in the diagram above, I'd just call those chords F&sharp;, B, and E. If I wanted to highlight the fingering, I'd think/say "F&sharp; with 6th string root," "B with 5th string root," and "E with 2nd string root" (or possibly highlighting roots on different strings depending on context).
+
+With regular CAGED, I **hated** saying or thinking things like: "I'm playing an E shape B Major chord." Wait, is it an E or a B? *Way* too confusing.
+{{< /admonition >}}
+
+One thing to note about fretting CAGED chords: almost nobody can actually play the full D or G shapes &mdash; the fingerings are just too tricky.
+
+In practice, most people play the D shape by leaving out the highest note and just playing a three note power chord on the inner strings: the root on the 4th string, fifth on the 3rd, and a second root on the 2nd string.
 
 The G shape is either played on the lowest 5 strings or on the top 4 strings, muting the unplayed notes.
 
-It's rarely necessary to play more than three or four strings at a time. You may have noticed that the dreaded F chord you learned in open position is really an abbreviated version of the E shape barré chord. It's quite common to only play the top or inner three or four strings with any of these shapes. Playing fewer strings is certainly less tiring!
+Again, though, why think about shapes at all? I think it's less confusing to only thing about chords (triads) and name things based on the note name of the root. If I need to get specific about the fingering, usually all I need to add is the fret location (the listener can figure out which string has the root at that fret!).
 
-Please let me know if you find this as useful as I did.
-{{< /admonition >}}
+Lastly, note that it's rarely necessary to play more than three or four strings at a time. You may have noticed that the dreaded F chord you learned in open position is really an abbreviated version of the full 6-string E shape barré chord. It's quite common to only play the top three or four strings, or inner three or four strings with any of these shapes. Playing fewer strings is certainly less tiring, and you can pick and choose whether to emphasize lower or higher pitched notes.
+
+Please let me know if you find this way of thinking about CAGED and barré chords useful.
