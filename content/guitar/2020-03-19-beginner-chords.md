@@ -8,7 +8,7 @@ authorLink: ""
 description: ""
 license: ""
 
-tags: ["beginner", "TDG", "practice"]
+tags: ["beginner", "TDG", "practice", "chords"]
 categories: ["guitar"]
 hiddenFromHomePage: true
 
