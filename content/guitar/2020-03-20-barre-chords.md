@@ -53,19 +53,19 @@ As usual, let's start with a TDG test to verify if you **KNOW** them already:
 {{< admonition type="success" title="TDG003 Major Barré chords" details=true >}}
 There are several parts to this test. **Use a metronome** to keep yourself from cheating. You should be able to complete all of these exercises cleanly and precisely at a nice slow tempo, like half notes at 60 BPM.
 
-1. Work through the entire cycle of fourths using just the E shaped barré chord.
+1. Work through the entire cycle of fourths using just the E shaped barré chord. Perform one cycle with the full 6-string shape, visualizing the root on the 6th string. Repeat with an abbreviated shape on the top 4 strings (the "F" shape), visualizing the root on the 4th string.
 
-2. Repeat the exercise using the A shaped barré chord.
+2. Repeat the exercise using the A shaped barré chord. Again, one pass with the full 5-string shape, visualizing the root on the 5th string. Repeat using just the top four strings and thinking about the root on the 3rd string.
 
-3. Once again using the C shape.
+3. Once again using the C shape. One cycle with the 5-string shape and root on the 5th string, another on the top 4 strings thinking about the root on the 2nd string.
 
-4. Now keeping your left hand between the fifth and seventh frets, use the three barré chord shapes to play major chords in fourths (starting with B Major). That is, play B Major, E Major, A Major, ..., C Major, and finally F Major. Visualize the root moving from B on the 6th string, to E on the 5th string, all the way through to F on the 2nd string. (Note that when moving from the G on the 2nd string, the diagram chooses to move to the C on 3rd string, but we could choose the C on the 8th fret of the 1st string and the F at the 6th fret of the 2nd string).
+4. Now keeping your left hand between the fifth and seventh frets, use all three barré chord shapes to play major chords in fourths (starting with B Major). That is, play B Major, E Major, A Major, ..., C Major, and finally F Major. Visualize the root moving from B on the 6th string, to E on the 5th string, all the way through to F on the 2nd string. (Note that when moving from the G on the 2nd string, the diagram chooses to move to the C on 3rd string, but we could choose the C on the 8th fret of the 1st string and the F at the 6th fret of the 2nd string).
 
 {{< figure src="/img/neck-diagrams/root-movement.png" caption="Root Movement" attr="" width="33%" >}}
 
 Passing criteria: complete all four exercises with half notes at 60 BPM, keeping time and with every note sounding cleanly.
 
-Extra credit: Continue exercise 4 all the way through all 12 notes of the chromatic scale. Where would you find B&flat; Major after playing the F rooted on the 2nd string (there are two choices nearby)?
+Extra credit: Continue exercise 4 all the way through all 12 notes of the chromatic scale (metronome optional). Where would you find B&flat; Major after playing the F rooted on the 2nd string (there are two choices nearby)?
 {{< /admonition >}}
 
 You've probably heard of the CAGED system which teaches five movable shapes based on the cowboy chord shapes of the same name. While I don't think there is anything wrong with teaching CAGED, to my brain at least it's unnecessarily confusing. The A and G shapes are kinda the same, as are the C and D shapes. Why learn them as separate shapes?
