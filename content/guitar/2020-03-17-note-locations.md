@@ -107,7 +107,7 @@ Pass criteria:
 
 1. You can answer any of the following *effortlessly*:
 * What's after D?
-* What's after A&flat?
+* What's after A&flat;?
 
 2. You can start on any of the 12 notes and effortlessly recite the cycle of fourths starting on that note.
 {{< /admonition >}}
