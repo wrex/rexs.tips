@@ -26,6 +26,11 @@
   opacity: 1;
 }
 
+.single .content a:target {
+  padding-top: 40px;
+  margin-top: -40px;
+}
+
 .single .content blockquote {
 margin: 2em 0;
 }
