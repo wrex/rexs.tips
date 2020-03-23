@@ -45,7 +45,7 @@ Always tune your guitar at the beginning of **every** practice session. You are 
 
 I'm going to use this as my first trial run of "Test Driven Guitar" and work backward from the end goal. Here's the final test that we are working toward. If you can't pass this test right now, you can't say you **KNOW** the notes on the fretboard:
 
-<a name="TDG001"><div style="padding-top: 40px; margin-top: -40px;">&nbsp</div></a>
+<a name="TDG001">&nbsp;</a>
 {{< admonition type="success" title="TDG001 Fretboard Notes" details=true >}}
 1. Set a metronome to 60 BPM. We will be playing half notes (two clicks per note).
 
@@ -95,7 +95,7 @@ For reasons I won't go into now, it's good to visualize this sequence as the num
 <a name="figure-2"></a>
 {{< figure src="/img/fourths-clock.png" caption="Fig. 2: Cycle of Fourths Clock" width="33%" >}}
 
-<a name="TDG002"></a>
+<a name="TDG002">&nbsp;</a>
 {{< admonition type="success" title="TDG002 • Reciting notes in fourths" details=true >}}
 This one is really simple.
 
@@ -112,7 +112,7 @@ Pass criteria:
 2. You can start on any of the 12 notes and effortlessly recite the cycle of fourths starting on that note.
 {{< /admonition >}}
 
-<a name="TDG003"></a>
+<a name="TDG003">&nbsp;</a>
 {{< admonition type="success" title="TDG003 • Reciting notes in fifths" details=true >}}
 This one is also pretty easy, but trickier than fourths.
 
@@ -166,7 +166,7 @@ Spend a few minutes just saying each natural note name out loud as you play each
 
 Once you are comfortable just moving up and down the scale linearly, try the following GTD test:
 
-<a name="TDG004"></a>
+<a name="TDG004">&nbsp;</a>
 {{< admonition type="success" title="TDG004 • Notes on E string" details=true >}}
 Work through the cycle of fourths, finding and playing each note on the sixth string. For the note E, you can either play the open string or at the 12th fret. First play B, then E, then A, etc.
 
@@ -246,7 +246,7 @@ Most of the time when playing live, your natural inclination is to move your han
 
 Practice finding notes on different strings using these four octave shapes. Be sure to use the shapes in both directions (moving from a lower note to a higher, and vice versa).
 
-<a name="TDG005"></a>
+<a name="TDG005">&nbsp;</a>
 {{< admonition type="success" title="TDG005 • Octave Shapes" details=true >}}
 As usual, our proficiency pace is half notes at 60 BPM. As always, try it without a metronome first.
 
@@ -291,7 +291,7 @@ Once you've got the D string licked, move on to other strings the same way.
 
 You'll need to learn the low E and low A strings by rote, but you can use the octave shapes to help you on the other strings.
 
-<a name="TDG006"></a>
+<a name="TDG006">&nbsp;</a>
 {{< admonition type="success" title="TDG006 • Notes on individual strings" details=true >}}
 This test is just a repeat of [TDG004](#TDG004) only instead of just using the 6th string, you are now going to play the full cycle of fourths along **every* string.
 
