@@ -74,6 +74,8 @@ Passing criteria: complete all four exercises with half notes at 60 BPM, keeping
 Extra credit: Continue exercise 4 all the way through all 12 notes of the chromatic scale (metronome optional). Where would you find B&flat; Major after playing the F rooted on the 2nd string (there are two choices nearby)?
 {{< /admonition >}}
 
+TODO: Video demonstration of TDG008.
+
 You've probably heard of the CAGED system which teaches five movable shapes based on the cowboy chord shapes of the same name. While I don't think there is anything wrong with teaching CAGED, to my brain at least it's unnecessarily confusing. The A and G shapes are kinda the same, as are the C and D shapes. Why learn them as separate shapes?
 
 Worse, thinking in CAGED tends to overemphasize root notes on the 5th and 6th strings. It's **extremely** important to be able to "see" roots on any string.

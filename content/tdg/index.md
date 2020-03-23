@@ -23,3 +23,5 @@ This page serves as an index to all TDG tests. Eventually it will contain separa
 * [TDG007 • Cowboy Chords]({{< ref "/guitar/2020-03-19-beginner-chords.md#TDG007" >}})
 
 * [TDG008 • Major barre chords]({{< ref "/guitar/2020-03-20-barre-chords.md#TDG008" >}})
+
+* [TDG009 • Harmonized scales]({{< ref "/guitar/2020-03-20-minor-chords.md#TDG009" >}})

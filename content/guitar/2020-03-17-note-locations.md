@@ -112,6 +112,8 @@ Pass criteria:
 2. You can start on any of the 12 notes and effortlessly recite the cycle of fourths starting on that note.
 {{< /admonition >}}
 
+TODO: Video demonstration of TDG002.
+
 <a name="TDG003">&nbsp;</a>
 {{< admonition type="success" title="TDG003 • Reciting notes in fifths" details=true >}}
 This one is also pretty easy, but trickier than fourths.
@@ -130,6 +132,8 @@ Pass criteria:
 
 2. You can start on any of the 12 notes and effortlessly recite the cycle of fifths starting on that note.
 {{< /admonition >}}
+
+TODO: Video demonstration of TDG003.
 
 ### 2. Open string notes
 
@@ -178,6 +182,8 @@ Pass criteria: You can play the entire 12 note cycle of fourths in time on the E
 
 Extra credit: Repeat the exercise using the cycle of *fifths*.
 {{< /admonition >}}
+
+TODO: Video demonstration of TDG004.
 
 Note that the notes on the high E string are exactly the same (of course) as the ones on the low E string. Once you **KNOW** the open strings and the E string notes, you've got over half of the fretboard covered!
 
@@ -271,6 +277,8 @@ Repeat the exercise for the remaining open string (or 12th fret) notes: G, B, an
 Pass criteria: You can use octave shapes to play every open string note everywhere on the fretboard at 60 BPM with half notes.
 {{< /admonition >}}
 
+TODO: Video demonstration of TDG005.
+
 ### 5. One string at a time
 
 Now that you know the octave shapes you can use them as a temporary crutch for learning the notes on other strings.
@@ -297,6 +305,8 @@ This test is just a repeat of [TDG004](#TDG004) only instead of just using the 6
 
 Pass criteria: You can play the complete cycle of fourths on every string with half notes at 60 BPM without any hesitation or flubbed notes.
 {{< /admonition >}}
+
+TODO: Video demonstration of TDG006.
 
 ### 6. Putting it all together
 
