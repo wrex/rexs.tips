@@ -106,8 +106,8 @@ Once you are bored with that practice starting on different notes within the seq
 Pass criteria:
 
 1. You can answer any of the following *effortlessly*:
-* What's after D?
-* What's after A&flat;?
+    * What's after D?
+    * What's after A&flat;?
 
 2. You can start on any of the 12 notes and effortlessly recite the cycle of fourths starting on that note.
 {{< /admonition >}}
@@ -125,8 +125,8 @@ Once you are bored with that practice starting on different notes within the seq
 Pass criteria:
 
 1. You can answer any of the following *effortlessly*:
-* What's before D on the "clock"?
-* What's before A&flat; on the "clock"?
+    * What's before D on the "clock"?
+    * What's before A&flat; on the "clock"?
 
 2. You can start on any of the 12 notes and effortlessly recite the cycle of fifths starting on that note.
 {{< /admonition >}}
@@ -168,11 +168,11 @@ Once you are comfortable just moving up and down the scale linearly, try the fol
 
 <a name="TDG004">&nbsp;</a>
 {{< admonition type="success" title="TDG004 • Notes on E string" details=true >}}
-Work through the cycle of fourths, finding and playing each note on the sixth string. For the note E, you can either play the open string or at the 12th fret. First play B, then E, then A, etc.
+Work through the cycle of fourths, finding and playing each note on the sixth string. For the note E, you can either play the open string or at the 12th fret. First play B, then E, then A, *etc.*
 
 First practice this rubato (out of time &mdash; don't worry about a metronome). Just take your time and try to ensure you are playing the correct note each time.
 
-When you are comfortable with that, set your metronome to 60 BPM, and practice finding the notes of the cycle *in time* by playing half notes (two clicks per note).
+When you are comfortable with that, set your metronome to 60 BPM and practice finding the notes of the cycle *in time* by playing half notes (two clicks per note).
 
 Pass criteria: You can play the entire 12 note cycle of fourths in time on the E string without making any mistakes.
 
@@ -293,7 +293,7 @@ You'll need to learn the low E and low A strings by rote, but you can use the oc
 
 <a name="TDG006">&nbsp;</a>
 {{< admonition type="success" title="TDG006 • Notes on individual strings" details=true >}}
-This test is just a repeat of [TDG004](#TDG004) only instead of just using the 6th string, you are now going to play the full cycle of fourths along **every* string.
+This test is just a repeat of [TDG004](#TDG004) only instead of just using the 6th string, you are now going to play the full cycle of fourths along **every** string.
 
 Pass criteria: You can play the complete cycle of fourths on every string with half notes at 60 BPM without any hesitation or flubbed notes.
 {{< /admonition >}}
@@ -302,14 +302,14 @@ Pass criteria: You can play the complete cycle of fourths on every string with h
 
 Once you can play the cycle of fourths on each string individually, it's time to start practicing [TDG001](#TDG001) for in it's entirety.
 
-Now, you'll be finding each note on **all** of the strings at once. You'll find this quite challenging at first.
+You'll be finding each note on **all** of the strings at once. You may find this quite challenging at first.
 
 I *strongly* recommend you practice this without a metronome for the first several days. Build up good landmarks in your brain before trying to play in time: the metronome is a harsh taskmaster!
 
 When you're ready though, set the metronome to a nice s-l-o-w tempo and try playing whole notes at first. Then half notes. For a real challenge, try playing quarter notes at a quick tempo (say 100 BPM).
 
-This is one of those drills that you may never truly master, but if you can perform it with half notes at 60 BPM you know the fretboard better than 99% of the guitarists I know.
+This is one of those drills that may take years to master. The goal is to know the notes like the back of your hand, but if you can perform [TDG001](#TDG001) with half notes at 60 BPM, you'll know the fretboard well enough to tackle almost any challenge (and better than many guitarists who have been playing for *years*).
 
-It's an excellent warm up exercise, and I still perform it at the beginning of all my practice sessions. It only takes a minute or two.
+[TDG001](#TDG001) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice sessions. It only takes a minute or two.
 
 Enjoy!
