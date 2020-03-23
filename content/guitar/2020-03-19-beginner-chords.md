@@ -30,8 +30,8 @@ In addition to [knowing the notes on the fretboard]({{< ref "/guitar/2020-03-17-
 
 Let's follow "test driven guitar" and start with the proficiency test we are aiming for:
 
-<a name="TDG002"></a>
-{{< admonition type="success" title="TDG001 Cowboy Chords" details=true >}}
+<a name="TDG007"></a>
+{{< admonition type="success" title="TDG007 • Cowboy Chords" details=true >}}
 Set a metronome to 60 BPM.
 
 This test uses the open position major chords (the "cowboy chords"):

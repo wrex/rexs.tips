@@ -68,23 +68,30 @@ theme = "LoveIt"
     title = "Guitar related topics"
     weight = 2
   [[menu.main]]
+    identifier = "TDG"
+    pre = ''
+    name = "TDG"
+    url = "/tdg/"
+    title = "Test driven guitar"
+    weight = 3
+  [[menu.main]]
     identifier = "workshop"
     pre = ''
     name = "Workshop"
     url = "/workshop/"
     title = "Shop stuff (metal/woodworking)"
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "other"
     pre = ''
     name = "Other"
     url = "/other/"
     title = "Other categories"
-    weight = 4
+    weight = 5
   [[menu.main]]
     identifier = "tags"
     pre = ''
     name = "Tags"
     url = "/tags/"
     title = "All posts sorted by tag"
-    weight = 5
+    weight = 6

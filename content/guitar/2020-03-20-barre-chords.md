@@ -49,8 +49,8 @@ If you truly **KNOW** these three shapes and how they interrelate, you'll be abl
 
 As usual, let's start with a TDG test to verify if you **KNOW** them already:
 
-<a name="TDG003"></a>
-{{< admonition type="success" title="TDG003 Major barre chords" details=true >}}
+<a name="TDG008"></a>
+{{< admonition type="success" title="TDG008 • Major barre chords" details=true >}}
 There are several parts to this test. **Use a metronome** to keep yourself from cheating. You should be able to complete all of these exercises cleanly and precisely at a nice slow tempo, like half notes at 60 BPM.
 
 1. Work through the entire cycle of fourths using just the E shaped barre chord. Perform one cycle with the full 6-string shape, visualizing the root on the 6th string. Repeat with an abbreviated shape on the top 4 strings (the "F" shape), visualizing the root on the 4th string.
