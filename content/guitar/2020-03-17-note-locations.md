@@ -45,7 +45,7 @@ Always tune your guitar at the beginning of **every** practice session. You are 
 
 I'm going to use this as my first trial run of "Test Driven Guitar" and work backward from the end goal. Here's the final test that we are working toward. If you can't pass this test right now, you can't say you **KNOW** the notes on the fretboard:
 
-<a name="TDG001"></a>
+<a name="TDG001"><div style="padding-top: 40px; margin-top: -40px;">&nbsp</div></a>
 {{< admonition type="success" title="TDG001 Fretboard Notes" details=true >}}
 1. Set a metronome to 60 BPM. We will be playing half notes (two clicks per note).
 
