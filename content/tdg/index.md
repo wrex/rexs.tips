@@ -26,3 +26,9 @@ This page serves as an index to all TDG tests. Eventually it will contain separa
 * [TDG008 • Major barre chords]({{< ref "/guitar/2020-03-20-barre-chords.md#TDG008" >}})
 
 * [TDG009 • Harmonized scales]({{< ref "/guitar/2020-03-20-minor-chords.md#TDG009" >}})
+
+* **The Blues**
+
+    * [TDG010 • Beginner Blues]({{< ref "/guitar/blues/2019-03-01-beginner.blues.md#TDG010" >}})
+
+    * [TDG011 * Connecting Blues Scale Shapes]({{< ref "/guitar/blues/2020-03-22-blues-scale.md#TDG011" >}})
