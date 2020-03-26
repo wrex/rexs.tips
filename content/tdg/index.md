@@ -27,6 +27,8 @@ This page serves as an index to all TDG tests. Eventually it will contain separa
 
 * [TDG009 • Harmonized scales]({{< ref "/guitar/2020-03-20-minor-chords.md#TDG009" >}})
 
+* [TDG012 • 4-string Minor Triads]({{< ref "/guitar/2020-03-25-minor-triads.md#TDG012" >}})
+
 * **The Blues**
 
     * [TDG010 • Beginner Blues]({{< ref "/guitar/blues/2019-03-01-beginner.blues.md#TDG010" >}})
