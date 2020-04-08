@@ -1,0 +1,3 @@
+{{ $original := .Page.Resources.GetMatch (printf "**%s*" (.Get 0)) }}
+{{ $imgtitle := ($original).Title }}
+{{ $imgtitle | html }}
