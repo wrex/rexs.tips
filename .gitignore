@@ -1,6 +1,6 @@
 .DS_Store
-limg
+node_modules/
+package-lock.json
+package.json
 public/
 resources/
-resources/_gen/
-
