@@ -8,11 +8,6 @@ menu:
     weight: 20
 ---
 
-{{% pageinfo %}}
-This is still a work in progress.
-{{% /pageinfo %}}
+Bear with me as I start populating this section. This is a living document that I intend to improve over time.
 
-
-This is the top level of the /guitar section of the site.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Please remember that I'm still struggling to learn how to play guitar myself, but the best way to learn something is to try to teach it to others. If nothing else, I might be able to provide the benefit of "new eyes". I might also help you avoid some of the mistakes I've made.
