@@ -1,5 +1,5 @@
 ---
 title: "Guitar"
 linkTitle: "Guitar"
-weight: 30
+weight: 20
 ---
