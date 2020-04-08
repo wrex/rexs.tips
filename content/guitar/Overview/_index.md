@@ -2,37 +2,54 @@
 title: "Overview"
 linkTitle: "Overview"
 weight: 1
+type: docs
 description: >
-  Here's where your user finds out if your project is for them.
+  Why learn guitar from someone who can't even play terribly well?
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+This site attempts to teach anyone how to play guitar. The author has a decent grasp of fundamental music theory, can play well enough to occasionally make somewhat musical sounding noises, and thoroughly enjoys teaching. But I'm not going to be signing any recording contracts any time soon.
+
+So why do I bother with this content?
+
+I'm convinced that beginners sometimes make better teachers than experts. Experts often *forget* what it was like to be completely lost. They sometimes assume context and skills that students simply lack.
+
+Many expert players simply aren't good teachers. I've heard great players trying to teach get frustrated and say something along the lines of: "Just freaking *play*, man!".
+
+That said, there are *many* truly phenomenal guitar instruction sites already out there on the web (some free and some paid).
+
+I can heartily recommend any of the following:
+
+[JustinGuitar](https://justinguitar.com)
+: This is the gold standard in guitar instruction. If you're an absolute beginner at guitar, I strongly, **strongly**, encourage you to start here first. The amount and quality of **free** instruction here is incredible.
+
+[FretboardOS](https://fretboardanatomy.com)
+: (Also known as [GuitarOS](https://www.guitaros.com) &mdash; I'm not sure which is preferred.) "Josh Frets" was by far my most influential teacher so far. I consider his "Metronome Bootcamp" (FREE) to be essential content for any player, and the style and thoroughness of his remaining (paid) content was what allowed me to progress faster than ever before.
+
+[GypsyAndJazz](https://www.gypsyandjazz.com)
+: I have a real passion for the Gypsy Jazz style. Django really created something great back in the war years. I love listening to modern virtuosos like Joshco, Birelli, Stochello and the rest. Yaakov is a gifted instructor &mdash; I'm still confident I'll eventually be able to play at least half as well as him!
+
+[AbsoluteBluesGuitar](http://absolutebluesguitar.com)
+: I'm also passionate about the blues. It's at the heart of so many different styles of music. Bobby Harrison is a gifted player and provides some great, reasonably priced content starting at an extremely basic level.
+
+[TrueFire](https://truefire.com)
+: This site is a treasure trove for huge numbers of gifted instructors and amazing content in absolutely any style. Recommended.
 
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide). 
+### Why this site?
 
-Try answering these questions for your user in this page:
+To be completely honest, you will probably be better served by one of the sites I've listed above.
 
-## What is it?
+Here are a few reasons you might want to stick around, though:
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+* **This site is written by an engineer for engineers**. Tech nerds represent! I know how we think, and how deeply we need to understand "why". I also know how easy it is for us to get distracted and miss the important stuff. Almost all of this content was written expressly for one of my closest friends (and currently the only user of the site!).
 
-## Why do I want it?
+* **It's written by a beginner for beginners**. Though I've been struggling with the instrument for decades, at best I'm an intermediate player. I still have epiphanies every few days. I try to get recent breakthroughs in understanding and tricks for practicing technique onto the site while they are still fresh in my mind.
 
-Help your user know if your project will help them. Useful information can include: 
+* **It's prescriptive about what to practice**. Like many, my practice sessions are often a disorganized and inefficient mess. I have to think too hard about "what should I be practicing". On this site, I'm trying out an idea about "test driven guitar". A long sequence of drills and proficiency tests to choose from. Eventually I hope to provide a mechanism for tracking which tests have been attempted (and when) and which have been mastered, but even tracking with pencil and paper is proving useful.
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+### Where should I go next?
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+If I haven't scared you off, you should probably start with one of the following
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
-
-## Where should I go next?
-
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/getting-started/): Get started with $project
-* [Examples](/examples/): Check out some example code!
-
+* [Test Driven Guitar](#TODO): About the `Test Driven Guitar` concept.
+* [Getting Started](#TODO): How to start learning.
