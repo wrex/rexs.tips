@@ -5,13 +5,16 @@ linkTitle: "New Site"
 description: "Announcing Rex's Tips, a docsy themed site."
 author: "Rex Walters"
 resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
+  - src: "**new-site.jpg"
+    title: "New site"
 ---
 
 Time for a refresh.
 
-I'm going to retire [the old site](https://lessons.doiwalters.com) and start using this site exclusively going forward. It should be faster, better on mobile, and it allows me to post on any topic (not just guitar). It's **way** easier to maintain versions, backups, branches, etc., and it's trivial for me to deploy new content. What's not to like?
+{{< imgproc new-site Fill "600x400" >}}
+{{< /imgproc >}}
+
+I'm going to retire [the old site](https://lessons.doiwalters.com) and start using this site exclusively going forward. It provides better content organization and allows me to post on any topic (not just guitar). It's **way** easier to maintain versions, backups, branches, etc., and it's trivial for me to deploy new content. What's not to like?
 
 If you're curious about the technical details, I've decided on the following:
 

@@ -39,10 +39,10 @@ blog = "/:section/:year/:month/:day/:slug/"
 #latexDashes = true
 
 # Image processing configuration.
-[imaging]
-resampleFilter = "CatmullRom"
-quality = 75
-anchor = "smart"
+#[imaging]
+#resampleFilter = "CatmullRom"
+#quality = 75
+#anchor = "smart"
 
 #[services]
 #[services.googleAnalytics]
