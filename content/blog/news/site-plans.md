@@ -43,4 +43,4 @@ In addition to drills on each "lesson" post, I'm planning to create "Learning tr
 
 Eventually (hopefully soon) I want to allow users of the site to track their progress with the various proficiency tests (with states of "not started," "in progress," or "completed"). This requires logins and some sort of stateful API, however, so at least for some period of time each user will just have to keep track of their own progress.
 
-Lastly, I eventually plan to add support for [Soundslice](https://soundslice.com) especially with the proficiency tests. The idea being to have both a video (YouTube) and synchronized tab (Soundslice) for each test. 
+Lastly, I eventually plan to add support for [Soundslice](https://soundslice.com) especially with the proficiency tests. The idea being to have both a video (YouTube) and synchronized tab (Soundslice) for each test.
