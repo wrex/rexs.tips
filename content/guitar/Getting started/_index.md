@@ -7,30 +7,14 @@ description: >
   Start here if you're a total beginner
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+The content on this site isn't terribly advanced, but it does assume some basic knowledge (like how to tune the guitar and play basic "cowboy" chords).
 
-Information in this section helps your user try your project themselves.
+If you are an absolute beginner on the guitar, I **strongly** suggest you first go through a beginners course elsewhere. I think [Justin's new for 2020 beginner guitar course](https://www.justinguitar.com/categories/beginner-guitar-lessons-grade-1) is probably the best one out there.
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+Next, you should look at:
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+* This
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+* That
 
-## Prerequisites
-
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
-
-## Installation
-
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
-
-## Setup
-
-Is there any initial setup users need to do after installation to try your project?
-
-## Try it out!
-
-Can your users test their installation, for example by running a commmand or deploying a Hello World example?
+* the other things
