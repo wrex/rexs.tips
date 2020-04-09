@@ -1,6 +1,7 @@
 ---
 title: "Getting Started"
 linkTitle: "Getting Started"
+type: "docs"
 weight: 2
 description: >
   Start here if you're a total beginner

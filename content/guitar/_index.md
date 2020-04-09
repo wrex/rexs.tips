@@ -8,6 +8,6 @@ menu:
     weight: 20
 ---
 
-Bear with me as I start populating this section. This is a living document that I intend to improve over time.
+## Opinionated lessons for learning guitar
 
-Please remember that I'm still struggling to learn how to play guitar myself, but the best way to learn something is to try to teach it to others. If nothing else, I might be able to provide the benefit of "new eyes". I might also help you avoid some of the mistakes I've made.
+Guitar lessons for beginner and intermediate students of an engineering orientation. If you are always asking "why" and read operator's manuals for pleasure, this site is for you.
