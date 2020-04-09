@@ -7,19 +7,27 @@ description: >
   Knowing what to practice is half the battle.
 type: "docs"
 weight: 2
+resources:
+  - src: "**distractions.jpg"
+    title: "distractions"
+
 ---
 
-I don't know about you, but I'm constantly distracted by all the great material available on the internet. I'll see a new YouTube video, or stumble acroass a website with some fantastic new song/technique/whatever.
+I don't know about you, but I'm constantly distracted by all the great material available on the internet. I'll see a new YouTube video, or stumble across a website with some fantastic new song/technique/whatever.
 
-I frequently become so interested in something that I drop whatever I was practicing, and start diving into the new material.
+I frequently become so interested in something that I drop whatever I was practicing and start diving into the new material.
 
 Then I stumble upon yet another great site or video &mdash; maybe an even better take on something that I was already studying. So I drop what I was doing and work on the next thing.
 
 I eventually get bored or frustrated with that, so I start working ahead with other content from the same source.
 
-Then I'm distracted again with yet another video or website, and the cycle repeats ad nauseum!
+Then I'm distracted again with yet another video or website .... The cycle repeats ad nauseum!
 
-Before long, I'm hopefully confused. I can't remember what I was working on before the latest shiny object, so I just doodle around or practice things I've already mastered.
+{{< imgproc distractions Fill "600x400" >}}
+Dunno about you, but I read them all.
+{{< /imgproc >}}
+
+Before long, I'm hopefully confused. I can't remember what I was working on before the latest shiny object, so I just noodle around for the entire practice session or practice things I've already mastered.
 
 ### Tracking practice items
 

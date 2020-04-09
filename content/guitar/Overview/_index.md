@@ -3,8 +3,9 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 type: docs
+
 description: >
-  Why learn guitar from someone who can't even play terribly well?
+  Why learn guitar from someone barely more than a novice himself?
 ---
 
 This site attempts to teach anyone how to play guitar. The author has a decent grasp of fundamental music theory, can play well enough to occasionally make somewhat musical sounding noises, and thoroughly enjoys teaching. But I'm not going to be signing any recording contracts any time soon.
