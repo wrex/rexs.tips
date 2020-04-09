@@ -10,4 +10,6 @@ menu:
 
 ## Opinionated lessons for learning guitar
 
-Guitar lessons for beginner and intermediate students of an engineering orientation. If you are always asking "why" and read operator's manuals for pleasure, this site is for you.
+Guitar lessons for beginner and intermediate students with an engineer's mind.
+
+If you want to learn guitar, can't help constantly asking "why," and read operator's manuals for pleasure, then this site is for you.
