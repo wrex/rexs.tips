@@ -11,10 +11,6 @@ The content on this site isn't terribly advanced, but it does assume some basic 
 
 If you are an absolute beginner on the guitar, I **strongly** suggest you first go through a beginners course elsewhere. I think [Justin's new for 2020 beginner guitar course](https://www.justinguitar.com/categories/beginner-guitar-lessons-grade-1) is probably the best one out there.
 
-Next, you should look at:
+Music comprises just three things: notes, rhythm, and harmony.
 
-* This
-
-* That
-
-* the other things
+Let's take a brief look at each of these in turn.

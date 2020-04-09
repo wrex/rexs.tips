@@ -11,7 +11,7 @@ resources:
   title: "Image #:counter"
 ---
 
-## The end goal
+### The end goal
 
 Try not to be intimidated, but here is what we are eventually going to learn. You'll eventually be able to find and name every single note in this diagram *effortlessly*:
 
@@ -23,6 +23,53 @@ I'm not going to kid you, it's *hard* to really **KNOW** all those notes. It wil
 {{< alert color="warning" title="Always tune up!" >}}
 Always tune your guitar at the beginning of **every** practice session. You are training your ears as much as your fingers, and it's important for you to practice with the right notes. Eventually you'll automagically learn to *hear* when you are out of tune (and even whether you are sharp or flat) but to get there you need to always ensure you are in tune.
 {{< /alert >}}
+
+## Why bother?
+
+Why learn the notes on the fretboard? Several reasons, but chief among them:
+
+* It makes learning the instrument easier.
+
+* It indirectly improves your *ear*. Knowing which note is which makes it much easier to start hearing relationships between notes.
+
+* It makes it much easier to communicate with other musicians.
+
+* It makes learning music theory much, much easier. Learning theory in turn makes it easier to understand how songs are constructed, remember them, anticipate chords and melodies, and even to write your own.
+
+* Once you know the notes within any given chord, it makes it much easier to "see" chords all over the fretboard. As we saw, a C Major chord **isn't** just the one shape you learned in open position. Once you can find the notes C, E, and G everywhere on the fretboard instantly and effortlessly, your rhythm guitar accompaniment will improve dramatically.
+
+* The same thing holds true with scales and modes. Learning the notes makes it much easier to solo and improvise. You’ll spend less mental effort as you make music.
+
+* It makes learning to read sheet music possible. I'm still ridiculously slow at reading, and learning to read on guitar *is* harder than many other instruments (because the same note can be played in so many different places) but it’s not impossible. It's a whole lot easier when you already know where the notes are on the fretboard!
+
+
+### **KNOWING** is more than knowing
+
+Really knowing the location of a note someplace on the fretboard, by the way, means knowing it as well as you know letters of the alphabet, the names and colors of fruits, or names and nicknames of friends and family members.
+
+It means: given a note name, you can instantly, *effortlessly* find that note all over the fretboard (at one or two locations on each string).
+
+It means: after plunking a finger down anywhere on the fretboard, you instantly, *effortlessly* know the name of the note at that location and the name of the other notes nearby.
+
+I call this **KNOWING** the note (all caps and bold).
+
+Just like when you hear “green” you immediately visualize the color, hearing "C" should light up several locations on the fretboard in your mind's eye.
+
+It’s not enough to be able to eventually work out the note by using interval shapes or counting up/down from another fret or string. **KNOWING** means you can directly recall without effort.
+
+Even the slight mental effort of figuring out locations relative to something else you do **KNOW** will get in the way as you start doing more advanced things (like forming multi-note chords and chord progressions).
+
+### A few words about practicing
+
+It will, unfortunately, take quite a bit of time (weeks to months) to **KNOW** the notes on the fretboard. But once you know (instantly and effortlessly) the name and location of every note on the fretboard the entire process of learning how to play the instrument gets easier.
+
+Even just five minutes or so of daily practice will make the process pretty painless, but you just can't escape *several* weeks or months of practice.
+
+Don’t let “months” scare you: by the end of just the first *day* you should be able to instantly find any natural note (the notes A, B, C, D, E, F, and G) anywhere on the top or bottom strings. This means that by the end of day one, you'll have likely memorized one third of the fretboard!
+
+The notes on the remaining four strings take so much more time because the effort is cumulative: each new note on each new string makes it progressively harder to remember what you've already learned.
+
+### Test Driven Guitar
 
 I'm going to use this as my first trial run of "Test Driven Guitar" and work backward from the end goal. Here's the final test that we are working toward. If you can't pass this test right now, you can't say you **KNOW** the notes on the fretboard:
 
