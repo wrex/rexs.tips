@@ -87,4 +87,16 @@ My father used to tell a great story about teasing his younger brother: "You're 
 
 I bet my uncle could repeat the alphabet at 40 BPM quarter notes, but he'd probably have struggled at a faster tempo.
 
-Other times, unfortunately, the criteria might be unavoidbly subjective and will require self assesment: "You can play the lick/song/whatever fluently and expressively without undue stress."
+Unfortunately, the pass criteria isn't always measurable. Sometimes it's unavoidably subjective and requires self assessment: "You can play the lick/song/whatever fluently and expressively without undue stress and without losing your place."
+
+The idea, though, is to specify the pass criteria *before* you start practicing.
+
+Many proficiency tests will have a corresponding tutorial or other page describing the background material.
+
+All tests will have "Green light criteria": what does it take to pass the test?
+
+Some tests may have extra credit (effectively "refactoring suggestions") to continue your exploration even after you've mastered the item.
+
+The goal is to present each user with a list of practice items sorted and filtered based on the current days interests.
+
+Eventually, I'd like to show the progress state of each item for the logged in user, but I'll need to do some coding to make that work. For now, you'll just have to use pen and paper to track which items you're currently working on or have mastered.
