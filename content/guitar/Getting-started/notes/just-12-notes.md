@@ -22,9 +22,9 @@ Before you can learn how to play the notes, though, you need to learn their name
 The first thing to realize is that **there are only twelve unique notes in all of of western music**. Not just hillbilly, but classical music, rock, and jazz, too.
 
 {{< alert title="Warning" color="warning" >}}
-This page is **purely theory** with no practice lessons. It's intended as introductory material that you'll likely want to refer back to periodically.
+This page is **purely theory** with no practice lessons. It's also really long. It's intended as introductory material that you'll likely want to refer back to periodically.
 
-To start learning how to actually find and play the notes on the fretboard, please skip this page for now and proceed directly to [finding the notes](#TODO). You can always return to this page later.
+To start learning how to actually find and play the notes on the fretboard, please feel free to skip this material for now and proceed directly to [finding the notes](#TODO). You can always return to this page later.
 {{< /alert >}}
 
 ## Shapes versus notes
@@ -70,12 +70,12 @@ Why are there 12 notes, but only 7 get a letter?
 : Because the most important scales in Western music, especially the Major Scale, have seven notes, with each note separated from the other by two different intervals (a whole step, or a half step). Following the same sequence of intervals, but starting on different notes leads to "in between" notes, the accidentals.
 
 
-Why do some notes have two names (like Eb/D#)?
+Why do some notes have two names (like E&flat;/D&sharp;)?
 : Mostly because we want each of the seven notes in a diatonic key to be labeled A-G. The key of F, for example, comprises the seven notes F, G, A, B&flat;, C, D, and E. It would be weird to call the note A&sharp; instead of B&flat; when playing a song in that key, as you'd have two "A" notes (the scale would become F, G, A, A&sharp;, C, D, and E).
 
 Also, sometimes you want to alter a chord for different textures. "The Hendrix chord," for example, sharpens the 9th scale degree in the chord so it's common to use &sharp; if the 9th scale degree lands on an accidental.
 
-Why isn't there a note called Cb or E#?
+Why isn't there a note called C&flat; or E&flat;?
 : See [diatonic scales](#diatonic-scales) below. No matter which note you start on, you never need a note between B/C or between E/F.
 
 What does diatonic mean?
@@ -111,7 +111,7 @@ We call the characteristic sound or feel of this specific ordering of tone inter
 
 Literally all of western music derives from the major scale. It should have been promoted to General by now. Memorize that pattern: `W W h W W W h`.
 
-## Modes
+### Modes
 
 If we start on A rather than C, though, the intervals become: `W h W W h W W`. We call the character or *feel* of this sequence of intervals *minor* or *Aeolian mode*. We can create a total seven different interval sequences by starting on different notes.
 
@@ -133,13 +133,13 @@ In other words, they wanted a group of seven notes that starts on G, but followe
 
 That would require the notes: G, a whole-step to A, whole step to B, half step to C, whole step to D, whole step to E, but then we need a whole step to ... what? F is too close (only a half step from E) and G is too far away.
 
-They needed a note halfway *between* F and G for it to sound Ionian instead of Mixolydian. Since this tone replaces F in the sequence, but wasn't F, they called it F&sharp;. It's just another name, but for a new note that wasn't used before.
+They needed a note halfway *between* F and G for it to sound Ionian instead of Mixolydian. Since this note replaces F in the sequence, they called it F&sharp;. It's just another name, but for a new note that didn't exist before.
 
 It turns out that if you go through the process of creating every mode starting on each of the seven original notes, you'll end up needing five total of these "halfway" notes (one between A/B, C/D, D/E, F/G, and G/A).
 
-You'll end up with only twelve notes in total:
+You'll end up with only twelve notes in total. Today, we call these twelve notes the chromatic scale:
 
-## The twelve note names
+### The chromatic scale.
 
 1. A
 2. A&sharp; or B&flat;
@@ -154,11 +154,11 @@ You'll end up with only twelve notes in total:
 11. G
 12. G&sharp; or A&flat;
 
-Even today we only have twelve unique notes: seven *natural* notes and five *accidentals*.
+Even today we only have twelve unique notes: the seven *natural* notes A, B, C, D, E, F, and G, and the five *accidentals*, A&sharp;/B&flat;, C&sharp;/D&flat;, D&sharp;/E&flat;, F&sharp;/G&flat;, and G&sharp;/A&flat;.
 
-Here, for example, are the notes for Ionian mode (`W W h W W W h`) starting with each of the seven original notes:
+Here, for example, is how you would construct the Major scale (AKA Ionian mode or the interval sequence `W W h W W W h`) for each natural note key:
 
-## The Major scale notes
+### The Major scale notes
 
 * C Ionian: C D E F G A B (no sharps or flats)
 
@@ -176,13 +176,15 @@ Following the `W W h W W W h` sequence to derive F Ionian, though, we start with
 
 * F Ionian: F G A B&flat; C D E
 
-You can also create major scales *starting* on the new "between" notes (the *accidentals*). The B&flat; Major scale really is a thing, for example. No further new notes are required, but you'll start using the &flat; names for the *accidentals* more often.
+You can also create major scales for "between" note keys (i.e. the *accidentals* like B&flat;).
+
+Yup. The B&flat; Major scale really is a thing, for example. No further new notes are required, but you'll start using the &flat; names for the accidentals more often.
 
 These "in between" notes have *two* possible names, which can be confusing. The rule is simple, though, just use the name based on what you're replacing. For G Ionian we replaced F so we called it F&sharp; and not G&flat;.
 
 There are seven total modes, not just Ionian. In addition to the interval sequence, it can be helpful to think about how each mode differs from Ionian (the major scale):
 
-## The modes
+### The modes
 
 | Mode       | Interval sequence | Changes from Major scale
 | ---        | ---               | ---
@@ -191,8 +193,8 @@ There are seven total modes, not just Ionian. In addition to the interval sequen
 | Phrygian   | `h W W W h W W`   | &flat;2, &flat;3, &flat;6, &flat;7
 | Lydian     | `W W W h W W h`   | &sharp;4
 | Mixolydian | `W W h W W h W`   | &flat;7
-| Aeolian    | `W h W W h W W`   | &flat;3, &flat6; &flat;7
-| Locrian    | `h W W h W W W`   | &flat;2, &flat3;, &flat;5, &flat;6, &flat;7
+| Aeolian    | `W h W W h W W`   | &flat;3, &flat;6, &flat;7
+| Locrian    | `h W W h W W W`   | &flat;2, &flat;3, &flat;5, &flat;6, &flat;7
 
 ## Note function
 
@@ -200,25 +202,35 @@ The **names** of notes are absolute. They never change, no matter what scale, me
 
 C is always called C. The note D is always called D (and can always be found two frets higher than any C on the fretboard).
 
-Remember that the [twelve note names](#twelve-note-names) are *just names*. The names are simply an accident of history. They could have been named after the twelve apostles or the first twelve letters of the Greek alphabet.
+Remember that the [twelve note names](#chromatic-scasle) are *just names*. The names are simply an accident of history. They could have been named after the twelve apostles or the first twelve letters of the Greek alphabet.
 
-In some ways, it would have been nice if they had: things get confusing when we start talking about how the notes *function* in different contexts.
+In some ways, it would have been nice if they had been: things get confusing when we start talking about how the notes *function* in different contexts.
 
-It's a little confusing that the *accidental* notes have two names, but G&sharp; and A&flat; is *the same note* for example. That note will *always* be called by one of those names, no matter the context.
+It's admittedly confusing that the accidental notes have *two* names, but they are just single notes. G&sharp; and A&flat; are two names for *the same note*, for example. That note will *always* be called by one of those names, no matter the context.
 
-The *function* of a note, however, is relative and changes depending on context. Because function naming also uses the sharp/flat convention, this can be confusing to say the least!
+The *function* of a note, however, is relative and changes depending on context. Because function naming also uses sharps and flats, this can be confusing to say the least!
 
 Functional names *differ* from the absolute name of a note. This confuses the heck out of everyone when they first start studying music.
 
 ### Scale degrees
 
-One functional name for notes are *scale degrees*. Scale degrees are numbered relative to a given note (known as the "root" of the scale) and the type of scale. **Scale degrees change depending on which note is considered the root of the scale**.
+One functional name for notes are *scale degrees*. Scale degrees are numbered relative to a given note (known as the "root" of the scale) and the type of scale. Scale degrees **change** depending on which note is considered the root of the scale.
 
-The C Major scale, for example, comprises the seven notes C, D, E, F, G, A, and B in that order. C is the root note and 1st scale degree. D is the second scale degree, E the 3rd, etc.
+{{< alert title="Remember this!" color="info" >}}
+
+Note names use letters and never change. Functional names like scale degrees and intervals *change depending on context* but always use numbers. *Both* use sharps and flats.
+
+Sharps and flats **precede** numbers, but **follow** letter names.
+
+{{< /alert >}}
+
+You'll eventually become accustomed to saying and parsing sentences like: "The &flat;7 of C Mixolydian is B&flat;."
+
+The C Major scale, for example, comprises the seven notes C, D, E, F, G, A, and B in that order. C is the root note and 1st scale degree. D is the 2nd scale degree, E the 3rd, etc.
 
 If someone says "play the flat &flat;5" and you are playing in C Major, they are telling you to play the *note* G&flat; ("the 5" or the 5th scale degree, flattened by one semitone).
 
-However! The note "G" is only called the 5th scale degree in C Major. If we were in the key of A minor, we would call G the minor seventh (or &flat;7 sometimes written as m7) scale degree. The scale degree depends on the key.
+This is only for the key of C Major, though! The note "G" is only the 5th scale degree in the key of C. If we were in the key of A minor, we would call G the minor seventh (or &flat;7 sometimes written as m7) scale degree. The scale degree *depends on the key*.
 
 ### Intervals
 
@@ -230,17 +242,17 @@ Unfortunately, interval names confuse people for several reasons:
 
 2. Confusing things even further, guitarists often move notes into different octaves to simplify fingering: technically, a note moved to a lower octave might become a minor 7th, but it's common to still think of it as a Major 2nd.
 
-3. Actually, even that's a lie. When we start discussing harmony, specifically extended chords, the extended notes are in a higher octave and called 9ths, 11ths, and 13s instead of 2nds, 4ths, and 6ths. That note in point 2 is more commonly called "the 9th" rather than the "Major 2nd".
+3. Actually, even that's a lie. When we start discussing harmony, specifically extended chords, the extended notes are in a higher octave and called 9ths, 11ths, and 13s instead of 2nds, 4ths, and 6ths. That note in point 2 is more commonly called the "9th" rather than the "2nd".
 
-4. Some intervals have *multiple* names. Just as F# is also known as Gb, the interval from C to the note F#/Gb, for example, can be called an "augmented 4th" or a "diminished 5th" depending on context. To confuse you even further, that specific interval is also known as a "tritone" and is nicknamed "the blue note" as well as "the devils interval" (*diabolus in musica*).
+4. Some intervals have *multiple* names. Just as F&sharp; is also known as G&flat;, the interval from C to the note F&sharp;/G&flat;, for example, can be called an "augmented 4th" or a "diminished 5th" depending on context. To confuse you even further, that specific interval is also known as a "tritone" and is nicknamed "the blue note" as well as "the devils interval" (*diabolus in musica*).
 
 Sadly, interval naming is just a mess. The names do tend to work in practice, but occasional confusion is unavoidable. **When in doubt, use the absolute note name!**
 
-Here is the name of each interval relative the note C:
+Here is the name of each interval relative to the note C:
 
 #### Interval Names
 
-| Note Names | # Frets from C | Interval name(s) from C | Interval up to higher C
+| Note Name | # Frets from C | Interval name(s) from C | Interval up to higher C
 | --- | --- | --- | ---
 | C | 0 | Unison | Octave
 | C&sharp;/D&flat; | 1 | minor 2nd (m2) | Major 7th (M7)
@@ -266,15 +278,13 @@ Notes:
 
 * Sharpening a minor interval makes it major.
 
-* Sharpening Major *or* perfect intervals makes them augmented.
+* Sharpening Major *or perfect* intervals makes them augmented.
 
-* The tritone of F#/Gb is exactly halfway between Cs in two different octaves. It's the *only* interval that stays the same whether you coming up from a lower C, or going up to a higher one. It's this unbalanced, neither here nor there, nature that gives it its "blue note" quality.
-
-## Summary
+* The tritone of F&sharp;/G&flat; is exactly halfway between Cs in two different octaves. It's the *only* interval that stays the same whether you coming up from a lower C, or going up to a higher one. It's this unbalanced, neither here nor there, nature that gives it its "blue note" quality.
 
 To net it out, here are the various names of the natural notes that make up the C Major scale (these are the white keys on a piano):
 
-### The C Major scale
+## The C Major scale
 
 | Note | Scale Degree | Steps from root | Interval from C
 | --- | --- | --- | ---
@@ -292,23 +302,23 @@ To net it out, here are the various names of the natural notes that make up the 
 
 Notes:
 
-1. Extensions (beyond the first octave) are marked with an asterisk. Piano players usually keep the extensions in a higher octave, but guitarists often move notes to any octave. They may think of D's in a lower octave as "ninths," for example, because of fingering restrictions.
+1. Extensions (beyond the first octave) are marked with an asterisk. Piano players usually keep the extensions in a higher octave, but guitarists often move notes to any convenient octave. They may think of D's in a lower octave as "ninths," for example, because of fingering restrictions.
 
-2. In practice, you won't always think about steps up from the root. You might think "B is the Major 7 in the C Major scale," for example, but when you go to play it, it's a whole lot easier to find "down a half step from C" than "up 11 frets from C".
+2. In practice, you won't always think about steps up from the root. You might think "B is the Major 7 in the C Major scale," for example, but when you go to play it, it's a whole lot easier to find "down a fret from C" than "up 11 frets from C".
 
-3. Similarly, Nobody thinks "up 14 half steps" to find the 9th! Instead, we think "two frets above the root"(since the 9th scale degree is the same note as the 2nd, the 11th the 4th, and the 13th the 6th).
+3. Similarly, nobody thinks "up 14 half steps" to find the 9th! Instead, we think "two frets above the root"(since the 9th scale degree is the same note as the 2nd, the 11th the 4th, and the 13th the 6th).
 
-4. We create chords by "stacking thirds" (taking every other note). CMaj contains the notes C E G. CMaj7 = C E G B. CMaj9 = C E G B D. CMaj11 = C E G B D F (in theory). CMaj13 = C E G B D F A (in theory &mdash; that's all seven notes in the scale!). The reason there are no 10/12/14 scale degrees is because those notes are already present in the underlying, non-extended chords. You wouldn't call an E in a higher register a "10th," it's still a Major 3rd relative to C, no matter what octave its in.
+4. When we get to chords and harmony, we'll see that we create chords by "stacking thirds" (taking every other note). CMaj contains the notes C E G. CMaj7 = C E G B. CMaj9 = C E G B D. CMaj11 = C E G B D F (in theory). CMaj13 = C E G B D F A (in theory &mdash; that's all seven notes in the scale!). The reason there are no 10/12/14 scale degrees is because those notes are already present in the underlying, non-extended chords. You wouldn't call an E in a higher register a "10th," it's still a Major 3rd relative to C, no matter what octave its in.
 
 So if, for example, you were playing a song in the key of C Major, you could refer to the note E as "the third of the scale," or "the major 3rd.".
 
-### Chord naming
+## Chords use numbers too
 
-One final source of much confusion: the **chords** associated with a scale also have numbers and major/minor/diminished/augmented tonality.
+One final source of much confusion: the **chords** associated with a key also use numbers and major/minor/diminished/augmented terminology. Chord numbers are usually written with roman numerals, but the distinction between "the 4" and "the IV" can be difficult to hear!
 
-C Major contains the **notes** C D E F G A B but it also contains seven basic **chords** (or "triads"). By starting note in the scale in turn, we form the basic "triad" by taking every other note. So the "diatonic" chords in C Major are:
+The key of C Major comprises the **notes** C D E F G A B but it also comprises seven **chords** (or "triads"):
 
-| Chord name | Roman or "Nashville" notation | Notes
+| Chord name | Notation | Notes
 | --- | --- | ---
 | C | I | C E G
 | Dm | ii | D F A
@@ -320,35 +330,31 @@ C Major contains the **notes** C D E F G A B but it also contains seven basic **
 
 So the chord F (Major) for example, is called the IV chord, and the note F is the 4th degree of the scale.
 
-By convention, we use upper case roman numerals (I, IV, etc.) for major chords, lower case roman numerals (ii, vi) for minor chords, and Arabic numerals (1, 3, 5, etc.) for notes/intervals/scale-degrees.
+By convention, we use upper case roman numerals (I, IV, etc.) for major chords, lower case roman numerals (ii, vi) for minor chords. This is sometimes called "Nashville notation." Arabic numerals (1, 3, 5, etc.) are always used for notes/intervals/scale-degrees.
 
-This helps considerably in written material, but it can be amazingly difficult to hear the difference in spoken words!
-
-It's up to the listener to figure out if people are talking about chords or notes.
+This helps considerably in written material, but not at all when speaking. It's up to the listener to figure out if people are talking about chords or notes.
 
 Here's a totally made up band discussion, for example:
 
 **Guitar**: I really like the sound of a minor 9th on the "two" (ii) chord here.
-: Translation: adding the note E to Dm sounds cool.
+
+*Translation: adding the note E to Dm sounds cool.*
 
 **Bass**: You want me to hit the 9?
-: Translation: Shall I play an E?
+
+*Translation: Shall I play an E?*
 
 **Guitar**: Nah, I'll put it on top. Riff on the third instead.
-: Translation: Emphasize the note F, the m3 instead.
+
+*Translation: Emphasize the note F instead.*
 
 **Drummer**: You're both rushing, tighten up.
-: Translation: I need a beer.
+
+*Translation: I need a beer.*
 
 
 Believe it or not, all of this will eventually make sense.
 
-## It's okay to just **KNOW** seven notes everywhere
+---
 
-Eventually, we want to **KNOW** the locations for all twelve notes, everywhere on the fretboard. What makes it difficult is that the guitar can produce the *same* note at *multiple* locations. On my 24 fret electric guitar, for example, I can play an E in *thirteen* different locations!
-
-Fortunately, it's enough just to learn the locations of the seven natural notes. The "between" notes (the "sharps and flats") will always be just one fret lower or higher. If you know where to find the note F, for example, and someone asks you to play an F#, it's okay to just find an F and move your finger one fret higher.
-
-This isn't really **KNOWING** the location, but in practice a one fret move relative to another note you truly **KNOW** doesn't require too much mental effort, and can be done in time, even at fast tempos!.
-
-This concludes the background material. Let's [get on with actually learning the notes](#TODO)!
+This concludes the background material. Now let's continue with [learning how to find the notes on the fretboard]({{< ref "/guitar/Getting-started/notes/finding-notes.md" >}})!
