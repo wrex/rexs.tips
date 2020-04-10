@@ -3,7 +3,7 @@ date: 2020-04-09T21:11:15-07:00
 title: "Rhythm"
 linkTitle: "Rhythm"
 author: "Rex Walters"
-description: "Dividing up time"
+description: "Meet Mister Metronome"
 type: "docs"
 weight: 20
 resources:
@@ -11,6 +11,12 @@ resources:
   title: "Image #:counter"
 ---
 
-**Use a metronome!
+{{% alert color="warning" title="WARNING: Under construction" %}}
+This is just a placeholder page for the moment. I'll create some content here eventually.
+{{% /alert %}}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For the moment, please work through the following *free* two week course from Josh Frets: [Metronome Bootcamp](https://learn.guitaros.com/p/metronome-boot-camp/).
+
+Josh's bootcamp provides an incredibly thorough introduction to improving your time feel with a metronome. The whole course is incredible, but I strongly recommend paying particular attention to MBC lessons eight to eleven (putting the click on beats two and four).
+
+I highly, highly recommend the remainder of Josh's courses as well. They helped me tremendously.

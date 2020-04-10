@@ -3,7 +3,7 @@ date: 2020-04-09T21:11:22-07:00
 title: "Harmony"
 linkTitle: "Harmony"
 author: "Rex Walters"
-description: "Chords and accompaniment"
+description: "The molecules of chord shapes: triads"
 type: "docs"
 weight: 30
 resources:
