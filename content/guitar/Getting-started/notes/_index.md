@@ -5,7 +5,7 @@ linkTitle: "Notes"
 author: "Rex Walters"
 description: "The atoms of music"
 type: "docs"
-weight: 2
+weight: 10
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
