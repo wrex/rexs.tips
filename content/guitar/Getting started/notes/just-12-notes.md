@@ -31,7 +31,7 @@ To start learning how to actually find and play the notes on the fretboard, plea
 
 A surprising number of guitarists never learn where all the notes are on the fretboard, much less how to read music. This is a real shame. Musicians learning almost any other instrument **start** by associating written notes on the staff with where and how to produce those notes on their instrument. It’s an odd quirk and unfortunate side-effect of a guitar’s layout that encourages students to think abut "shaps" rather than notes.
 
-For example, the first thing millions of beginners learn is how to play this C Major chord:
+For example, the first thing millions of beginners learn to play is this C Major chord:
 
 <a id="fig1"></a>
 {{< figure src="/img/neck-diagrams/cmajor-open.png" title="Fig 1. C Major, Open Position" class="figure-caption text-center" >}}
@@ -42,17 +42,19 @@ But **shapes aren't music**.
 
 That diagram only shows *one* way to play a C Major.
 
-As we will learn when we start studying chords and harmony, C Major is formed when you play the three notes C, E, and G simultaneously. [Figure 1](#fig1) is just one way to play those notes. From left to right (starting on the 5th string) the shape above sounds the *notes* C, E, G, C (again), and E (again). It's because those three notes are the only ones sounding that make this a C chord, not the shape.
+As we will learn when we start studying chords and harmony, C Major is formed when you play the three notes C, E, and G simultaneously.
+
+[Figure 1](#fig1) is just one way to play those notes. Plucking the notes individually from left to right (starting on the 5th string) the shape above sounds the *notes* C, E, G, C (again), and E (again). It's those three notes that make this a C chord, not the shape.
 
 Seriously, even small children learning piano can soon play a C major chord several different ways all over the keyboard. Literally millions of guitarists, though, never learn any way other than the diagram above, which is sad.
 
-Shapes aren't all bad. You can't learn guitar without memorizing shapes.
+Shapes are unavoidable. They aren't all bad. You can't learn guitar without memorizing shapes.
 
 Shapes make it much, much easier for guitarists to play in different keys. This is far more difficult on other instruments. A guitarist is *much* more likely to play in a horn player's natural key (like F or Bb) than for a horn player to play in E, A, D or G (convenient keys for the guitar).
 
-While shapes can be a useful device to help you memorize and find notes/scales/chords, it's important not to think of them as an end in themselves.
-
 ## The musical alphabet
+
+Its *notes* that create music, though. Not shapes. So what are the notes and where do they come from?
 
 What follows is an over-simplified, highly condensed, and likely wrong history, but the concepts may prove helpful as we proceed.
 
@@ -60,16 +62,16 @@ I've already mentioned that all western music is comprised of twelve notes.
 
 Seven of them are named after the first seven letters of the alphabet, A through G. Those are called the *natural notes*.
 
-The remaining five are called *accidentals*, and get different names, like E&flat; or G&sharp; (pronounced "E flat" and "G sharp"). Not every note can take a sharp or flat, though. There is no such thing as "C&flat;" or "E&sharp;."
+The remaining five are called *accidentals*, and get different names, like E&flat; or G&sharp; (pronounced "E flat" and "G sharp"). Not every note can take a sharp or flat, though. Annoyingly, there is no note named "C&flat;" or "E&sharp;".
 
-I can already here the first chorus of "why"s so I'll attempt to answer the following common questions up front, with further discussion below:
+I can already hear the first chorus of "why"s so I'll attempt to answer the following common questions up front, with further discussion below:
 
 Why are there 12 notes, but only 7 get a letter?
-: Because the most important scales in Western music, especially the Major Scale, have seven notes, with each note separated from the other by two different intervals (a whole step, or a half step). Following the same sequence of intervals, but starting on different notes leads to "in between" notes.
+: Because the most important scales in Western music, especially the Major Scale, have seven notes, with each note separated from the other by two different intervals (a whole step, or a half step). Following the same sequence of intervals, but starting on different notes leads to "in between" notes, the accidentals.
 
 
 Why do some notes have two names (like Eb/D#)?
-: Mostly because we want each of the seven notes in a "diatonic" key to be labled A-G. The key of F, for example, comprises the seven notes F, G, A, B&flat;, C, D, and E. It would be weird to call the note A&sharp; instead of B&flat; when playing a song in that key, as you'd have two "A" notes (the scale would become F, G, A, A&sharp;, C, D, and E).
+: Mostly because we want each of the seven notes in a diatonic key to be labeled A-G. The key of F, for example, comprises the seven notes F, G, A, B&flat;, C, D, and E. It would be weird to call the note A&sharp; instead of B&flat; when playing a song in that key, as you'd have two "A" notes (the scale would become F, G, A, A&sharp;, C, D, and E).
 
 Also, sometimes you want to alter a chord for different textures. "The Hendrix chord," for example, sharpens the 9th scale degree in the chord so it's common to use &sharp; if the 9th scale degree lands on an accidental.
 
@@ -77,9 +79,9 @@ Why isn't there a note called Cb or E#?
 : See [diatonic scales](#diatonic-scales) below. No matter which note you start on, you never need a note between B/C or between E/F.
 
 What does diatonic mean?
-: See below.
+: Scales comprised of two different types of invervals. Specifically intervals of a *whole tone* and a *semitone*. Diatonic literally means "two tones."
 
-Why did my piano teacher start the major scale (the white keys) at C and not A?
+On piano, why does the "white key" major scale start with the note C and not A?
 : The over-simplied answer is that early music was mostly minor. The notes A, B, C, D, E, F, and G can either be considered the A minor scale or the C Major scale.
 
 
@@ -97,47 +99,45 @@ The seven notes thus produced successively higher pitches, and repeated indefini
 
 This uneven spacing of seven notes eventually became known as a *diatonic* scale. It was called "diatonic" (literally "two tones") because the distance between any two consecutive notes was either a whole step (a *tone*) or a half step (a *semitone*).
 
-Today, a *tone* is exactly equivalent to two *semitones*, and **playing one fret higher on the guitar neck produces a note exactly one *semitone* higher**. Two frets higher and you produce a note a whole *tone* higher.
+Today, a *tone* is exactly equivalent to two *semitones*.
 
-## Triads
+On a guitar, **playing one fret higher produces a note exactly one *semitone* higher**. Play two frets higher and you produce a note a whole *tone* higher.
 
-Because of this uneven spacing, the sound/feeling of note groupings *changes* as you play different groups of notes. This is particularly true when playing notes at the same time (harmony) but is also true with melodies (individual notes played sequentially in time).
+As we stated earlier, the whole-step / half-step interval between each of the notes in the original scale was *fixed*: there was a whole tone between every pair of notes except between B and C and between E and F which were separated by a semitone.
 
-The most important note groupings are called *triads*, three note groupings.
+Starting on C, there is a whole step to D, another whole step to E, a half step to F, whole steps from G to B, then another half step to the next higher C where the sequence begins again.
 
-Technically, a *triad* is any three note grouping, but the most interesting triads are the ones formed by playing every other note: `A/C/E`, `B/D/F`, `C/E/G`, etc.
+We call the characteristic sound or feel of this specific ordering of tone intervals (`W W h W W W h`) ***the major scale***.
 
-Every triad sounds different, of course, because they contain different pitches, but some triads have similar *character* or *quality*. Musicians struggle to describe the *quality* of sounds, and often use moods, flavors, or colors as proxies.
-
-Playing every other note starting from A (the notes A, C, and E) sounds vaguely sad wistful, or salty, for example. But playing every other note starting on C (C, E, G) sounds somewhat happy, resolved, or sweet. `A/C/E` has a similar quality to `D/F/A`, both are quite different from the *quality* of `C/E/G`.
-
-As we stated earlier, the whole-step / half-step interval between each of the notes was *fixed*. There is a whole step between every pair of notes except between B and C and between E and F.
-
-If we start with C, there is a whole step to D, another whole step to E, a half step to F, whole steps from G to B, then another half step to begin another sequence starting with a higher C. We call the characteristic sound or feel of this ordering of tone intervals (`W W h W W W h`) ***the major scale***. It sounds a vaguely happy.
-
-Literally all of western music derives from the major scale. It should have been promoted to General by now.
+Literally all of western music derives from the major scale. It should have been promoted to General by now. Memorize that pattern: `W W h W W W h`.
 
 ## Modes
 
-If we start on A rather than C, though, the intervals become: `W h W W h W W`. We call the character or *feel* of this sequence of intervals *minor* or *Aeolian mode*. It sounds vaguely sad to most people.
+If we start on A rather than C, though, the intervals become: `W h W W h W W`. We call the character or *feel* of this sequence of intervals *minor* or *Aeolian mode*. We can create a total seven different interval sequences by starting on different notes.
 
-We call these different sequences of whole-tone and half-tone intervals *modes*. The first mode (the Major scale) obtained by starting on C is called *Ionian mode*.
+We call these different sequences of whole-tone and half-tone intervals *modes*. The first and most important *mode* (the Major scale) is obtained by starting on C. It's also called *Ionian mode*.
 
 If you start with G, you get *Mixolydian mode* (a great mode for soloing over the blues today, but I'm doubtful that any Gregorian blues chants survive).
 
-The uneven spacing results in seven different "modes" for precisely **the same collection of seven notes**. It turns out that just by changing which note you consider the first (the "key") you can make music with very different "feels" even though you're using exactly the same notes.
+Starting with different notes results in seven different [modes](#the-modes) &mdash; for precisely **the same collection of seven notes**.
 
-Eventually, somebody thought: "But what if I want to produce (say) that sweet, happy Major/Ionian sound, but starting on the note G instead of C?"
+It turns out that just by emphasizing one specfice note (the "key") in the collection you can make music with very different "feels" even though you're still using exactly the same notes.
 
-In other words, they wanted a group of seven notes that starts on G, but followed the `W W h W W W h` interval sequence of Ionian mode. That would require the notes: G, a whole-step to A, whole step to B, half step to C, whole step to D, whole step to E, but then we need a whole step to ... what? F is too close (only a half step from E) and G is too far.
+You emphasize a note by playing it more often, ending *phrases* on it, letting it continue to ring out while you play other, shorter notes, etc. Technically, these are all forms of "implied harmony". Modes are a *harmonic* concept, but they are why we have twelve notes today instead of just seven.
+
+Emphasize the note C, and the notes `A B C D E F G` sound "Ionian". Emphasize D and it sounds "Dorian". And so on.
+
+Eventually, somebody thought: "But what if I want to produce (say) that sweet, sweet Ionian sound, but emphasizing the note G instead of C?"
+
+In other words, they wanted a group of seven notes that starts on G, but followed the `W W h W W W h` interval sequence of Ionian mode.
+
+That would require the notes: G, a whole-step to A, whole step to B, half step to C, whole step to D, whole step to E, but then we need a whole step to ... what? F is too close (only a half step from E) and G is too far away.
 
 They needed a note halfway *between* F and G for it to sound Ionian instead of Mixolydian. Since this tone replaces F in the sequence, but wasn't F, they called it F&sharp;. It's just another name, but for a new note that wasn't used before.
 
 It turns out that if you go through the process of creating every mode starting on each of the seven original notes, you'll end up needing five total of these "halfway" notes (one between A/B, C/D, D/E, F/G, and G/A).
 
-These "in between" notes have *two* possible names, which can be confusing. The rule is simple, though, just use the name based on what you're replacing. In the example above, for G Ionian we replaced F so we called it F&sharp; and not G&flat;.
-
-Including the seven original *natural* notes, you end up with twelve uniquely named notes:
+You'll end up with only twelve notes in total:
 
 ## The twelve note names
 
@@ -154,12 +154,9 @@ Including the seven original *natural* notes, you end up with twelve uniquely na
 11. G
 12. G&sharp; or A&flat;
 
+Even today we only have twelve unique notes: seven *natural* notes and five *accidentals*.
 
-Remember that these are *just names* and an accident of history. They could have been named after the twelve apostles or the first twelve letters of the Greek alphabet, for example.
-
-In some ways, it would have been nice if they had: things get confusing when we start talking about how the notes [function](#note-function) in different contexts.
-
-Here are the notes to create a major (Ionian) scale starting on each of the original seven notes:
+Here, for example, are the notes for Ionian mode (`W W h W W W h`) starting with each of the seven original notes:
 
 ## The Major scale notes
 
@@ -181,13 +178,31 @@ Following the `W W h W W W h` sequence to derive F Ionian, though, we start with
 
 You can also create major scales *starting* on the new "between" notes (the *accidentals*). The B&flat; Major scale really is a thing, for example. No further new notes are required, but you'll start using the &flat; names for the *accidentals* more often.
 
-Note that the A&flat; Major scale is a *very* different thing from the A minor scale (AKA A Aeolian).
+These "in between" notes have *two* possible names, which can be confusing. The rule is simple, though, just use the name based on what you're replacing. For G Ionian we replaced F so we called it F&sharp; and not G&flat;.
 
-Even today we only have twelve unique notes: seven *natural* notes and five *accidentals*.
+There are seven total modes, not just Ionian. In addition to the interval sequence, it can be helpful to think about how each mode differs from Ionian (the major scale):
+
+## The modes
+
+| Mode       | Interval sequence | Changes from Major scale
+| ---        | ---               | ---
+| Ionian     | `W W h W W W h`   | (none)
+| Dorian     | `W h W W W h W`   | &flat;3, &flat;7
+| Phrygian   | `h W W W h W W`   | &flat;2, &flat;3, &flat;6, &flat;7
+| Lydian     | `W W W h W W h`   | &sharp;4
+| Mixolydian | `W W h W W h W`   | &flat;7
+| Aeolian    | `W h W W h W W`   | &flat;3, &flat6; &flat;7
+| Locrian    | `h W W h W W W`   | &flat;2, &flat3;, &flat;5, &flat;6, &flat;7
 
 ## Note function
 
-The **names** of notes are absolute. They never change, no matter what scale, melody, or chord you're playing. C is always called C. The note D is always called D (and can always be found two frets higher than any C on the fretboard).
+The **names** of notes are absolute. They never change, no matter what scale, melody, or chord you're playing.
+
+C is always called C. The note D is always called D (and can always be found two frets higher than any C on the fretboard).
+
+Remember that the [twelve note names](#twelve-note-names) are *just names*. The names are simply an accident of history. They could have been named after the twelve apostles or the first twelve letters of the Greek alphabet.
+
+In some ways, it would have been nice if they had: things get confusing when we start talking about how the notes *function* in different contexts.
 
 It's a little confusing that the *accidental* notes have two names, but G&sharp; and A&flat; is *the same note* for example. That note will *always* be called by one of those names, no matter the context.
 
