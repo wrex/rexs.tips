@@ -47,10 +47,3 @@ Here are a few reasons you might want to stick around, though:
 * **It's written by a beginner for beginners**. Though I've been struggling with the instrument for decades, at best I'm an intermediate player. I still have epiphanies every few days. I try to get recent breakthroughs in understanding and tricks for practicing technique onto the site while they are still fresh in my mind.
 
 * **It's prescriptive about what to practice**. Like many, my practice sessions are often a disorganized and inefficient mess. I have to think too hard about "what should I be practicing". On this site, I'm trying out an idea about "test driven guitar". A long sequence of drills and proficiency tests to choose from. Eventually I hope to provide a mechanism for tracking which tests have been attempted (and when) and which have been mastered, but even tracking with pencil and paper is proving useful.
-
-### Where should I go next?
-
-If I haven't scared you off, you should probably start with one of the following
-
-* [Test Driven Guitar](#TODO): About the `Test Driven Guitar` concept.
-* [Getting Started](#TODO): How to start learning.
