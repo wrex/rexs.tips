@@ -12,18 +12,24 @@ weight: 2
 
 Every student, myself included, desires "spoon feeding." We are all fundamentally lazy. We want someone to tell us exactly what we should be working on and in what order, every step of the way.
 
-Sadly, few of us are ever likely to have a nanny-tutor with us for every practice session.
+Sadly, few of us have a nanny-tutor looking over our shoulder at every practice session.
 
-Worse, I've discovered that like most people, I'm prone to thinking I've mastered something **long** before I become truly proficient. I thought, for example, that once I could play the pentatonic scale in all five positions I was *done*. Next!
+Like most people, I'm also prone to thinking I've mastered something as soon as I can make it all the way through one time. I thought, for example, that once I could play the pentatonic scale in all five positions I was *done*. Next!
 
-Wrong, wrong, wrong. Knowing is not [KNOWING](#). I needed to learn which note was which in each position. I needed to be able to think "G Major pentatonic" with my hand at any fret on the neck and *instantly* find the closest scale shape. I had just barely *begun* to learn the pentatonic scale.
+Wrong, wrong, wrong.
 
-I decided to create a *system* for practicing that instantly tells me:
+Knowing is not [KNOWING](#). I needed to learn which note was which in each position. I needed to be able to think "G Major pentatonic" with my hand at any fret on the neck and *instantly* find the closest scale shape. That takes weeks or even months of focused practice. I had just barely *begun* to learn the pentatonic scale!
+
+Knowing these two things, I decided I needed a *system* for practicing.
+
+Concretely, I wanted a system that answered just two questions:
 
 1. **What** should I be working on?
 2. Have I practiced this particular item **enough**?
 
-Let's tackle those two questions in reverse order.
+Tracking "what" is a fairly straightforward database problem. I'll discuss my ideas for this shortly.
+
+First, though, let's look at the second question and discsuss what I'm calling "test driven guitar."
 
 ## Deciding "enough"
 
@@ -35,87 +41,82 @@ But I'm just a novice, who am I to judge whether I've mastered something suffici
 
 I decided to borrow a technique from software developers called "test driven development" or TDD.
 
-### Test Driven Development
+### TDD for software
 
 With TDD, you write tests *first*, and only then begin coding the actual software implementation.
 
-With software, the process follows a cycle:
+With software, the TDD process follows a cycle:
 
 1. **Red Light**. The tests are written, but fail (with a "red" message) because the code is just a "stub" that doesn't actually do anything.
 
 2. **Green Light**. The developer codes the simplest possible implementation that makes the test pass ("green" light). The code is usually pretty ugly and slow at this point.
 
-3. **Refactor**. The developer then makes changes to the code ("refactoring") to make it more readable, maintainable, efficient, and fast, rerunning the test periodically to ensure the code still works. After each change is tested, the code is broken unless the light is green.
+3. **Refactor**. The developer then makes changes to the code ("refactoring") to make it more readable, maintainable, efficient, and fast. They re-run the tests periodically to ensure the code still works. After each change is tested, the code is broken unless the light turns green.
 
-While the field of software development is obviously quite different from playing guitar, I stole ideas from TDD and applied them to learning the guitar.
+While the field of software development is obviously quite different from playing guitar, there are some ideas from TDD we can apply to learning the guitar.
 
 I call this *test driven guitar*.
 
-The most important idea is to **explicitly define what makes the light turn green**. In other words, document precisely what it takes to know you've practiced enough.
+The most important idea is to explicitly define what makes the light turn green **before you start practicing**. In other words, document precisely what it takes to know when you've practiced enough.
 
-### Pass criteria
+### GTD: Pass criteria
 
-Most drills and exercises in books, videos, or online courses only explain how to perform the drill, with only a bit of subjective guidance (if anything) regarding when you can stop practicing.
+Most drills and exercises in books, videos, or online courses only explain how to perform a particular drill. If they mention when you can stop practicing at all, it's usually some sort of totally subjective guidance.
 
-I wanted the exercises on this site to be *tests* with objective pass criteria, so I've expressly defined what constitutes "green light" in every practice exercise ("proficiency test") on this site.
+I wanted to create *tests* with *objective* pass criteria, rather than completely open-ended *exercises*.
 
-But how to make the pass criteria objective? Enter Mr. Metronome
+I'm publishing a series of "proficiency tests" using TDD principles to expressly define what constitutes a "green light" for a particular test.
+
+How to make the pass criteria objective rather than subjective? Enter **Mr. Metronome.**
 
 Most people think a metronome only has two purposes:
 
-* Provide a steady pulse during practice to improve your internal rhythm
-* Let you build speed by practicing at higher and higher BPM
+* It provides a steady pulse during practice to improve your internal sense of timing.
+* It lets you build speed by practicing at higher and higher BPM.
 
-But a metronome also excels as an objective, and *cruel*, task master:
+Both are true, but a metronome also excels as an objective, and *cruel*, task master.
 
-  "Can you complete the exercise three times in a row with half notes at 120 BPM without error".
+Imagine teaching a child to recite the alphabet. At some point, the kid can probably make it all the way from A to Z successfully, but with lots of "umms" and "errs" dispersed throughout. The kid smiles in relief and thinks she's done.
 
-The metronome is not just for developing your sense of time, it's also an incredibly disciplined task master.
+With an evil grin, her teacher then say, "Congrats, Kid. You've memorized your ABCs, now comes the hard part."
 
-Imagine teaching a child to recite the alphabet.
+Teacher then sets a metronome to, say, 80 BPM and says, "Every time this clicks I want you to say the next letter of the alphabet, but you can't miss a click!"
 
-My father used to tell a great story about teasing his younger brother: "You're so dumb I bet you can't even recite the alphabet." My uncle replied, "Sure I can! ... Of course, once you get up to 'R' and all that stuff ....".
+Suddenly reciting the alphabet got a whole lot harder.
 
-I bet my uncle could repeat the alphabet at 40 BPM quarter notes, but he'd probably have struggled at a faster tempo.
+*That* is how you use the metronome to objectively measure proficiency.
 
-Unfortunately, the pass criteria isn't always measurable. Sometimes it's unavoidably subjective and requires self assessment: "You can play the lick/song/whatever fluently and expressively without undue stress and without losing your place."
+I won't pretend that every exercise "green light" can be defined with a metronome setting, but it does suffice for a huge majority of exercises. Regardless, I've tried hard to define *some* sort of objective *proficiency tests* with every exercise.
 
-The idea, though, is to specify the pass criteria *before* you start practicing.
-
-Many proficiency tests will have a corresponding tutorial or other page describing the background material.
-
-All tests will have "Green light criteria": what does it take to pass the test?
-
-Some tests may have extra credit (effectively "refactoring suggestions") to continue your exploration even after you've mastered the item.
-
+Further, wherever possible, I've tried to define both "Initial Green" and "Refactored Green." That is, when do you know the material enough to start practicing seriously, and when have you truly mastered the material? When have you "learned your ABCs" and when can you recite the alphabet *without pause*?
 
 ## Tracking "what"
 
-In order to know what I should be working on, I obviously needed some way to track
+Deciding "enough" was only half the battle, though. I still needed a way to keep track of what I was working on.
 
-I needed a way to keep track of what I was working on. Conceptually, I wanted a list of "things to practice" that kept track of my progress and kept me from getting lost.
+Conceptually, I wanted a list of "things to practice" that tracked my progress and prevented me from getting lost.
 
-I definitely *didn't* want anything that dictated a rigid, linear progression through the items, though. Most instructional sites are written that way: complete this, then do that, and only then start this new thing.
+I definitely *didn't* want anything that dictated a rigid, linear progression through the items, one by one.
 
-Somedays I just didn't feel like working on technique and wanted to better undertand theory. Other days I *only* wanted to focus on technique. Still other days, I just wanted to practice actually making music (playing a song, switching between chords, or picking out a melody).
+Most instructional sites are written that way: complete this, then do that, and only then start this new thing.
 
-My energy level and inclinations *change* day by day. This is normal (or at least so I've convinced myself).
+Some days I just didn't feel like working on technique and wanted to better understand theory. Other days I *only* wanted to focus on technique. Still other days, I just wanted to practice actually making music (playing a song, switching between chords, or picking out a melody).
 
-One thing I know for sure is that learning is **not** linear!
+My energy level and inclinations *change* day by day. This is *normal* (or at least so I've convinced myself).
 
-It's completely reasonable and normal (actually unavoidable in my opinion) to branch out and explore whatever strikes your fancy on any given day.
+One thing I knew for sure is that learning is **not** linear!
 
-But how can we track our progress and remain disciplined?
+How to track our progress yet remain disciplined?
 
-### Epiphany #1:  list of all items
+### The master list
 
-What if I just maintained a simple list of every practice item? Conceptually, I just needed to mark each item in one of three possible states:
+What if I just maintained a simple list of every practice item? Conceptually, I just needed a list of practice items, each in one of three possible states:
 
 * Never attempted
 * In progress
 * Mastered
 
-With a little more thought, I came up with a simple list like this:
+With a little more thought, I created a list like this:
 
 | Item     | Mastered? | Last attempted | Description
 | ---      | ---       | ---            | ---
@@ -136,28 +137,14 @@ Item's with an attempt date but not yet mastered are "in progress."
 
 Items with "Y" in the mastered column I've already mastered.
 
-The item number and description could even *links* to an explanation of the drill, with diagrams, videos, etc.
+The item number and description were *links* to a thorough explanation of the drill, with diagrams, videos, etc.
 
-After a bit more thought, I realized I still had several problems:
+After a bit more thought, I realized I still had a few problems:
 
-1. The list will quickly grow quite long.
+1. The list will quickly grow quite long. Knowing my proclivities, even the filtered list of "in progress" items will grow without bound. With umpteen dozen "in progress" exercises, will I really know what I should be working on?
 
-2. I needed some way of creating *hierarchy* and relationships. Some practice items need several sub-items.
+2. I needed some way of creating *hierarchy* and relationships. Some practice items need several sub-items. Several drills/exercises are attempting to teach the same skill.
 
-3. Even if I'm the only user it seems like I need a database of some sort to track all this stuff. I know I'll have at least two users, so I need to track the mastered and last attempted columns per user.
+3. I don't intend to be the only user, so clearly I need a database of some sort to track all this stuff for each user.
 
-4. Knowing my proclivities, even the list of "in progress" items will grow very long. I'll still struggle figuring out what I should be practicing today.
-
-
-### Defining "mastered"
-
-
-### TDG in practice
-
-I'm calling each item in TDG a "proficiency test". Each item explicitly states what constitutes basic proficency for the item (a "green" light).
-
-
-
-The goal is to present each user with a list of practice items sorted and filtered based on the current days interests.
-
-Eventually, I'd like to show the progress state of each item for the logged in user, but I'll need to do some coding to make that work. For now, you'll just have to use pen and paper to track which items you're currently working on or have mastered.
+I learned a while ago that I start to stress whenever I'm working on more than roughly three to five things at a time.
