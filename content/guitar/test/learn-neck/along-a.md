@@ -1,9 +1,10 @@
 ---
 date: 2020-04-11T10:53:17-07:00
-title: "Find notes along the A string"
-linkTitle: "Find notes along the A strin"
+title: "Along A"
+linkTitle: "Along A"
 description: "Single string exercise for A"
 author: "Rex Walters"
+weight: 20
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

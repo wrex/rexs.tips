@@ -1,7 +1,7 @@
 ---
 date: 2020-04-11T10:52:49-07:00
-title: "Learn the fretboard"
-linkTitle: "Learn the fretboard"
+title: "Fretboard notes"
+linkTitle: "Fretboard notes"
 description: "Practice finding notes everywhere on the fretboard"
 author: "Rex Walters"
 resources:
