@@ -7,8 +7,8 @@ description: "Tips and some philosophy regarding precious practice time"
 type: "docs"
 weight: 1
 resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
+  - src: "**distractions.jpg"
+    title: "distractions"
 ---
 
 Nobody improves without practice, **regular** practice. But too many people (myself included) unconsciously start to dread (and thus avoid) their practice sessions. I believe this happens for just two reasons: *motivation* and *time*.
@@ -101,6 +101,10 @@ The point is to attack the higher level goal (learning the song) from multiple a
 Distractions are a common problem.
 
 These days, the internet makes it even worse: between online videos, ebooks, websites, apps, remote-learning, etc., there are now so many great sources of (often free) music education that you can literally waste *hours* just bouncing from topic to topic and instructor to instructor.
+
+{{< imgproc distractions Fill "600x400" >}}
+Dunno about you, but I read them all.
+{{< /imgproc >}}
 
 Eventually you become almost paralyzed. Which of all these terrific topics and exercises should you be practicing?!
 

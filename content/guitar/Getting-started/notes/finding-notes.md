@@ -11,14 +11,18 @@ resources:
   title: "Image #:counter"
 ---
 
-### The end goal
-
-Try not to be intimidated, but here is what we are eventually going to learn. You'll eventually be able to find and name every single note in this diagram *effortlessly*:
+Here is every natural note on the first fifteen frets of the neck:
 
 <a name="figure-1"></a>
 {{< figure src="/img/neck-diagrams/natural-notes.png" title="Fig. 1: The natural notes" >}}
 
-I'm not going to kid you, it's *hard* to really **KNOW** all those notes. It will take weeks or months of real practice, but *everything* gets easier once you've learned the note locations. It's progressive, too: the better you know the notes the easier things get, but even if you can only find a few notes (say those on just the E strings) you'll still find it amazingly helpful.
+You'll eventually be able to find and name every single note in this diagram *effortlessly*. That's the goal of this page.
+
+I'm not going to kid you, it's *hard* to learn all those note locations, especially to the point where you can find notes without thinking.
+
+It will take weeks or months of real practice, but *everything* gets easier once you've learned the note locations.
+
+It's progressive, too, not an all-or nothing ordeal. Even if you can only find a few notes (say those on just the E strings) you'll find that little bit of knowledge proves helpful more often than you might expect. The more notes you know, the easier it gets to learn more. Eventually, you'll have the entire fretboard licked.
 
 {{< alert color="warning" title="Always tune up!" >}}
 Always tune your guitar at the beginning of **every** practice session. You are training your ears as much as your fingers, and it's important for you to practice with the right notes. Eventually you'll automagically learn to *hear* when you are out of tune (and even whether you are sharp or flat) but to get there you need to always ensure you are in tune.
@@ -43,7 +47,7 @@ Why learn the notes on the fretboard? Several reasons, but chief among them:
 * It makes learning to read sheet music possible. I'm still ridiculously slow at reading, and learning to read on guitar *is* harder than many other instruments (because the same note can be played in so many different places) but it’s not impossible. It's a whole lot easier when you already know where the notes are on the fretboard!
 
 
-### **KNOWING** is more than knowing
+## **KNOWING** is more than knowing
 
 Really knowing the location of a note someplace on the fretboard, by the way, means knowing it as well as you know letters of the alphabet, the names and colors of fruits, or names and nicknames of friends and family members.
 
@@ -59,21 +63,12 @@ It’s not enough to be able to eventually work out the note by using interval s
 
 Even the slight mental effort of figuring out locations relative to something else you do **KNOW** will get in the way as you start doing more advanced things (like forming multi-note chords and chord progressions).
 
-### A few words about practicing
 
-It will, unfortunately, take quite a bit of time (weeks to months) to **KNOW** the notes on the fretboard. But once you know (instantly and effortlessly) the name and location of every note on the fretboard the entire process of learning how to play the instrument gets easier.
-
-Even just five minutes or so of daily practice will make the process pretty painless, but you just can't escape *several* weeks or months of practice.
-
-Don’t let “months” scare you: by the end of just the first *day* you should be able to instantly find any natural note (the notes A, B, C, D, E, F, and G) anywhere on the top or bottom strings. This means that by the end of day one, you'll have likely memorized one third of the fretboard!
-
-The notes on the remaining four strings take so much more time because the effort is cumulative: each new note on each new string makes it progressively harder to remember what you've already learned.
-
-### Test Driven Guitar
+## Proficiency test 001
 
 I'm going to use this as my first trial run of "Test Driven Guitar" and work backward from the end goal. Here's the final test that we are working toward. If you can't pass this test right now, you can't say you **KNOW** the notes on the fretboard:
 
-<a name="TDG001">&nbsp;</a>
+<a name="PT001">&nbsp;</a>
 {{< alert color="success" title="TDG001 Fretboard Notes" >}}
 1. Set a metronome to 60 BPM. We will be playing half notes (two clicks per note).
 
