@@ -11,4 +11,4 @@ resources:
   title: "Image #:counter"
 ---
 
-Index page for /test
+See [Test Driven Guitar]({{< ref "/guitar/Overview/test-driven-guitar" >}}) for details about how these tests were designed.

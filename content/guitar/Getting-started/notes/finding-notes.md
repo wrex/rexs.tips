@@ -49,20 +49,6 @@ Why learn the notes on the fretboard? Several reasons, but chief among them:
 
 ## **KNOWING** is more than knowing
 
-Really knowing the location of a note someplace on the fretboard, by the way, means knowing it as well as you know letters of the alphabet, the names and colors of fruits, or names and nicknames of friends and family members.
-
-It means: given a note name, you can instantly, *effortlessly* find that note all over the fretboard (at one or two locations on each string).
-
-It means: after plunking a finger down anywhere on the fretboard, you instantly, *effortlessly* know the name of the note at that location and the name of the other notes nearby.
-
-I call this **KNOWING** the note (all caps and bold).
-
-Just like when you hear “green” you immediately visualize the color, hearing "C" should light up several locations on the fretboard in your mind's eye.
-
-It’s not enough to be able to eventually work out the note by using interval shapes or counting up/down from another fret or string. **KNOWING** means you can directly recall without effort.
-
-Even the slight mental effort of figuring out locations relative to something else you do **KNOW** will get in the way as you start doing more advanced things (like forming multi-note chords and chord progressions).
-
 
 ## Proficiency test 001
 

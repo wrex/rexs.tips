@@ -4,7 +4,7 @@ title: "Fretboard notes"
 linkTitle: "Fretboard notes"
 type: "docs"
 weight: 10
-description: "Practice finding notes everywhere on the fretboard"
+description: "**Start here:** learn the notes on the fretboard *first*."
 author: "Rex Walters"
 resources:
 - src: "**.{png,jpg}"

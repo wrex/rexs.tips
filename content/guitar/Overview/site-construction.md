@@ -1,7 +1,7 @@
 ---
 date: 2020-04-09T20:23:16-07:00
-title: "How this book is organized"
-linkTitle: "How this book is organized"
+title: "Site construction"
+linkTitle: "Site construction"
 author: "Rex Walters"
 description: "Tips on finding your way around"
 type: "docs"
