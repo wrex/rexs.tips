@@ -2,6 +2,7 @@
 date: 2020-04-11T12:05:46-07:00
 title: "Major"
 linkTitle: "Major"
+type: "docs"
 description: "Exercises for learning major triads"
 author: "Rex Walters"
 resources:
