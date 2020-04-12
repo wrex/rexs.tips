@@ -5,7 +5,7 @@ linkTitle: "Fretboard note mastery"
 tdgid: "TDG0001"
 type: "docs"
 weight: 10
-tutorial: "/guitar/Fundamentals/notes/just-12-notes.md"
+tutorial: "/guitar/Fundamentals/notes/finding-notes.md"
 description: "Play every note on all strings"
 author: "Rex Walters"
 resources:
@@ -13,9 +13,11 @@ resources:
   title: "Image #:counter"
 ---
 
-## Proficiency test {{% param tdgid %}}
+{{% tdgtutorial %}}
 
----
+This is proficiency test **{{% param tdgid %}}**
+
+## Demonstration
 
 {{< youtube 8Iz3sAvcZrM  >}}
 
