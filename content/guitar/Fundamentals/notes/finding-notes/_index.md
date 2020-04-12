@@ -14,7 +14,7 @@ resources:
 Here is every natural note on the first fifteen frets of the neck:
 
 
-{{< myimgproc "natural-notes" "Resize" "800x" >}}{{< /myimgproc >}}
+{{< figproc "natural-notes" "Resize" "800x" >}}{{< /figproc >}}
 
 You'll eventually be able to find and name every single note in this diagram *effortlessly*. That's the goal of this page.
 
@@ -22,7 +22,7 @@ I'm not going to kid you, it's *hard* to learn all those note locations, especia
 
 It will take weeks or months of real practice, but *everything* gets easier once you've learned the note locations.
 
-Don't feel like it's a single monumental task, either. Every single note you learn (truly **KNOW**) will pay huge dividends. Even if you only **KNOW** a few notes (say those on just the E strings) you'll find that that little bit of knowledge proves immense help when navigating around the neck. The more notes you know, the easier it gets to learn more. Eventually, you'll have the entire fretboard licked. Trust me, you'll get there sooner than you think.
+Don't feel like it's all or nothing, either. Every single note you learn (truly **KNOW**) pays huge dividends. Even if you only **KNOW** a few notes (say those at the fifth fret) you'll find that that little bit of knowledge proves immense help when navigating around the neck. The more notes you know, the easier it becomes to learn more. Eventually, you'll have the entire fretboard licked. Trust me, you'll get there sooner than you think.
 
 {{< alert color="warning" title="Remember to always tune up!" >}}
 **Always** tune your guitar at the beginning of **every** practice session. Even if you think you just tuned it and think there is no way it fell out of tune: **check the tuning**.
@@ -233,9 +233,7 @@ Practice the proficiency tests on the remaining strings:
 * [TDG0001a: Along G]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
 * [TDG0001a: Along B]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
 
-TODO: Video demonstration of TDG006.
-
-### 6. Putting it all together
+## Putting it all together
 
 Once you can play the cycle of fourths on each string individually, it's time to start practicing [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) in it's entirety.
 
@@ -249,8 +247,8 @@ This is one of those drills that may take years to master. The goal is to know t
 
 [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
 
-Enjoy!
+[Figure 1](#natural-notes) doesn't look so daunting any more, does it?
 
-[testit](#natural-notes)
+Enjoy!
 
 ---
