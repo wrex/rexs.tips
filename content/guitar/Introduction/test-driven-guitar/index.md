@@ -170,3 +170,7 @@ After a bit more thought, I realized just one long list had several problems:
 4. While I eventually hope to provide automatic tracking of items for each logged in user, I needed a pencil and paper mechanism during the interim.
 
 I learned a while ago that I start to stress whenever I'm working on more than roughly three to five things at a time.
+
+---
+
+Next: [Fundamentals]({{< ref "/guitar/Fundamentals" >}})

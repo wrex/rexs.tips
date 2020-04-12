@@ -20,3 +20,7 @@ There are two different types of content in the guitar portion of this site:
 Basically, read most of these pages like a book, but when you're ready to start practicing, head over to [proficiency tests]({{< ref "/guitar/tests" >}}) and follow the instructions.
 
 Proficiency tests are the result of what I'm calling [Test Driven Guitar]({{< ref "/guitar/Introduction/test-driven-guitar" >}}). Feel free to skip that chapter if you just want to get on with learning the instrument.
+
+---
+
+Next: [Test Driven Guitar]({{< ref "/guitar/Introduction/test-driven-guitar" >}})

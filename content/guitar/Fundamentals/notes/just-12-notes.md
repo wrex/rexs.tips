@@ -357,4 +357,4 @@ Believe it or not, all of this will eventually make sense.
 
 ---
 
-This concludes the background material. Now let's continue with [learning how to find the notes on the fretboard]({{< ref "/guitar/Fundamentals/notes/finding-notes.md" >}})!
+Next: [Finding notes]({{< ref "/guitar/Fundamentals/notes/finding-notes.md" >}})

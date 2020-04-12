@@ -22,3 +22,7 @@ If your screen is wide enough (on a desktop browser) you should see links on the
 The left side navigation is for the entire book. On longer pages, you'll see navigation for section headers *within* the page on the right (with a wide enough screen).
 
 Please log [a documentation issue](https://github.com/wrex/rexs.tips/issues/new?title=General%20query) if you have any questions or concerns.
+
+--- 
+
+Next: [Content Organization]({{< ref "/guitar/Introduction/content-organization" >}})

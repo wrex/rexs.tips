@@ -265,3 +265,6 @@ This works for almost any exercise.
 Those beats just don't stop! It's *hard* (and exhausting) to play something you've not yet completely mastered in time. Believe me: three minutes can seem an eternity with this sort of exercise.
 
 It can be unbelievably satisfying, though, when you finally complete an exercise without missing a beat, even if only for three minutes at a time!
+
+---
+Next: [Notes]({{< ref "/guitar/Fundamentals/notes" >}})

@@ -1,5 +1,5 @@
 ---
-title: "Guitar"
+title: "Rex's Opinionated Guitar Lessons"
 linkTitle: "Guitar"
 type: docs
 weight: 20
@@ -8,8 +8,6 @@ menu:
     weight: 20
 ---
 
-## Opinionated lessons for learning guitar
+These pages are for beginner and intermediate students with an engineer's mind.
 
-Guitar lessons for beginner and intermediate students with an engineer's mind.
-
-If you want to learn guitar, can't help constantly asking "why," and read operator's manuals for pleasure, then this site is for you.
+If you want to learn guitar, can't help constantly asking "why," or like to read operator's manuals for pleasure, then this site is for you.
