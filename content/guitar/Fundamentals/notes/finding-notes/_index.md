@@ -8,7 +8,7 @@ type: "docs"
 weight: 10
 resources:
   - src: "**natural-notes.png"
-    title: "All natural notes"
+    title: "Fig 1. All natural notes"
 ---
 
 Here is every natural note on the first fifteen frets of the neck:
@@ -250,5 +250,7 @@ This is one of those drills that may take years to master. The goal is to know t
 [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
 
 Enjoy!
+
+[testit](#natural-notes)
 
 ---

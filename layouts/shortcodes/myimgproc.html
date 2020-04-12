@@ -1,4 +1,5 @@
-{{ $original := .Page.Resources.GetMatch (printf "**%s*" (.Get 0)) }}
+{{ $imgid := .Get 0 }}
+{{ $original := .Page.Resources.GetMatch (printf "**%s*" $imgid ) }}
 {{ $command := .Get 1 }}
 {{ $options := .Get 2 }}
 {{ if eq $command "Fit"}}
@@ -12,7 +13,7 @@
 {{ end }}
 {{ $image := .Scratch.Get "image" }}
 <div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: {{ add $image.Width 10 }}px">
-	<img class="card-img-top" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+	<img id="{{ $imgid }}" class="card-img-top" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
 	{{- with .Inner -}}
 	<div class="card-body px-0 pt-2 pb-0">
 		<p class="card-text text-center">{{ . }}
