@@ -22,10 +22,12 @@ I'm not going to kid you, it's *hard* to learn all those note locations, especia
 
 It will take weeks or months of real practice, but *everything* gets easier once you've learned the note locations.
 
-It's progressive, too, not an all-or nothing ordeal. Even if you can only find a few notes (say those on just the E strings) you'll find that little bit of knowledge proves helpful more often than you might expect. The more notes you know, the easier it gets to learn more. Eventually, you'll have the entire fretboard licked.
+Don't feel like it's a single monumental task, either. Every single note you learn (truly **KNOW**) will pay huge dividends. Even if you only **KNOW** a few notes (say those on just the E strings) you'll find that that little bit of knowledge proves immense help when navigating around the neck. The more notes you know, the easier it gets to learn more. Eventually, you'll have the entire fretboard licked. Trust me, you'll get there sooner than you think.
 
-{{< alert color="warning" title="Always tune up!" >}}
-Always tune your guitar at the beginning of **every** practice session. You are training your ears as much as your fingers, and it's important for you to practice with the right notes. Eventually you'll automagically learn to *hear* when you are out of tune (and even whether you are sharp or flat) but to get there you need to always ensure you are in tune.
+{{< alert color="warning" title="Remember to always tune up!" >}}
+**Always** tune your guitar at the beginning of **every** practice session. Even if you think you just tuned it and think there is no way it fell out of tune: **check the tuning**.
+
+You are training your ears as much as your fingers. It's important to always play the right pitches. Eventually you'll automagically learn to *hear* when you are out of tune (and even whether you are sharp or flat) but to get there you need to practice with a guitar that is *always* in tune.
 {{< /alert >}}
 
 ## Why bother?
@@ -47,28 +49,10 @@ Why learn the notes on the fretboard? Several reasons, but chief among them:
 * It makes learning to read sheet music possible. I'm still ridiculously slow at reading, and learning to read on guitar *is* harder than many other instruments (because the same note can be played in so many different places) but it’s not impossible. It's a whole lot easier when you already know where the notes are on the fretboard!
 
 
-## **KNOWING** is more than knowing
-
-
 ## Proficiency test 001
 
 I'm going to use this as my first trial run of "Test Driven Guitar" and work backward from the end goal. Here's the final test that we are working toward. If you can't pass this test right now, you can't say you **KNOW** the notes on the fretboard:
 
-<a name="PT001">&nbsp;</a>
-{{< alert color="success" title="TDG001 Fretboard Notes" >}}
-1. Set a metronome to 60 BPM. We will be playing half notes (two clicks per note).
-
-2. Progress through the entire circle of fourths, finding and playing each note on the first 12 frets.
-
-First you will find the note B on every string, then note E, and so on, finishing with the note G&flat;.
-
-For each note, first play ascending from the lowest string to the highest string, playing the note on each string in turn. **Then return descending** playing first on the thinnest string and progressing to the thickest. For some strange reason, going in both directions seems to assist with memorization.
-
-Pass criteria: Successfully work through all 12 notes while keeping time and without any flubs or misses. It's okay to wait up to a full bar before moving onto the next note in the cycle-of-fourths, but you must play each note on all six string in half note time without missing a beat.
-
-{{< /alert >}}
-
-{{< youtube 8Iz3sAvcZrM  >}}
 
 ## The Process
 
@@ -330,7 +314,7 @@ When you're ready though, set the metronome to a nice s-l-o-w tempo and try play
 
 This is one of those drills that may take years to master. The goal is to know the notes like the back of your hand, but if you can perform [TDG001](#TDG001) with half notes at 60 BPM, you'll know the fretboard well enough to tackle almost any challenge (and better than many guitarists who have been playing for *years*).
 
-[TDG001](#TDG001) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice sessions. It only takes a minute or two.
+[TDG001](#TDG001) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
 
 Enjoy!
 
