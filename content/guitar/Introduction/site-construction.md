@@ -3,9 +3,9 @@ date: 2020-04-09T20:23:16-07:00
 title: "Site construction"
 linkTitle: "Site construction"
 author: "Rex Walters"
-description: "Tips on finding your way around"
+description: "How to use these pages"
 type: "docs"
-weight: 2
+weight: 10
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

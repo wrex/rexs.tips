@@ -3,7 +3,6 @@ title: "Introduction"
 linkTitle: "Introduction"
 weight: 1
 type: docs
-
 description: >
   Why learn guitar from someone barely more than a novice himself?
 ---
@@ -12,7 +11,7 @@ This site attempts to teach anyone how to play guitar. The author has a decent g
 
 So why do I bother with this content?
 
-I'm convinced that beginners sometimes make better teachers than experts. Experts often *forget* what it was like to be completely lost. They sometimes assume context and skills that students simply lack.
+I'm convinced that beginners sometimes make better teachers than experts. Experts often *forget* what it was like to be completely lost. They sometimes assume context and skills that students simply don't have.
 
 Many expert players simply aren't good teachers. I've heard great players trying to teach get frustrated and say something along the lines of: "Just freaking *play*, man!".
 
@@ -30,13 +29,15 @@ I can heartily recommend any of the following:
 : I have a real passion for the Gypsy Jazz style. Django really created something great back in the war years. I love listening to modern virtuosos like Joshco, Birelli, Stochello and the rest. Yaakov is a gifted instructor &mdash; I'm still confident I'll eventually be able to play at least half as well as him!
 
 [AbsoluteBluesGuitar](http://absolutebluesguitar.com)
-: I'm also passionate about the blues. It's at the heart of so many different styles of music. Bobby Harrison is a gifted player and provides some great, reasonably priced content starting at an extremely basic level.
+: I'm also passionate about the blues. It's at the heart of so many different styles of music. Bobby Harrison is a gifted player and provides some great, reasonably priced content starting at an extremely basic level and continuing to an advanced level.
 
 [TrueFire](https://truefire.com)
-: This site is a treasure trove for huge numbers of gifted instructors and amazing content in absolutely any style. Recommended.
+: This site is a treasure trove with **huge** numbers of gifted instructors and amazing content in absolutely any style. The sheer quantity of quality material here is mind-blowing. Recommended.
 
 
 ### Why this site?
+
+So why am I publishing all this?
 
 To be completely honest, you will probably be better served by one of the sites I've listed above.
 
@@ -46,4 +47,4 @@ Here are a few reasons you might want to stick around, though:
 
 * **It's written by a beginner for beginners**. Though I've been struggling with the instrument for decades, at best I'm an intermediate player. I still have epiphanies every few days. I try to get recent breakthroughs in understanding and tricks for practicing technique onto the site while they are still fresh in my mind.
 
-* **It's prescriptive about what to practice**. Like many, my practice sessions are often a disorganized and inefficient mess. I have to think too hard about "what should I be practicing". On this site, I'm trying out an idea about "test driven guitar". A long sequence of drills and proficiency tests to choose from. Eventually I hope to provide a mechanism for tracking which tests have been attempted (and when) and which have been mastered, but even tracking with pencil and paper is proving useful.
+* **It's prescriptive about what to practice**. Like many, my practice sessions were often a disorganized and inefficient mess. I had to think too hard about "what should I be practicing". On this site, I provide a large number of [proficiency tests]({{< ref "/guitar/tests" >}}) to choose from. Eventually I hope to provide an automated mechanism for tracking which tests have been attempted (and when) and which have been mastered, but even tracking with pencil and paper is proving useful.
