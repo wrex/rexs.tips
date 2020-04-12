@@ -4,6 +4,7 @@ title: "Along E"
 linkTitle: "Along E"
 type: "docs"
 tdgid: "TDG0001e"
+tutorial: "guitar/Fundamentals/notes/finding-notes.md"
 description: "Find every note along the E strings"
 author: "Rex Walters"
 weight: 10
@@ -27,6 +28,8 @@ Natural notes in fourths: B E A D G C F.
 {{< /alert >}}
 
 First you will find the note B, then the note E, and so on, finishing with the note F.
+
+It's okay to play *rubato* (out of time, without a metronome) for your first several attempts at this exercise, but start using a metronome as soon as possible, starting with whole notes (four clicks per note) then moving to half notes and perhaps even quarter notes (a new note every click).
 
 ### Pass criteria
 

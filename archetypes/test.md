@@ -5,7 +5,7 @@ linkTitle: "{{ replace .Name "-" " " | title }}"
 author: "Rex Walters"
 description: ""
 tdgid: "TDG0000"
-tdgtutorial: ""
+tutorial: ""
 type: "docs"
 weight: 2
 resources:

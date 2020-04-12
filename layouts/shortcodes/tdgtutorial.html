@@ -3,7 +3,7 @@
 {{ if $tut }}
 <div class="pageinfo pageinfo-{{ $color }}">
 
-The lesson/tutorial for this page can be found at: [{{ (.Site.GetPage $tut).Title }}]({{ ref . $tut }}).
+See [{{ (.Site.GetPage $tut).Title }}]({{ ref . $tut }}) for a lesson/tutorial about this test.
 
 </div>
 {{ end }}

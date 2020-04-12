@@ -49,14 +49,14 @@ Why learn the notes on the fretboard? Several reasons, but chief among them:
 * It makes learning to read sheet music possible. I'm still ridiculously slow at reading, and learning to read on guitar *is* harder than many other instruments (because the same note can be played in so many different places) but it’s not impossible. It's a whole lot easier when you already know where the notes are on the fretboard!
 
 
-## Proficiency test 001
+## Master proficiency test
 
-I'm going to use this as my first trial run of "Test Driven Guitar" and work backward from the end goal. Here's the final test that we are working toward. If you can't pass this test right now, you can't say you **KNOW** the notes on the fretboard:
+The master proficiency test for this lesson is [TDG001: Fretboard Mastery]({{< ref "guitar/tests/learn-neck" >}}). You'll trully **KNOW** all the notes on the fretboard when you can pass that test.
 
 
 ## The Process
 
-Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [TDG001](#TDG001).
+Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [TDG0001]({{< ref "guitar/tests/learn-neck" >}}).
 
 Follow this process to get to the end goal:
 
@@ -65,15 +65,23 @@ Follow this process to get to the end goal:
 3. Learn the notes on the lowest (E) string.
 4. Learn some octave shapes to find notes.
 5. Practice on one string at a time.
-6. Practice [TDG001](#TDG001) at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
+6. Practice [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
 
 Spend as much time as you need on each of these steps. The first few will only take a few minutes to master, but other steps may take days, weeks, or even months. Take your time. Thorough and confident beats quick and sketchy every day.
 
-### 1. The cycle of fourths
+### The cycle of fourths
+
+We'll frequently want to practice something with all twelve notes of the [chromatic scale]({{< ref "guitar/Fundamentals/notes/just-12-notes#the-chromatic-scale" >}}).
+
+We *could* just practice each note in alphabetic order, starting at A each time. This is way too easy, though, because you are just making the same motions one fret higher each time. Ascending or descending alphabetically isn't at all musical, either.
+
+Rather than progressing alphabetically, we'll usually practice things in **fourths** (and sometimes in fifths).
 
 As described in the previous post, an interval of a perfect fourth (P4) is five frets, or five half steps. If you start on the note C, going up a perfect fourth arrives at the note F, for example.
 
-Fourths are extremely common in music, however, especially in chord progressions. It's way, *way*, **way** to much effort to figure out this every time. Instead, it's well worth your time to simply use rote memorization to remember the sequence.
+Fourths are extremely common in music, especially in chord progressions.
+
+It's way, *way*, **way** too much effort to figure out this every time, though. Instead, it's far better to simply memorize the sequence by rote.
 
 First, remember the word "bead" and how to spell it.
 
@@ -83,53 +91,21 @@ Put them together and you've got most of the sequence: B E A D G C F.
 
 That's just seven notes, though. The complete cycle of fourths includes flatted versions of the first five notes: B E A D G C F B&flat; E&flat; A&flat; D&flat; G&flat;, in that order, and then continues around to B again.
 
-For reasons I won't go into now, it's good to visualize this sequence as the numbers on a clock face. Start with the B at the 7 o\'clock position, and the C at the top. Like this:
+I'll cover this later when we discuss the [cycle of fourths](#TODO) in detail, but it's good to visualize this sequence as the numbers on a clock face. Start with the B at the 7 o\'clock position, and the C at the top. Like this:
 
 <a name="figure-2"></a>
 {{< figure src="/img/fourths-clock.png" caption="Fig. 2: Cycle of Fourths Clock" width="33%" >}}
 
+Spend a few moments memorizing which note is at the 12, 3, 6, and 9 o'clock positions on the clock. Burn that into your memory, it will pay off later.
 
-<a name="TDG002">&nbsp;</a>
-{{< alert type="success" title="TDG002 • Reciting notes in fourths" >}}
-This one is really simple.
+Be sure to practice reciting the cycle of fourths and the cycle of fifths *out loud* before continuing:
 
-Just practice saying the full 12 note cycle of fourths *out loud* a few times: B E A D G C F B&flat; E&flat; A&flat; D&flat; G&flat;. Keep looping around from G&flat; to B and continue the cycle.
+* [TDG0001fo: Reciting fourths]({{< ref "guitar/tests/learn-neck/fourths.md" >}})
+* [TDG0001fi: Reciting fifths]({{< ref "guitar/tests/learn-neck/fifths.md" >}})
 
-Once you are bored with that practice starting on different notes within the sequence and continuing around the "clock" (without looking at the image above of course!). Starting at F, for example, say *out loud* "F B&flat; E&flat; A&flat; ...."
+**It's very important that you become equally proficient moving clockwise or counter-clockwise around the cycle** (moving in fourths or in fifths).
 
-Pass criteria:
-
-1. You can answer any of the following *effortlessly*:
-    * What's after D?
-    * What's after A&flat;?
-
-2. You can start on any of the 12 notes and effortlessly recite the cycle of fourths starting on that note.
-{{< /alert >}}
-
-TODO: Video demonstration of TDG002.
-
-<a name="TDG003">&nbsp;</a>
-{{< alert color="success" title="TDG003 • Reciting notes in fifths" >}}
-This one is also pretty easy, but trickier than fourths.
-
-Instead of going clockwise around the clock, we are going to practice moving in fifths by moving *counter*-clockwise.
-
-Practice saying the full 12 note cycle of fifths *out loud* a few times, starting at F: F G C D A E B G&flat; D&flat; A&flat; E&flat; B&flat;. Keep looping around from B&flat; to F and continue the cycle.
-
-Once you are bored with that practice starting on different notes within the sequence and continuing backward around the "clock" (without looking at the image above of course!). Starting at C, for example, say *out loud* "D A E B G&flat; D&flat; ...."
-
-Pass criteria:
-
-1. You can answer any of the following *effortlessly*:
-    * What's before D on the "clock"?
-    * What's before A&flat; on the "clock"?
-
-2. You can start on any of the 12 notes and effortlessly recite the cycle of fifths starting on that note.
-{{< /alert >}}
-
-TODO: Video demonstration of TDG003.
-
-### 2. Open string notes
+### Open string notes
 
 From lowest (thickest) string to highest (thinnest) the guitar is normally tuned to the notes E, A, D, G, B, and E. From the previous section, you should realize that each string is tuned a fourth higher than the last.
 
@@ -149,9 +125,9 @@ I'm not creating any tests for these, since it should only take a few minutes to
 
 Please don't continue until you are 100% confident you **KNOW** these notes, however.
 
-### 3. Notes on the sixth string
+### Notes on the sixth string
 
-We learned in [the last post](#TODO) that the major scale comprises the intervals whole-step, whole-step, half-step, whole-step, whole-step, whole-step, half-step.
+We learned in [Just 12 notes]({{< ref "guitar/Fundamentals/notes/just-12-notes.md" >}}) that the major scale comprises the intervals whole-step, whole-step, half-step, whole-step, whole-step, whole-step, half-step.
 
 In other words, there is a whole step (two frets) between any two natural notes except E/F and B/C.
 
@@ -160,28 +136,13 @@ Since the open sixth string is the note E, this leads directly to this diagram:
 <a name="figure-3"></a>
 {{< figure src="/img/neck-diagrams/e6-string.png" caption="Fig. 3: Notes on the E string"  >}}
 
-Spend a few minutes just saying each natural note name out loud as you play each note, ascending up and descending down the frets. Try to do be "mindful" as you don this. The goal is to connect the note names with the fret locations in your brain and muscle memory.
+Spend a few minutes just saying each natural note name out loud as you play each note, ascending up and descending down the frets. Try to do be "mindful" as you do this. The goal is to connect the note names with the fret locations in your brain and muscle memory.
 
-Once you are comfortable just moving up and down the scale linearly, try the following GTD test:
+Once you are comfortable just moving up and down the scale linearly, practice [TDG0001e: Along the E string]({{< ref "guitar/tests/learn-neck/along-e.md" >}}).
 
-<a name="TDG004">&nbsp;</a>
-{{< alert color="success" title="TDG004 • Notes on E string" >}}
-Work through the cycle of fourths, finding and playing each note on the sixth string. For the note E, you can either play the open string or at the 12th fret. First play B, then E, then A, *etc.*
+Note that the notes on the low E string are exactly the same (of course) as those on the high E string. Once you can pass [TDG0001e]({{< ref "guitar/tests/learn-neck/along-e.md" >}}), you've got over half of the fretboard mastered!
 
-First practice this rubato (out of time &mdash; don't worry about a metronome). Just take your time and try to ensure you are playing the correct note each time.
-
-When you are comfortable with that, set your metronome to 60 BPM and practice finding the notes of the cycle *in time* by playing half notes (two clicks per note).
-
-Pass criteria: You can play the entire 12 note cycle of fourths in time on the E string without making any mistakes.
-
-Extra credit: Repeat the exercise using the cycle of *fifths*.
-{{< /alert >}}
-
-TODO: Video demonstration of TDG004.
-
-Note that the notes on the high E string are exactly the same (of course) as the ones on the low E string. Once you **KNOW** the open strings and the E string notes, you've got over half of the fretboard covered!
-
-### 4. Octave shapes
+### Octave shapes
 
 We are now going to learn a trick for finding notes from locations we already know. The shapes used for this trick are extremely useful and you'll use them forever, but please understand that you don't really **KNOW** the fretboard until you no longer need to rely on this trick. It is just a temporary crutch to assist you as you progress.
 
@@ -194,7 +155,7 @@ It should be obvious if you think about it, but the note C exists in only one lo
 
 We already know how to find the C's by counting up or down from notes we already know on the same string, but there's another way: using shapes/patterns that go across strings.
 
-### 4.1. Octave shape 1
+### Octave shape 1
 
 Here's our first **octave shape**:
 
@@ -228,7 +189,7 @@ If you place your first finger on any note on the fifth or sixth strings, the sa
 
 So we can use octave 1a to find notes on the 3rd and 4th strings. Just two more strings to go!
 
-### 4.2. Octave shape 2
+### Octave shape 2
 
 The next octave shape skips two strings, not just one:
 
@@ -244,36 +205,9 @@ Going the other way from the C on the 8th fret of the high E, you find C on the 
 
 Most of the time when playing live, your natural inclination is to move your hand up the neck to play higher and down the neck to play lower. It's thus more common to use octave shapes 1 most of the time. When you "run out of neck," though, it can be useful to continue ascending or descending by skipping another string.
 
-Practice finding notes on different strings using these four octave shapes. Be sure to use the shapes in both directions (moving from a lower note to a higher, and vice versa).
+Practice finding notes on different strings using [TDG0001o: Octave shapes]({{< ref "guitar/tests/learn-neck/octaves.md" >}}). Be sure to use the shapes in both directions (moving from a lower note to a higher, and vice versa).
 
-<a name="TDG005">&nbsp;</a>
-{{< alert color="success" title="TDG005 • Octave Shapes" >}}
-As usual, our proficiency pace is half notes at 60 BPM. As always, try it without a metronome first.
-
-Instead of the cycle of fourths, we'll just use the open string notes: EADGBe. The test is to use octave shapes to move both up and down the fretboard to find notes.
-
-Starting with the open E on the sixth string. Say "E" out loud as you pluck the open string. Next use octave shape 1 to move up the fretboard. Play and say "E" at the 2nd fret of the D string. Then use shape 1a to move up another octave to the 5th fret of the 2nd string.
-
-We can't continue onto thinner strings because we are out of strings, so use shape 2a to find the E on the 5th string at the 7th fret. (Technically, this E is in a lower octave even though you are moving up the fretboard.)
-
-We can't continue onto thicker strings, so back to shape 1 and play the E at the 9th fret of the 3rd string.
-
-Finally, shape 1a onto the 12th fret of the high E string.
-
-We've now played an E on all six strings.
-
-[As an aside: we played E in three different octaves. Every time we used shape 1 or 1a we moved up an octave, but when we used shape 2 we went back *down* an octave.]
-
-Now we are going to start with the A at the 12th fret. Play and say "A" there, then use shape 2 to find the A on the 2nd string at the 10th fret. Continue the zigzag patter back down the fretboard until you reach the open A on the 5th string.
-
-Repeat the exercise for the remaining open string (or 12th fret) notes: G, B, and the high E string.
-
-Pass criteria: You can use octave shapes to play every open string note everywhere on the fretboard at 60 BPM with half notes.
-{{< /alert >}}
-
-TODO: Video demonstration of TDG005.
-
-### 5. One string at a time
+### One string at a time
 
 Now that you know the octave shapes you can use them as a temporary crutch for learning the notes on other strings.
 
@@ -283,7 +217,7 @@ If the open string is D, then E must be at the second fret, and F at the third f
 
 Practice playing the natural notes just going up and down from the lower D on the open string to the higher D at the 12th fret. As always, say the note names **out loud**.
 
-Once you can easily ascend and descend alphabetically through the natural notes, try to mix it up by going in fourths: first play B, then E, then A, etc.
+Once you can easily ascend and descend alphabetically through the natural notes, try [TDG0001d: Along D]({{< ref "guitar/tests/learn-neck/along-d.md" >}}).
 
 You'll probably find that you need to use octave shape 1 as a reminder occasionally. Remember that this is just a crutch, though. Eventually you want to associate each note name with a string/fret location directly. Even one or two **KNOWN** "landmarks" can help tremendously when navigating.
 
@@ -293,18 +227,17 @@ Once you've got the D string licked, move on to other strings the same way.
 
 You'll need to learn the low E and low A strings by rote, but you can use the octave shapes to help you on the other strings.
 
-<a name="TDG006">&nbsp;</a>
-{{< alert type="success" title="TDG006 • Notes on individual strings" >}}
-This test is just a repeat of [TDG004](#TDG004) only instead of just using the 6th string, you are now going to play the full cycle of fourths along **every** string.
+Practice the proficiency tests on the remaining strings:
 
-Pass criteria: You can play the complete cycle of fourths on every string with half notes at 60 BPM without any hesitation or flubbed notes.
-{{< /alert >}}
+* [TDG0001a: Along A]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
+* [TDG0001a: Along G]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
+* [TDG0001a: Along B]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
 
 TODO: Video demonstration of TDG006.
 
 ### 6. Putting it all together
 
-Once you can play the cycle of fourths on each string individually, it's time to start practicing [TDG001](#TDG001) for in it's entirety.
+Once you can play the cycle of fourths on each string individually, it's time to start practicing [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) in it's entirety.
 
 You'll be finding each note on **all** of the strings at once. You may find this quite challenging at first.
 
@@ -312,9 +245,9 @@ I *strongly* recommend you practice this without a metronome for the first sever
 
 When you're ready though, set the metronome to a nice s-l-o-w tempo and try playing whole notes at first. Then half notes. For a real challenge, try playing quarter notes at a quick tempo (say 100 BPM).
 
-This is one of those drills that may take years to master. The goal is to know the notes like the back of your hand, but if you can perform [TDG001](#TDG001) with half notes at 60 BPM, you'll know the fretboard well enough to tackle almost any challenge (and better than many guitarists who have been playing for *years*).
+This is one of those drills that may take years to master. The goal is to know the notes like the back of your hand, but if you can perform [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) with half notes at 60 BPM, you'll know the fretboard well enough to tackle almost any challenge (and better than many guitarists who have been playing for *years*).
 
-[TDG001](#TDG001) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
+[TDG0001]({{< ref "guitar/tests/learn-neck" >}}) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
 
 Enjoy!
 
