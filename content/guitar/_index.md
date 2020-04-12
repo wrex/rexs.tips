@@ -10,4 +10,4 @@ menu:
 
 These pages are for beginner and intermediate students with an engineer's mind.
 
-If you want to learn guitar, can't help constantly asking "why," or like to read operator's manuals for pleasure, then this site is for you.
+If you want to learn guitar, but can't help constantly asking "why," and you like to read operator's manuals for pleasure, then this site is for you.

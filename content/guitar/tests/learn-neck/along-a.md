@@ -12,7 +12,7 @@ resources:
   title: "Image #:counter"
 ---
 
-## Proficiency test {{% tdgid %}}
+## Proficiency test {{% param tdgid %}}
 
 ### Procedure
 

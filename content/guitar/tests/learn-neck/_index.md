@@ -5,6 +5,7 @@ linkTitle: "Fretboard note mastery"
 tdgid: "TDG0001"
 type: "docs"
 weight: 10
+tutorial: "/guitar/Fundamentals/notes/just-12-notes.md"
 description: "Play every note on all strings"
 author: "Rex Walters"
 resources:
@@ -12,15 +13,13 @@ resources:
   title: "Image #:counter"
 ---
 
-## Proficiency test {{% tdgid %}}
+## Proficiency test {{% param tdgid %}}
 
 ---
 
 {{< youtube 8Iz3sAvcZrM  >}}
 
 ---
-
-
 
 This is the "graduation test" for **KNOWING** the notes on the neck. Please work on the indivual sub-tests listed below to gain proficiency before attempting this test.
 
