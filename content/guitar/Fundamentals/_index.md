@@ -15,7 +15,7 @@ If you are an absolute beginner on the guitar, I **strongly** suggest you first 
 
 Before getting to the fundamentals of how to learn and play music on the guitar, it's worth to talk a bit about [how to practice](#TODO)
 
-In the [section on notes]({{< ref "/guitar/Fundamentals/notes" >}}) we will first review some [fundamental theory]({{< ref "/guitar/Fundamentals/notes/just-12-notes.md" >}}) (the diatonic and chromatic scales in particular). Then I provide some practical lessons for [learning the notes on the fretboard]({{< ref "/guitar/Fundamentals/notes/finding-notes.md" >}}).
+In the [section on notes]({{< ref "/guitar/Fundamentals/notes" >}}) we will first review some [fundamental theory]({{< ref "/guitar/Fundamentals/notes/just-12-notes.md" >}}) (the diatonic and chromatic scales in particular). Then I provide some practical lessons for [learning the notes on the fretboard]({{< ref "/guitar/Fundamentals/notes/finding-notes" >}}).
 
 In [rhythm]({{< ref "/guitar/Fundamentals/rhythm" >}}) we'll introduce the ultimate task master: the metronome. We'll also discuss some more fun topics like syncopation and "flat tire" rhythms.
 

@@ -5,7 +5,7 @@ linkTitle: "Reciting fourths"
 author: "Rex Walters"
 description: "Recite the cycle of fourths out loud"
 tdgid: "TDG0001fo"
-tutorial: "guitar/Fundamentals/notes/finding-notes.md"
+tutorial: "guitar/Fundamentals/notes/finding-notes"
 type: "docs"
 weight: 2
 resources:

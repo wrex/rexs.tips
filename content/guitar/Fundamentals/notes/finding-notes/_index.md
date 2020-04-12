@@ -7,14 +7,14 @@ description: "How to practice finding notes on the fretboard"
 type: "docs"
 weight: 10
 resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
+  - src: "**natural-notes.png"
+    title: "All natural notes"
 ---
 
 Here is every natural note on the first fifteen frets of the neck:
 
-<a name="figure-1"></a>
-{{< figure src="/img/neck-diagrams/natural-notes.png" title="Fig. 1: The natural notes" >}}
+
+{{< myimgproc "natural-notes" "Resize" "800x" >}}{{< /myimgproc >}}
 
 You'll eventually be able to find and name every single note in this diagram *effortlessly*. That's the goal of this page.
 

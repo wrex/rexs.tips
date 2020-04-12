@@ -5,7 +5,7 @@ linkTitle: "Fretboard note mastery"
 tdgid: "TDG0001"
 type: "docs"
 weight: 10
-tutorial: "guitar/Fundamentals/notes/finding-notes.md"
+tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Play every note on all strings"
 author: "Rex Walters"
 resources:

@@ -4,7 +4,7 @@ title: "Along E"
 linkTitle: "Along E"
 type: "docs"
 tdgid: "TDG0001e"
-tutorial: "guitar/Fundamentals/notes/finding-notes.md"
+tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the E strings"
 author: "Rex Walters"
 weight: 10

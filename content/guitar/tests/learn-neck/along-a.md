@@ -4,7 +4,7 @@ title: "Along A"
 linkTitle: "Along A"
 type: "docs"
 tdgid: "TDG0001a"
-tutorial: "guitar/Fundamentals/notes/finding-notes.md"
+tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the A string"
 author: "Rex Walters"
 weight: 20

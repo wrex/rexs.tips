@@ -5,7 +5,7 @@ linkTitle: "Reciting fifths"
 author: "Rex Walters"
 description: "Recite the cycle of fifths out loud"
 tdgid: "TDG0001fi"
-tutorial: "guitar/Fundamentals/notes/finding-notes.md"
+tutorial: "guitar/Fundamentals/notes/finding-notes"
 type: "docs"
 weight: 4
 resources:

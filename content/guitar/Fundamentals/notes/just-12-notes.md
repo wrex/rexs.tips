@@ -357,4 +357,4 @@ Believe it or not, all of this will eventually make sense.
 
 ---
 
-Next: [Finding notes]({{< ref "/guitar/Fundamentals/notes/finding-notes.md" >}})
+Next: [Finding notes]({{< ref "/guitar/Fundamentals/notes/finding-notes" >}})
