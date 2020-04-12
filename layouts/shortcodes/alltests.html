@@ -1,10 +1,15 @@
-<div>
-  {{ $pages := (where .Site.RegularPages "Section" "guitar").ByWeight }}
+<div class="section-index">
+  {{- $pages := (where .Site.Pages "Section" "guitar").ByWeight -}}
   <ul>
-      {{ range $pages }}
+      {{- range $pages -}}
+        {{- $rlink := .RelPermalink -}}
+        {{- $title := .Title }}
+        {{- /* only ist if tgdid in frontmatter */ -}}
+        {{- with .Param "tdgid" -}}
         <li>
-          <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+          <a href="{{ $rlink }}">{{ . }} {{$title}}</a>
         </li>
-      {{ end }}
+        {{- end -}}
+      {{- end -}}
   </ul>
 </div>

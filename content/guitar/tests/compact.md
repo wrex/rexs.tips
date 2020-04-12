@@ -11,4 +11,4 @@ resources:
   title: "Image #:counter"
 ---
 
-{{< alltests >}}
+{{% alltests %}}
