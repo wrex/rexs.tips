@@ -1,0 +1,10 @@
+<div>
+  {{ $pages := (where .Site.RegularPages "Section" "guitar").ByWeight }}
+  <ul>
+      {{ range $pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+        </li>
+      {{ end }}
+  </ul>
+</div>

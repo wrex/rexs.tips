@@ -6,18 +6,19 @@ type: "docs"
 weight: 9999
 description: "What and how to practice"
 author: "Rex Walters"
+simple_list: true
 resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
+- src: "focus-list.jpg"
+  title: "Sample focus list"
 ---
 
-**Rule 1.** Practice what you want.
+**Rule 1.** Practice what you want, but remember you'll tend to *play* what you practice.
 
 **Rule 2.** Track what you practice.
 
 **Rule 3.** Never work on more than 5 things at a time.
 
-Here's how:
+## How to practice
 
 ### Preparation
 
@@ -25,21 +26,24 @@ Here's how:
 
 2. Maintain a dedicated journal to track your practice. Something with bound in pages is probably better than a three ring binder.
 
-3. Maintain a list of one to five proficiency tests from this site that you want to work on. This is your `focus list`. Use the [focus list picker](#TODO) to print out your `focus list`. **Print out your focus list and hang it prominently** near your practice area.
+3. Write down a list of one to five things that you want to practice for the next several days, weeks or months. This is your `focus list`. **Print out your focus list and hang it prominently** near your practice area. You can change out an item and make a new `focus list` whenever you want, but you can never have more than 5 items on the list. Items on the list can be proficiency tests from this site or anything else you find you want to work on.
 
-4. Maintain an updated list of *all* the proficency tests on this site. Print this out and keep it near your practice journal.
+4. Keep track of any proficency tests from this site that you attempt. Add an entry to your journal every time you attempt a proficiency test, as well as when you master it (be sure to give yourself a treat when you do!). Eventually I hope to provide automated tracking for logged in users, but don't hold your breath.
+
+{{< figproc "focus-list" "Resize" "400x" >}}{{< /figproc >}}
+
 
 ### At the start of each practice session
 
-1. Write the date and time at the top of a fresh page.
+1. Write the date and time at the top of a fresh page in your journal.
 
-2. If you don't already have entries from a previous session, write down the items you intend to work on.
+2. If you don't already have entries from a previous session, write down the items you intend to work on. It's okay to change your mind from the previous session.
 
 ### During each session
 
-1. Write down which tests you work on, how much time you spent each, and any notes or thoughts about that item.
+1. Write down which exercises/tests you work on, how much time you spent on each, and any notes or thoughts about that item.
 
-2. Try not to cheat regarding time spent. Document only the truly focused time you spent on the exercise (a kitchen timer keeps you honest).
+2. Try not to cheat regarding time spent. Document only the truly focused time you spent on the exercise (a kitchen timer will keep you honest).
 
 ### At the end of each session
 
@@ -50,4 +54,7 @@ Here's how:
 3. On the next fresh page, write down the items you *intend* to practice next time. Ideally, next time you'll just need to write
 
 
-That's it!
+The system is simple, but it works. It's really helped me from becoming overwhelmed from working on too many things at once.
+
+
+## Proficiency tests
