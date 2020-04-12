@@ -255,7 +255,3 @@ This is one of those drills that may take years to master. The goal is to know t
 [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
 
 [Figure 1](#natural-notes) doesn't look so daunting any more, does it?
-
-Enjoy!
-
----
