@@ -7,8 +7,20 @@ description: "How to practice finding notes on the fretboard"
 type: "docs"
 weight: 10
 resources:
-  - src: "**natural-notes.png"
+  - src: "natural-notes.png"
     title: "Fig 1. All natural notes"
+  - src: "fourths-clock.png"
+    title: "Fig 2. The cycle of fourths"
+  - src: "e6-string.png"
+    title: "Fig 3. Notes on the sixth string"
+  - src: "c-notes.png"
+    title: "Fig 4. C notes everywhere"
+  - src: "octave-shape-1.png"
+    title: "Fig 5. Octave shape 1"
+  - src: "octave-shape-1a.png"
+    title: "Fig 6. Octave shape 1a"
+  - src: "octave-shape-2.png"
+    title: "Fig 7. Octave shape 2"
 ---
 
 Here is every natural note on the first fifteen frets of the neck:
@@ -93,8 +105,7 @@ That's just seven notes, though. The complete cycle of fourths includes flatted 
 
 I'll cover this later when we discuss the [cycle of fourths](#TODO) in detail, but it's good to visualize this sequence as the numbers on a clock face. Start with the B at the 7 o\'clock position, and the C at the top. Like this:
 
-<a name="figure-2"></a>
-{{< figure src="/img/fourths-clock.png" caption="Fig. 2: Cycle of Fourths Clock" width="33%" >}}
+{{< figproc "fourths-clock" Resize "400x" >}}{{< /figproc >}}
 
 Spend a few moments memorizing which note is at the 12, 3, 6, and 9 o'clock positions on the clock. Burn that into your memory, it will pay off later.
 
@@ -115,7 +126,7 @@ Practice plucking random open strings and saying the note name *out loud* for a 
 
 Now fret the strings at the 12th fret and prove to yourself that the notes sound the same, only one octave higher. The thickest string played at the 12th fret is still an E, just one octave higher (the string vibrates at twice the frequency).
 
-Finally, look at [figure 1](#figure-1) again, focusing specifically on the fifth fret. Notice that the sixth string at the fifth fret is the note A, the same note as the open fifth string. Same with the D a the 5th fret of the fifth string.
+Finally, look at [figure 1](#natural-notes) again, focusing specifically on the fifth fret. Notice that the sixth string at the fifth fret is the note A, the same note as the open fifth string. Same with the D a the 5th fret of the fifth string.
 
 It holds for all the strings except for the third and second string. Again, standard tuning makes everything shift by a fret when moving between the second and third strings.
 
@@ -133,8 +144,7 @@ In other words, there is a whole step (two frets) between any two natural notes 
 
 Since the open sixth string is the note E, this leads directly to this diagram:
 
-<a name="figure-3"></a>
-{{< figure src="/img/neck-diagrams/e6-string.png" caption="Fig. 3: Notes on the E string"  >}}
+{{< figproc "e6-string" Resize "800x" >}}{{< /figproc >}}
 
 Spend a few minutes just saying each natural note name out loud as you play each note, ascending up and descending down the frets. Try to do be "mindful" as you do this. The goal is to connect the note names with the fret locations in your brain and muscle memory.
 
@@ -146,30 +156,27 @@ Note that the notes on the low E string are exactly the same (of course) as thos
 
 We are now going to learn a trick for finding notes from locations we already know. The shapes used for this trick are extremely useful and you'll use them forever, but please understand that you don't really **KNOW** the fretboard until you no longer need to rely on this trick. It is just a temporary crutch to assist you as you progress.
 
-Let's channel our inner Marie Kondo and de-clutter [figure 1](#figure-1) a bit. The root or tonic of the C Major scale brings *me* joy, so let's focus on that note first:
+Let's channel our inner Marie Kondo and de-clutter [figure 1](#natural-notes) a bit. The root or tonic of the C Major scale brings *me* joy, so let's focus on that note first:
 
-<a name="figure-4"></a>
-{{< figure src="/img/neck-diagrams/c-notes.png" title="Fig. 4: C Everywhere on the Fretboard" >}}
+{{< figproc "c-notes" "Resize" "800x" >}}{{< /figproc >}}
 
 It should be obvious if you think about it, but the note C exists in only one location on each string between frets 1 and 12.
 
-We already know how to find the C's by counting up or down from notes we already know on the same string, but there's another way: using shapes/patterns that go across strings.
+We know how to find C's by counting up or down from notes we already know on the same string, but there's another way: using shapes/patterns that go *across* strings.
 
 ### Octave shape 1
 
 Here's our first **octave shape**:
 
-<a name="figure-5"></a>
-{{< figure src="/img/neck-diagrams/octave-shape-1.png" title="Fig. 5: Octave shape 1" >}}
+{{< figproc "octave-shape-1" "Resize" "800x" >}}{{< /figproc >}}
 
 If we already **KNOW** a note on string 6, we can find the same note on string 4 with a little zig-zag: two strings higher and two frets higher. The C at fret 8 on the the E string leads us to the C at the 10th fret of the D string.
 
-The same thing works on the 5th string (the grey notes): We **KNOW** that C is on the 3rd fret of the A string, so we can navigate (dead reckon) to the C at the 5th fret of the G string. (Of course, you should already **KNOW** that note since it's on the fifth fret, but it's nice to have confirmation.)
+The same thing works on the 5th string (the grey notes). The open string is A, two frets higher is B, so C is on the 3rd fret of the A string. If we can find that C, we can also find the C at the 5th fret of the G string. (Of course, you should already **KNOW** that note since it's on the fifth fret, but it's nice to have confirmation.)
 
 What about the higher strings? Let's look at the octave shapes between the G and high-E strings, and between the D and B strings.
 
-<a name="figure-6"></a>
-{{< figure src="/img/neck-diagrams/octave-shape-1a.png" title="Fig. 6: Octave shape 1a" >}}
+{{< figproc "octave-shape-1a" "Resize" "800x" >}}{{< /figproc >}}
 
 At first glance, this shape may look different than the previous one, but it's important to realize that they are the same shape, even though there's an additional fret between the notes.
 
@@ -179,13 +186,13 @@ Same thing with the C at the 10th fret of the D string. The C on the B string is
 
 Two very important points about this first octave shape:
 
-* It works, of course, for *any* note, not just C. Look again at the diagram with all the natural notes: any given note exists two strings higher, and two or three frets higher depending on whether it crosses the G-B string boundary.
+* It works, of course, for *any* note, not just C. Look again at [figure 1](#natural-notes): any given note exists two strings higher, and two or three frets higher depending on whether it crosses the G-B string boundary.
 
-* It also, of course, works in *both* directions. If you **KNOW** a note on a higher string, you can find the same note two strings and two or three frets *lower*.
+* It works in *both* directions, of course. If you **KNOW** a note on a higher string, you can find the same note two strings and two or three frets *lower*.
 
 This first octave shape is particularly advantageous if you follow the recommended "one finger per fret" technique. If you put your pinky finger on any note on the high E string, you can find the same note on the G string under your first finger (or vice versa).
 
-If you place your first finger on any note on the fifth or sixth strings, the same note can be found under your third finger two frets higher (or vice versa). Same thing in reverse for notes on the 1sth string, only now with your pinky on the first string the same note is under your index finger two strings lower.
+If you place your first finger on any note on the fifth or sixth strings, the same note can be found under your third finger two frets higher (or vice versa). Same thing in reverse for notes on the 1st string, only now with your pinky on the first string the same note is under your index finger two strings lower.
 
 So we can use octave 1a to find notes on the 3rd and 4th strings. Just two more strings to go!
 
@@ -193,7 +200,7 @@ So we can use octave 1a to find notes on the 3rd and 4th strings. Just two more 
 
 The next octave shape skips two strings, not just one:
 
-{{< figure src="/img/neck-diagrams/octave-shape-2.png" title="Octave shape 2" >}}
+{{< figproc "octave-shape-2" "Resize" "800x" >}}{{< /figproc >}}
 
 Starting from the C at fret 8 on the low E string, we can find another C going over three strings higher and then *down* three frets. Again, this works in both directions. If, for example, you **KNOW** a note on the G string, you can find the same note on the low E string by moving up three frets higher.
 
@@ -211,7 +218,7 @@ Practice finding notes on different strings using [TDG0001o: Octave shapes]({{< 
 
 Now that you know the octave shapes you can use them as a temporary crutch for learning the notes on other strings.
 
-Let's tackle the D string next. Refer back to [figure 1](#figure-1) if necessary. You already **KNOW** that the open string is D, the 5th fret is G, and the 12th fret is another D.
+Let's tackle the D string next. Refer back to [figure 1](#natural-notes) if necessary. You already **KNOW** that the open string is D, the 5th fret is G, and the 12th fret is another D.
 
 If the open string is D, then E must be at the second fret, and F at the third fret. If G is at the fifth fret, then A is at the seventh, B at the ninth, and C at the tenth.
 
