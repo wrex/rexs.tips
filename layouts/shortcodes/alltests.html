@@ -1,15 +1,30 @@
 <div class="section-index">
   {{- $pages := (where .Site.Pages "Section" "guitar").ByWeight -}}
-  <ul>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col"></th>
+        <th scope="col">TDG ID</th>
+        <th scope="col">Title</th>
+      </tr>
+    </thead>
+    <tbody>
       {{- range $pages -}}
         {{- $rlink := .RelPermalink -}}
         {{- $title := .Title }}
         {{- /* only ist if tgdid in frontmatter */ -}}
         {{- with .Param "tdgid" -}}
-        <li>
-          <a href="{{ $rlink }}">{{ . }} {{$title}}</a>
-        </li>
+        <tr>
+          <th scope="row">[ &nbsp;&nbsp; ]</th>
+          <td>
+            {{ . }}
+          </td>
+          <td>
+            <a href="{{ $rlink }}">{{$title}}</a>
+          </td>
+        </tr>
         {{- end -}}
       {{- end -}}
-  </ul>
+    </tbody>
+  </table>
 </div>
