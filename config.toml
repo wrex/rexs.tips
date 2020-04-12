@@ -9,7 +9,8 @@ theme = ["docsy"]
 # Will give values to .Lastmod etc.
 enableGitInfo = true
 
-DisqusShortname = "rexstips"
+# Do I want to use Disqus?
+#DisqusShortname = "rexstips"
 
 # Language settings
 contentDir = "content/"
