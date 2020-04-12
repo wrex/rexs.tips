@@ -7,7 +7,7 @@ description: >
   Start here if even if you've been playing a while.
 ---
 
-Music comprises just three things: notes (or melody), rhythm, and harmony (chords).
+Music comprises just three things: notes (or melody), harmony (chords), and rhythm.
 
 This section provides a fundamental introduction to all three, and is the basis for everything else in this guide, but it does assume some basic knowledge (like how to hold the guitar and play basic "cowboy" chords).
 

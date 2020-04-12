@@ -9,6 +9,8 @@ theme = ["docsy"]
 # Will give values to .Lastmod etc.
 enableGitInfo = true
 
+DisqusShortname = "rexstips"
+
 # Language settings
 contentDir = "content/"
 defaultContentLanguage = "en"

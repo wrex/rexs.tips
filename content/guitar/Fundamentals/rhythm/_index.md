@@ -5,7 +5,7 @@ linkTitle: "Rhythm"
 author: "Rex Walters"
 description: "Meet Mister Metronome"
 type: "docs"
-weight: 20
+weight: 30
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
