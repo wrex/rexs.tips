@@ -4,7 +4,7 @@ title: "Proficiency tests"
 linkTitle: "Proficiency tests"
 type: "docs"
 weight: 20
-description: "The elements of Test Driven Guitar"
+description: "What and how to practice"
 author: "Rex Walters"
 resources:
 - src: "**.{png,jpg}"

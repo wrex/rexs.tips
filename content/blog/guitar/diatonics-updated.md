@@ -9,7 +9,7 @@ resources:
   title: "Image #:counter"
 ---
 
-I just pushed a **massive** rewrite of the [diatonic theory]({{< ref "/guitar/Getting-started/notes/just-12-notes.md" >}}) page.
+I just pushed a **massive** rewrite of the [diatonic theory]({{< ref "/guitar/Fundamentals/notes/just-12-notes.md" >}}) page.
 
 The new [Docsy](https://docsy.dev) theme with it's orientation toward documentation (vs. a typical blog) really helped. Stupid as it sounds, it was a bit of an epiphany to realize I wanted to publish both blog-oriented and book-oriented content.
 
