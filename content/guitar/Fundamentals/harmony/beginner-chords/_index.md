@@ -1,7 +1,7 @@
 ---
 date: 2020-04-12T16:15:46-07:00
-title: "Beginner Chords"
-linkTitle: "Beginner Chords"
+title: "Cowboy chords"
+linkTitle: "Cowboy chords"
 author: "Rex Walters"
 description: "The basic chords everyohe needs to know"
 type: "docs"

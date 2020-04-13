@@ -1,5 +1,5 @@
 <div class="section-index">
-  {{- $pages := (where .Site.Pages "Section" "guitar").ByWeight -}}
+  {{- $pages := (where .Site.Pages "Section" "guitar").ByParam "tdgid" -}}
   <table class="table table-striped">
     <thead>
       <tr>

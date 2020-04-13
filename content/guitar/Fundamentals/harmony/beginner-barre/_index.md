@@ -1,9 +1,9 @@
 ---
 date: 2020-04-12T16:53:46-07:00
 title: "Beginner barre chords"
-linkTitle: "Beginner barre chords"
+linkTitle: "Barre chords"
 author: "Rex Walters"
-description: "Step two of learning chords"
+description: "Play chords anywhere on the neck"
 type: "docs"
 weight: 20
 resources:

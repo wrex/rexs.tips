@@ -7,13 +7,19 @@ description: >
   Start here if even if you've been playing a while.
 ---
 
-Music comprises just three things: notes (or melody), harmony (chords), and rhythm.
+Music comprises just three things:
 
-This section provides a fundamental introduction to all three, and is the basis for everything else in this guide, but it does assume some basic knowledge (like how to hold the guitar and play basic "cowboy" chords).
+1. [Notes]({{< ref "guitar/Fundamentals/notes" >}}) (or melody)
 
-If you are an absolute beginner on the guitar, I **strongly** suggest you first go through a beginner's course elsewhere. I think [Justin's new for 2020 beginner guitar course](https://www.justinguitar.com/categories/beginner-guitar-lessons-grade-1) is probably the best one out there.
+2. [Harmony]({{< ref "guitar/Fundamentals/harmony" >}}) (chords)
 
-Before getting to the fundamentals of how to learn and play music on the guitar, it's worth to talk a bit about [how to practice](#TODO)
+3. [Rhythm]({{< ref "guitar/Fundamentals/rhythm" >}})
+
+This section provides a fundamental introduction to all three, and is the basis for everything else in this guide, but if you are an absolute beginner on the guitar, I **strongly** suggest you first go through a beginner's course elsewhere.
+
+I think [Justin's new for 2020 beginner guitar course](https://www.justinguitar.com/categories/beginner-guitar-lessons-grade-1) is probably the best and most complete beginner course out there.
+
+Before getting to too deep into theory, I wanted on to pass on a bit of advice about [how to practice]({{< ref "guitar/Fundamentals/how-to-practice" >}}).
 
 In the [section on notes]({{< ref "/guitar/Fundamentals/notes" >}}) we will first review some [fundamental theory]({{< ref "/guitar/Fundamentals/notes/just-12-notes.md" >}}) (the diatonic and chromatic scales in particular). Then I provide some practical lessons for [learning the notes on the fretboard]({{< ref "/guitar/Fundamentals/notes/finding-notes" >}}).
 
@@ -21,4 +27,4 @@ In [rhythm]({{< ref "/guitar/Fundamentals/rhythm" >}}) we'll introduce the ultim
 
 Lastly, in [harmony]({{< ref "/guitar/Fundamentals/harmony" >}}) we'll discuss the most basic chords: triads.
 
-Each section has a collection of proficiency tests that I suggest you master before moving on to other material.
+Each section has a collection of proficiency tests to help you practice and master the material.
