@@ -5,6 +5,7 @@ linkTitle: "Triads"
 type: "docs"
 description: "Exercises for learning diatonic triads"
 author: "Rex Walters"
+weight: 999
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

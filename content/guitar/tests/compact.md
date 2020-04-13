@@ -5,7 +5,7 @@ linkTitle: "All proficiency tests"
 author: "Rex Walters"
 description: "Compact listing of all tests"
 type: "docs"
-weight: 2
+weight: 1
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

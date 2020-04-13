@@ -7,7 +7,7 @@ description: "The cowboy chords everyone needs to know"
 tdgid: "TDG0002"
 tutorial: "guitar/Fundamentals/harmony/beginner-chords"
 type: "docs"
-weight: 2
+weight: 20
 resources:
   - src: "**major-cowboy-chords.png"
     title: "Fig 1. Major cowboy chords"

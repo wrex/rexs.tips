@@ -9,8 +9,8 @@ tutorial: ""
 type: "docs"
 weight: 2
 resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
+  - src: "**.{png,jpg}"
+    title: "Image #:counter"
 ---
 
 {{% tdgtutorial %}}
