@@ -1,6 +1,6 @@
 ---
 date: 2020-04-12T16:53:46-07:00
-title: "Beginner barre chords"
+title: "Barre chords"
 linkTitle: "Barre chords"
 author: "Rex Walters"
 description: "Play chords anywhere on the neck"
