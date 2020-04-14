@@ -31,8 +31,6 @@ resources:
     title: "Fig 11. C Major inversions on ADG"
   - src: "C-Major-inv-EAD.png"
     title: "Fig 12. C Major inversions on EAD"
-  - src: "C-Major-Arpeggios.png"
-    title: "Fig 13. C Major Arpeggios"
 ---
 
 ## Major triads on GBE
@@ -124,17 +122,3 @@ Here are the shapes on the remaining string sets:
 {{< figproc "C-Major-inv-EAD" "Resize" "800x" >}}{{< /figproc >}}
 
 Note that I've moved the 2nd inversion in that last diagram down to a lower position on the neck.
-
-## Major arpeggio shapes
-
-Now that we've looked at triad shapes in isolation, let's combine them into three six-string arpeggios:
-
-{{< figproc "C-Major-Arpeggios" "Resize" "800x" >}}{{< /figproc >}}
-
-We'll discuss these further in the next section, [Rex's FAD]({{< ref "guitar/Fundamentals/harmony/FAD" >}}) but I've given each of these shapes a name: A shape, F shape, and D shape (pronounced "fad" but connected on the neck in AFD, FDA, or DAF order).
-
-For now, use the following exercise to become intimately familiar with these three major arpeggio shapes and how they interconnect.
-
-{{< alert color="success" >}}
-TODO: Create TDG test for this section
-{{< /alert >}}

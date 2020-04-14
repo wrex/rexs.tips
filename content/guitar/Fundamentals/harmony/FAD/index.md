@@ -7,9 +7,25 @@ description: "CAGED simplified"
 type: "docs"
 weight: 50
 resources:
+  - src: "C-Major-Arpeggios.png"
+    title: "Fig 1. C Major Arpeggios"
   - src: "barre-triads.png"
-    title: "Fig 4. Rex's FAD: Three triads"
+    title: "Fig 2. Rex's FAD: Three triads"
 ---
+
+## Major arpeggio shapes
+
+Now that we've looked at triad shapes in isolation, let's combine them into three six-string arpeggios:
+
+{{< figproc "C-Major-Arpeggios" "Resize" "800x" >}}{{< /figproc >}}
+
+We'll discuss these further in the next section, [Rex's FAD]({{< ref "guitar/Fundamentals/harmony/FAD" >}}) but I've given each of these shapes a name: A shape, F shape, and D shape (pronounced "fad" but connected on the neck in AFD, FDA, or DAF order).
+
+For now, use the following exercise to become intimately familiar with these three major arpeggio shapes and how they interconnect.
+
+{{< alert color="success" >}}
+TODO: Create TDG test for this section
+{{< /alert >}}
 
 ### Minor gripes about CAGED
 
