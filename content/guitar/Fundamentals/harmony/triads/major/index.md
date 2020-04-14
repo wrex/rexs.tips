@@ -8,7 +8,7 @@ type: "docs"
 weight: 20
 resources:
   - src: "C-Major-Inversions.png"
-    title: "Fig 1. C Major all inversions"
+    title: "Fig 1. C Major all inversions on GBE"
   - src: "c-major-GBE-root.png"
     title: "Fig 2. C Major, GBE, root inversion"
   - src: "c-major-DGB-2nd.png"
@@ -25,15 +25,21 @@ resources:
     title: "Fig 8. C Major, ADG, root inversion"
   - src: "c-major-EAD-2nd.png"
     title: "Fig 9. C Major, EAD, 2nd inversion"
+  - src: "C-Major-inv-DGB.png"
+    title: "Fig 10. C Major inversions on DGB"
+  - src: "C-Major-inv-ADG.png"
+    title: "Fig 11. C Major inversions on ADG"
+  - src: "C-Major-inv-EAD.png"
+    title: "Fig 12. C Major inversions on EAD"
   - src: "C-Major-Arpeggios.png"
-    title: "Fig 10. C Major Arpeggios"
+    title: "Fig 13. C Major Arpeggios"
 ---
 
 ## Major triads on GBE
 
 On the top three strings of the guitar, the three close voicings of the C Major triad are played as follows:
 
-{{< figproc "C-Major-Inversions.png" "Resize" "800x" >}}{{< /figproc >}}
+{{< figproc "C-Major-Inversions" "Resize" "800x" >}}{{< /figproc >}}
 
 Notice that when moving up the neck to the next inversion, each "voice" in the triad (lowest, middle, or highest pitch) moves up to the next higher note.
 
@@ -99,13 +105,33 @@ Now that we've "run out of strings" by dropping the 1st inversion, let's continu
 
 {{< figproc "c-major-EAD-2nd" "Resize" "200x" >}}{{< /figproc >}}
 
+## Other string sets
+
+Let's summarize the shapes we've discovered using this octave drop technique.
+
+[Figure 1](#C-Major-Inversions) showed the inversions on the top string set.
+
+Here are the shapes for each inversion on the DGB string set:
+
+{{< figproc "C-Major-inv-DGB" "Resize" "800x" >}}{{< /figproc >}}
+
+**The top four strings are by far the most important** for soloing and comping in a band situation. I strongly suggest you practice the inversions on [GBE](#C-Major-Inversions) and [DGB](#C-Major-inv-DGB) shapes first. You should learn the shapes on all string sets eventually, but the top four strings will take you a long, long way (head and shoulders above countless other guitarists).
+
+Here are the shapes on the remaining string sets:
+
+{{< figproc "C-Major-inv-ADG" "Resize" "800x" >}}{{< /figproc >}}
+
+{{< figproc "C-Major-inv-EAD" "Resize" "800x" >}}{{< /figproc >}}
+
+Note that I've moved the 2nd inversion in that last diagram down to a lower position on the neck.
+
 ## Major arpeggio shapes
-By dropping each triad inversion in this way, we've created the following Major arpeggio shapes for C Major:
+
+Now that we've looked at triad shapes in isolation, let's combine them into three six-string arpeggios:
 
 {{< figproc "C-Major-Arpeggios" "Resize" "800x" >}}{{< /figproc >}}
 
-We'll discuss these further in the next section, [Rex's FAD]({{< ref "guitar/Fundamentals/harmony/FAD" >}}) but I've given each of these shapes a name: A shape, F shape, and D shape (pronounced "fad" but spelled funny).
-
+We'll discuss these further in the next section, [Rex's FAD]({{< ref "guitar/Fundamentals/harmony/FAD" >}}) but I've given each of these shapes a name: A shape, F shape, and D shape (pronounced "fad" but connected on the neck in AFD, FDA, or DAF order).
 
 For now, use the following exercise to become intimately familiar with these three major arpeggio shapes and how they interconnect.
 
