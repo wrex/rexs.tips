@@ -1,31 +1,57 @@
 ---
 date: 2020-04-13T20:25:51-07:00
-title: "All Major"
-linkTitle: "All Major"
+title: "Major"
+linkTitle: "Major"
 author: "Rex Walters"
 description: "How to play major triads on every string set"
 type: "docs"
 weight: 20
 resources:
+  - src: "C-Major-Inversions.png"
+    title: "Fig 1. C Major all inversions"
   - src: "c-major-GBE-root.png"
-    title: "Fig 1. C Major, GBE, root inversion"
+    title: "Fig 2. C Major, GBE, root inversion"
   - src: "c-major-DGB-2nd.png"
-    title: "Fig 2. C Major, DGB, 2nd inversion"
+    title: "Fig 3. C Major, DGB, 2nd inversion"
   - src: "c-major-ADG-1st.png"
-    title: "Fig 3. C Major, ADG, 1st inversion"
+    title: "Fig 4. C Major, ADG, 1st inversion"
   - src: "c-major-EAD-root.png"
-    title: "Fig 4. C Major, EAD, root inversion"
+    title: "Fig 5. C Major, EAD, root inversion"
   - src: "c-major-DGB-root.png"
-    title: "Fig 5. C Major, DGB, root inversion"
+    title: "Fig 6. C Major, DGB, root inversion"
   - src: "c-major-DGB-1st.png"
-    title: "Fig 6. C Major, DGB, 1st inversion"
+    title: "Fig 7. C Major, DGB, 1st inversion"
   - src: "c-major-ADG-root.png"
-    title: "Fig 6. C Major, ADG, root inversion"
+    title: "Fig 8. C Major, ADG, root inversion"
   - src: "c-major-EAD-2nd.png"
-    title: "Fig 6. C Major, EAD, 2nd inversion"
+    title: "Fig 9. C Major, EAD, 2nd inversion"
   - src: "C-Major-Arpeggios.png"
-    title: "Fig 6. C Major Arpeggios"
+    title: "Fig 10. C Major Arpeggios"
 ---
+
+## Major triads on GBE
+
+On the top three strings of the guitar, the three close voicings of the C Major triad are played as follows:
+
+{{< figproc "C-Major-Inversions.png" "Resize" "800x" >}}{{< /figproc >}}
+
+Notice that when moving up the neck to the next inversion, each "voice" in the triad (lowest, middle, or highest pitch) moves up to the next higher note.
+
+When moving from the root inversion to the 1st inversion, the C (root) on the 3rd string moves to E (M3), E moves to G (p5), and G moves to C (root). CEG &rarr; EGC.
+
+The same thing occurs going from first to second inversion: EGC &rarr; GCE. And again when repeating the next higher root inversion (at frets 15-17 if you can reach): GCE &rarr; CEG.
+
+These three shapes allow you to play **any** major chord! If you move any of these three shapes two frets higher, it forms D Major (the notes D, F&sharp;, and A).
+
+**It's very important to remember where the root note is** in each of these shapes!
+
+You'll often find yourself thinking only about the root notes of each new chord in a song or progression. You'll then find the closest location for that note and form the rest of the shape around it.
+
+If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the correct shape around that root note. It gets easier with practice!
+
+{{< alert color="success">}}
+Now spend a practice session or two attempting [TDG0004ma1]({{< ref "/guitar/tests/triads/maj-gbe.md" >}})
+{{< /alert >}}
 
 ## Major triads on all string sets
 
@@ -53,9 +79,9 @@ Then we find the root inversion in the same way on the low-E, A, and D strings:
 
 We can (and will!) use the exact same "octave drop" technique for every inversion and every triad type (major, minor, diminished, or augmented).
 
-## Continuing with other inversions
+Indeed, you can use this trick with *any* chord, melody, or scale fragment!
 
-Indeed, you can use this trick with *any* chord, melody, or scale fragment! Before we explore the other triad types, however, let's complete the octave drop technique with the remaining two inversions of a major triad.
+Before we explore the minor, diminished, and augmented triad types, however, let's complete the octave drop technique with the remaining two inversions of a major triad.
 
 The root position dropped all the way down to the note C at the 8th fret of the low E string. The 1st inversion of C Major on the top strings is also at the 8th fret. So move the C over onto the same fret of the high E and start dropping the 1st inversion shape down the strings:
 

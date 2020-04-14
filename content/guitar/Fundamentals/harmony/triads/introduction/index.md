@@ -1,9 +1,9 @@
 ---
 date: 2020-04-13T15:26:21-07:00
-title: "Major"
-linkTitle: "Major"
+title: "Introduction"
+linkTitle: "Introduction"
 author: "Rex Walters"
-description: "Major triad voicings and fingerings"
+description: "Diatonic triad voicings and fingerings"
 type: "docs"
 weight: 10
 resources:
@@ -11,9 +11,45 @@ resources:
     title: "Fig 1. C Major triad, root inversion"
   - src: "c-minor-GBE-root.png"
     title: "Fig 2. C minor triad, root inversion"
-  - src: "C-Major-Inversions.png"
-    title: "Fig 3. C Major all inversions"
 ---
+
+This is a very old video on triads that I really need to re-record:
+
+{{< youtube mMzE5nxo4mY  >}}
+
+## Diatonic triads
+
+While technically a triad can be formed with any three arbitrary notes, diatonic harmony is based on triads formed from *stacked thirds:* notes that are a major third or a minor third apart from each other in a diatonic scale.
+
+To make a C Major triad, for example, you would play the notes C, E, and G simultaneously (skipping over D and F from the major scale).
+
+Since there are two stacked intervals, and each interval can be either a Major 3rd (M3) or a minor 3rd (m3) there are logically four types of triads:
+
+Major
+: root + M3 + p5 (a major 3rd between the first two notes, and a minor 3rd interval between the next two)
+
+Minor
+: root + m3 + p5 (a minor 3rd between the first two notes, and a major 3rd between the next two)
+
+Diminished
+: root + m3 + &flat;5 (two minor third intervals stacked on top of each other)
+
+Augmented
+: root + M3 + &sharp;5 (two major third intervals stacked on top of each other)
+
+The first two (major and minor triads) are *by far* the most common and useful for playing songs.
+
+### Even big chords can be broken into triads
+
+Harmonic theory doesn't end with triads. Triads are two stacked thirds. If we continue stacking thirds on top, we get 7th chords (three stacked thirds), 9th chords (four stacked thirds), 11th chords (five stacked thirds), and even 13th chords (which contain all seven notes in the diatonic scale!).
+
+*Any* of these larger chords can be reduced to combinations of simple triads.
+
+If you played a Gmaj triad (G/B/D) at the same time someone else played a Bdim  triad (BDF), for example, together you would make the sound of a G7 chord (G/B/D/F).
+
+For some reason, this is rarely discussed, but *you never **need** to play anything other than triads when accompanying other musicians*, no matter how complex the harmony!
+
+## Major and minor triads
 
 As we discussed in the [introduction to this section]({{< ref "guitar/Fundamentals/harmony/triads" >}}), the C Major triad comprises the notes C, E, and G (skipping the intervening notes: D and F). It's a minor 3rd interval stacked on top of a major 3rd.
 
@@ -56,8 +92,6 @@ You can create fingerings for diminished and augmented triads the same way. If y
 
 Let's continue with a more thorough look at the Major triad, though.
 
-## C Major triads
-
 When the notes are ordered root, 3rd, 5th from lowest pitch to highest like this, we call it the "root voicing" or "root inversion" of the triad.
 
 ### Voicings / Inversions
@@ -79,27 +113,3 @@ The first three of these groupings are called "close voicings" because the notes
 The others are called "spread voicings" or "drop chord voicings" because one of the notes (voices) is lowered an octave. They can sound beautiful and are worth studying, but they can only be played if you skip a string (easiest with finger-style guitar).
 
 **We will ignore spread voicings for the remainder of these pages**. Spread voicings are a more advanced topic that you might want to explore on your own.
-
-## All three inversions
-
-On the top three strings of the guitar, the three close voicings of the C Major triad are played as follows:
-
-{{< figproc "C-Major-Inversions.png" "Resize" "800x" >}}{{< /figproc >}}
-
-Notice that when moving up the neck to the next inversion, each "voice" in the triad (lowest, middle, or highest pitch) moves up to the next higher note.
-
-When moving from the root inversion to the 1st inversion, the C (root) on the 3rd string moves to E (M3), E moves to G (p5), and G moves to C (root). CEG &rarr; EGC.
-
-The same thing occurs going from first to second inversion: EGC &rarr; GCE. And again when repeating the next higher root inversion (at frets 15-17 if you can reach): GCE &rarr; CEG.
-
-These three shapes allow you to play **any** major chord! If you move any of these three shapes two frets higher, it forms D Major (the notes D, F&sharp;, and A).
-
-**It's very important to remember where the root note is** in each of these shapes!
-
-You'll often find yourself thinking only about the root notes of each new chord in a song or progression. You'll then find the closest location for that note and form the rest of the shape around it.
-
-If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the correct shape around that root note. It gets easier with practice!
-
-{{< alert color="success">}}
-Now spend a practice session or two attempting [TDG0004ma1]({{< ref "/guitar/tests/triads/maj-gbe.md" >}})
-{{< /alert >}}
