@@ -7,8 +7,8 @@ description: "It's just twelve notes"
 type: "docs"
 weight: 2
 resources:
-  - src: "**.{png,jpg}"
-    title: "Image #:counter"
+  - src: "cmajor-open.png"
+    title: "Fig 1. C Major in open position"
 ---
 
 To play guitar well, to play with *intent* rather than just memorizing patterns, you **must be able to find notes anywhere on the fretboard** instantly and effortlessly (get used to seeing those two words a lot on this site).
@@ -33,8 +33,7 @@ A surprising number of guitarists never learn where all the notes are on the fre
 
 For example, the first thing millions of beginners learn to play is this C Major chord:
 
-<a id="fig1"></a>
-{{< figure src="/img/neck-diagrams/cmajor-open.png" title="Fig 1. C Major, Open Position" class="figure-caption text-center" >}}
+{{< figproc "cmajor" "Resize" "300x" >}}{{< /figproc >}}
 
 They learn how to form this **shape** on the fretboard. They then associate this shape in their heads with "C Major", along with different shapes for, say, "D Major" and "G major". They think of this (often for *years*) as the *only* way to play a C Major chord.
 
@@ -44,7 +43,7 @@ That diagram only shows *one* way to play a C Major.
 
 As we will learn when we start studying chords and harmony, C Major is formed when you play the three notes C, E, and G simultaneously.
 
-[Figure 1](#fig1) is just one way to play those notes. Plucking the notes individually from left to right (starting on the 5th string) the shape above sounds the *notes* C, E, G, C (again), and E (again). It's those three notes that make this a C chord, not the shape.
+[Figure 1](#cmajor) is just one way to play those notes. Plucking the notes individually from left to right (starting on the 5th string) the shape above sounds the *notes* C, E, G, C (again), and E (again). It's those three notes that make this a C chord, not the shape.
 
 Seriously, even small children learning piano can soon play a C major chord several different ways all over the keyboard. Literally millions of guitarists, though, never learn any way other than the diagram above, which is sad.
 
