@@ -13,27 +13,33 @@ As we discussed, chords are just multiple notes played simultaneously. Technical
 
 If notes are the atoms, triads form the molecules of western harmony.
 
+TODO: Create master proficiency test
+
 This is a very old video on triads that I really need to re-record:
 
 {{< youtube mMzE5nxo4mY  >}}
 
 ### Diatonic triads
 
-While technically a triad can be formed with any three arbitrary notes, diatonic harmonic is based on triads formed from "stacked thirds": notes that are either a major third or a minor third apart from each other in a diatonic scale.
+While technically a triad can be formed with any three arbitrary notes, diatonic harmony is based on triads formed from *stacked thirds*: notes that are either a major third or a minor third apart from each other in a diatonic scale.
 
 To make a C Major triad, for example, you would play the notes C, E, and G simultaneously (skipping over D and F from the major scale).
 
 Since there are two stacked intervals, and each interval can be either a Major 3rd (M3) or a minor 3rd (m3) there are logically four types of triads:
 
-1. Major: root + M3 + p5 (a major 3rd between the first two notes, and a minor 3rd interval between the next two)
+Major
+: root + M3 + p5 (a major 3rd between the first two notes, and a minor 3rd interval between the next two)
 
-2. Minor: root + m3 + p5 (a minor 3rd between the first two notes, and a major 3rd between the next two)
+Minor
+: root + m3 + p5 (a minor 3rd between the first two notes, and a major 3rd between the next two)
 
-3. Diminished: root + m3 + &flat;5 (two minor third intervals stacked on top of each other)
+Diminished
+: root + m3 + &flat;5 (two minor third intervals stacked on top of each other)
 
-4. Augmented: root + M3 + &sharp;5 (two major third intervals stacked on top of each other)
+Augmented
+: root + M3 + &sharp;5 (two major third intervals stacked on top of each other)
 
-The first two (major and minor triads) are by far the most common and most useful for playing songs. We will be studying them in depth next.
+The first two (major and minor triads) are *by far* the most common and useful for playing songs.
 
 ### Even big chords can be broken into triads
 

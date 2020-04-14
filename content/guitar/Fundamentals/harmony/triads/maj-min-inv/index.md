@@ -1,9 +1,9 @@
 ---
 date: 2020-04-13T15:26:21-07:00
-title: "Major and minor triads"
-linkTitle: "Maj Min Inv"
+title: "Major"
+linkTitle: "Major"
 author: "Rex Walters"
-description: ""
+description: "Major triad voicings and fingerings"
 type: "docs"
 weight: 10
 resources:
@@ -15,7 +15,9 @@ resources:
     title: "Fig 3. C Major all inversions"
 ---
 
-The C Major triad comprises the notes C, E, and G (skipping the intervening notes: D and F). It's a minor 3rd interval stacked on top of a major 3rd. The M3 interval between C and E is what gives the chord its "happy" sound.
+As we discussed in the [introduction to this section]({{< ref "guitar/Fundamentals/harmony/triads" >}}), the C Major triad comprises the notes C, E, and G (skipping the intervening notes: D and F). It's a minor 3rd interval stacked on top of a major 3rd.
+
+The M3 interval between C and E is what gives the chord its "happy" sound. The third (major or minor) is what determines the "quality" of a chord. Major and augmented triads are classified as major, minor triads and diminished are minor.
 
 #### C Major: C E G
 
@@ -28,7 +30,7 @@ E
 G
 : P5 of the chord, a minor 3rd above E, a perfect fifth from C.
 
-The C minor triad comprises the notes C, E&flat;, and G. The minor 3rd between the first two notes is what gives it the "sad" or "poignant" quality.
+By way of comparison, the C minor triad comprises the notes C, E&flat;, and G. The minor 3rd between the first two notes is what gives it the "sad" or "poignant" quality.
 
 #### C minor: C E&flat; G
 
@@ -50,7 +52,13 @@ Here is one way to play the C Major and C minor triads on the top three strings:
 
 As you can see, simply moving the 3rd (the middle note) down a fret changes the quality of the chord from major to minor.
 
-When the notes are in order like this (ordered root, 3rd, 5th from lowest pitch to highest) we call the form of the triad the "root voicing" or "root inversion".
+You can create fingerings for diminished and augmented triads the same way. If you lower the G in a minor triad one fret to G&flat; you create a diminished triad. Raise the G in the Major triad shape one fret to G&sharp; and you create an augmented triad.
+
+Let's continue with a more thorough look at the Major triad, though.
+
+## C Major triads
+
+When the notes are ordered root, 3rd, 5th from lowest pitch to highest like this, we call it the "root voicing" or "root inversion" of the triad.
 
 ### Voicings / Inversions
 
@@ -72,7 +80,7 @@ The others are called "spread voicings" or "drop chord voicings" because one of 
 
 **We will ignore spread voicings for the remainder of these pages**. Spread voicings are a more advanced topic that you might want to explore on your own.
 
-### C Major inversions
+## All three inversions
 
 On the top three strings of the guitar, the three close voicings of the C Major triad are played as follows:
 
@@ -91,3 +99,7 @@ These three shapes allow you to play **any** major chord! If you move any of the
 You'll often find yourself thinking only about the root notes of each new chord in a song or progression. You'll then find the closest location for that note and form the rest of the shape around it.
 
 If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the correct shape around that root note. It gets easier with practice!
+
+{{< alert color="success">}}
+Now spend a practice session or two attempting [TDG0004ma1]({{< ref "/guitar/tests/triads/maj-gbe.md" >}})
+{{< /alert >}}
