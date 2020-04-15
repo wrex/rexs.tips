@@ -1,11 +1,11 @@
 {{- $tut := .Page.Params.tutorial -}}
 {{- $page := index (findRE "[^#]*" $tut 1) 0 -}}
-
+{{- $pageTitle := (.Site.GetPage $page).Title -}}
 {{- $color := .Get "color" | default "primary" -}}
-{{ if $tut }}
+{{- if $tut -}}
 <div class="pageinfo pageinfo-{{ $color }}">
 
-See [{{ $page }}]({{ ref . $tut }}) for a lesson/tutorial about this test.
+See [{{ $pageTitle }}]({{ ref . $tut }}) for a lesson/tutorial about this test.
 
 </div>
-{{ end }}
+{{- end -}}
