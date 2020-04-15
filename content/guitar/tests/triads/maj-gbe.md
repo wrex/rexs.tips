@@ -17,6 +17,10 @@ resources:
 
 This is proficiency test **{{% param tdgid %}}**
 
+## Demonstration
+
+{{< youtube "-M07mqGRnFY"  >}}
+
 ## Procedure
 
 Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/tests/learn-neck" >}}) on the G, B, and E strings.

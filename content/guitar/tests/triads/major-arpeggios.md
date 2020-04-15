@@ -24,7 +24,7 @@ Because it descends from high strings to low, it emphasizes the top four strings
 
 ## Demonstration
 
-TODO: I **REALLY** need to record a demo of this exercise.
+{{< youtube "Dak94g3zt2Y"  >}}
 
 ## Procedure
 
