@@ -6,12 +6,9 @@ author: "Rex Walters"
 description: "Compact listing of all tests"
 type: "docs"
 weight: 1
-resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
 ---
 
-You may wish to print out this page. (Note that tests may be added periodically.)
+You may wish to print out this page. (Note that new tests may be added periodically.)
 
 Whenever you start one of the items, put a dot in the box in the left column for that item, and mark the date in your journal.
 
