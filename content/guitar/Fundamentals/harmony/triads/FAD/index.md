@@ -7,20 +7,22 @@ description: "CAGED simplified"
 type: "docs"
 weight: 50
 resources:
-  - src: "CAGED-C.png"
-    title: "Fig 1. CAGED: C Major, C shape"
-  - src: "CAGED-A.png"
-    title: "Fig 2. CAGED: C Major, A shape"
-  - src: "CAGED-G.png"
-    title: "Fig 3. CAGED: C Major, G shape"
-  - src: "CAGED-E.png"
-    title: "Fig 4. CAGED: C Major, E shape"
-  - src: "CAGED-D.png"
-    title: "Fig 5. CAGED: C Major, D shape"
   - src: "C-Major-Arpeggios.png"
-    title: "Fig 6. C Major Arpeggios"
+    title: "Fig 1. C Major arpeggios"
+  - src: "CAGED-C.png"
+    title: "Fig 2. CAGED: C Major, C shape"
+  - src: "CAGED-A.png"
+    title: "Fig 3. CAGED: C Major, A shape"
+  - src: "CAGED-G.png"
+    title: "Fig 4. CAGED: C Major, G shape"
+  - src: "CAGED-E.png"
+    title: "Fig 5. CAGED: C Major, E shape"
+  - src: "CAGED-D.png"
+    title: "Fig 6. CAGED: C Major, D shape"
   - src: "barre-triads.png"
     title: "Fig 7. Rex's FAD: Three triads"
+  - src: "FAD-arpeggios.png"
+    title: "Fig 8. C Major arpeggios, FAD Triads"
   - src: "F-alt-fingerings.png"
     title: "Fig 8. F-shape chord fingerings"
   - src: "A-alt-fingerings.png"
@@ -93,9 +95,15 @@ Things became *much* easier when I did two things:
 
 The triad "kernels" of Rex's FAD are shown with solid circles, alternate root locations are shown with hollow circles.
 
+I only think about those three simple triad shapes when I try to locate things on the fretboard. For example, my brain "sees" [figure 1](#C-Major-Arpeggios) like this:
+
+{{< figproc "FAD-arpeggios" "Resize" "800x" >}}{{< /figproc >}}
+
+The triad "kernels" sort of light up in my brain.
+
 Note where the roots are in each shape (shown in red):
 
-* The 4th string for the F shape (with an alternate on the 1st).
+* The 1st string for the F shape (with an alternate on the 4th).
 
 * The 3rd string for the A shape.
 
