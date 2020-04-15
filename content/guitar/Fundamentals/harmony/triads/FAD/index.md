@@ -146,7 +146,7 @@ The value of "Rex's FAD" to me is:
 
 * I mastered finding notes on the fretboard, so its now trivial to find chords anywhere on the neck. You have learned your [note locations]({{< ref "guitar/Fundamentals/notes/finding-notes" >}}) haven't you?
 
-* I no longer think about shape names at all. I'd just call those chords [figure 4](#barre-triads) F&sharp;, B, and E major chords and be done with it.
+* I no longer think about shape names at all. I'd just call those chords in [figure 4](#barre-triads) F&sharp;, B, and E major chords and be done with it.
 
 * I can play two of the shapes two different ways, depending on whether I have fingers above or below the "kernel" triad. (The F shape is only played with fingers mostly higher on the neck.)
 
