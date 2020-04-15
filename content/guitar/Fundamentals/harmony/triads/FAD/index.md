@@ -21,27 +21,35 @@ resources:
     title: "Fig 6. C Major Arpeggios"
   - src: "barre-triads.png"
     title: "Fig 7. Rex's FAD: Three triads"
-  - src: "FAD-fingerings.png"
-    title: "Fig 8. Four-string FAD fingerings"
+  - src: "F-alt-fingerings.png"
+    title: "Fig 8. F-shape chord fingerings"
+  - src: "A-alt-fingerings.png"
+    title: "Fig 9. A-shape chord fingerings"
+  - src: "D-alt-fingerings.png"
+    title: "Fig 10. D-shape chord fingerings"
 ---
 
 ## Major arpeggio shapes
 
-Now that we've looked at major triad shapes in isolation, let's combine them into six-string arpeggios:
+Now that we've looked at major triad shapes in isolation, let's merge them into three six-string arpeggios:
 
 {{< figproc "C-Major-Arpeggios" "Resize" "800x" >}}{{< /figproc >}}
 
-I've given each of these three shapes a name: A shape, F shape, and D shape (pronounced "fad" but connected on the neck in AFD, FDA, or DAF order). The names are just so I have something to refer to in the documentation for this course, try not to think about shape names when playing!
+An *arpeggio* is just a "broken chord". The individual notes in an arpeggio are played one at a time rather than simultaneously. As we've already established, **any three adjacent strings within these arpeggios can be played as a chord.**
 
-For now, use the following exercise to become intimately familiar with these three major arpeggio shapes and how they interconnect.
+I've given each of these three shapes a name: A shape, F shape, and D shape. The names are just so I have something to refer to in the documentation for this course, I try *not* to think about shape names when playing!
+
+The following exercise will help you become intimately familiar with these  major arpeggio shapes and how they interconnect.
 
 {{< alert color="success" >}}
 TODO: Create TDG test for this section
 {{< /alert >}}
 
-### CAGED
+## CAGED
 
-You've probably heard of the CAGED system which teaches five movable shapes based on the cowboy chords of the same name:
+You've probably heard of the CAGED system before. It teaches five movable shapes (barre chords) based on the cowboy chords of the same name.
+
+Here are the CAGED shapes for a C Major chord:
 
 {{< figproc "CAGED-C" "Resize" "800x" >}}{{< /figproc >}}
 {{< figproc "CAGED-A" "Resize" "800x" >}}{{< /figproc >}}
@@ -49,18 +57,19 @@ You've probably heard of the CAGED system which teaches five movable shapes base
 {{< figproc "CAGED-E" "Resize" "800x" >}}{{< /figproc >}}
 {{< figproc "CAGED-D" "Resize" "800x" >}}{{< /figproc >}}
 
-Hopefully you can see how all five of these shapes are included in the three arpeggio shapes of [figure 1](#C-Major-Arpeggios).
+Hopefully you can see how the three arpeggio shapes of [figure 1](#C-Major-Arpeggios) also include all five of the CAGED shapes (but grouped into three non-overlapping shapes rather than five that overlapped in different places).
 
 ### My gripes with CAGED
 
-CAGED has helped an uncountable number of players. There is nothing wrong with teaching CAGED, but to my brain at least it's unnecessarily confusing:
+CAGED has helped an uncountable number of players. There is nothing wrong with teaching CAGED, but, to my brain at least, it's unnecessarily confusing:
 
 * The A and G shapes share a bunch of notes, as do the C and D shapes. Why name them and think about them as separate shapes?
 
-* Only contortionists can actually play the full D or G shapes &mdash; the fingerings are just too difficult!
+* Only contortionists can actually play the full D or G shapes from CAGED as chords &mdash; the fingerings are just too difficult!
 
   * Most people just play the top four strings or bottom five strings of the G shape.
   * Similarly, most people only play the lower *three* notes in the D shape. That's not even C Major! Technically those three notes only form a C5 power chord since they don't include the third.
+  * By way of contrast: any three adjacent strings in the arpeggios from [figure 1](#C-Major-Arpeggios) can be played is a full-fledged major chord.
 
 * In practice, CAGED tends to over-emphasize root notes on the E and A strings. Countless guitarists that practice CAGED struggle to find notes on anything *other* than the lowest two strings.
 
@@ -68,11 +77,17 @@ CAGED has helped an uncountable number of players. There is nothing wrong with t
 
 I find it far simpler to think in terms of the arpeggios in [figure 1](#C-Major-Arpeggios) --- what I'm calling "Rex's FAD".
 
-### Rex's FAD
+## Rex's FAD
 
 What follows is one of the **biggest epiphanies I've ever had on the guitar**.
 
-My brain struggled with five CAGED shapes. It became *much* easier when I started focusing on just the top four strings, and reduced CAGED to just the following three triad shapes:
+My brain struggled with five CAGED shapes. For some reason, those big five and six string shapes were just too much for my little pea brain.
+
+Things became *much* easier when I did two things:
+
+1. Focus mainly on the top four strings
+
+2. Reduce the full six-string arpeggios from [figure 1](#C-Major-Arpeggios) to just the minimal internal triad "kernels" as shown below:
 
 {{< figproc "barre-triads" "Resize" "800x" >}}{{< /figproc >}}
 
@@ -98,30 +113,20 @@ I just have to answer: *Where is the root? On which string?*
 
 If you **KNOW** [where the notes are on the fretboard]({{< ref "guitar/Fundamentals/notes/finding-notes" >}}) you'll find it *trivial* to **find chord tones anywhere on the fretboard using just those three triads!**
 
-## Fingerings for FAD
+### Chord fingerings with FAD
 
-The FAD triads shown in [figure 7](#barre-triads) are only for **visualizing** what I want to play. Actual fingerings depend on where my hand is and what I want to accomplish.
+The FAD triads shown in [figure 7](#barre-triads) are only for **visualizing** what I want to play. I use the kernel triads to recall the full 6-string arpeggio shapes.
+
+I can then choose to play three, four, or even five string chord shapes depend on where my hand is and what I want to accomplish.
 
 In other words, the three triads in [figure 7](#barre-triads) are merely "hooks" or "indexes" into my memory. They are tools to assist with navigation.
 
-99% of the time, I jut play fingerings on the top four strings:
+99% of the time, I jut play the chords on the top four strings labeled "standard" fingerings below. Occasionally, I'll want to grab some lower notes or don't want to move my hand as far, and I'll use one of the alternate fingerings:
 
-{{< figproc "FAD-fingerings" "Resize" "800x" >}}{{< /figproc >}}
+{{< figproc "F-alt" "Resize" "800x" >}}{{< /figproc >}}
+{{< figproc "A-alt" "Resize" "800x" >}}{{< /figproc >}}
+{{< figproc "D-alt" "Resize" "800x" >}}{{< /figproc >}}
 
-
-### A shape fingerings
-
-### D shape Fingerings
-
-### F shape fingering
-
-## Higher and lower shapes
-
-In addition to the solid root note, alternative locations are also shown on different strings with hollow circles. You can find these alternate root locations with simple [octave shapes]({{< ref "guitar/Fundamentals/notes/finding-notes#octave-shapes" >}}).
-
-Most of the time, **you don't need to think aboutthe lower strings** &mdash; the solid triad shapes are all you need to "see" in your mind's eye. Once you see the triad shape, navigating to the alternate root locations is easy. *Focus primarily on the root note in each triad.*
-
-The E and A strings are mostly for occasional descending runs, usually to the root. The [three shapes in Rex's FAD](#barre-triads) let you focus on the sweet notes (roots and chord tones) on the top four strings.
 
 ### Why I like Rex's FAD
 
@@ -129,12 +134,12 @@ The value of "Rex's FAD" to me is:
 
 * I only need to **KNOW** three things rather than five.
 
-* I only have to remember where the *one* root is in each triad kernel (in the middle unless it's F).
+* I only have to remember where the *one* root note is in each triad kernel (in the middle unless it's F).
 
 * I mastered finding notes on the fretboard, so its now trivial to find chords anywhere on the neck. You have learned your [note locations]({{< ref "guitar/Fundamentals/notes/finding-notes" >}}) haven't you?
 
-* I no longer think about shape names at all. I'd just call those chords [figure 4](#barre-triads) F&sharp;, B, and E and be done with it.
+* I no longer think about shape names at all. I'd just call those chords [figure 4](#barre-triads) F&sharp;, B, and E major chords and be done with it.
 
-* I can play two of the shapes two different ways, depending on whether I have fingers above or below the "kernel" triad. (The F shape is only played one way.)
+* I can play two of the shapes two different ways, depending on whether I have fingers above or below the "kernel" triad. (The F shape is only played with fingers mostly higher on the neck.)
 
 #TODO: Write proficiency test for FAD
