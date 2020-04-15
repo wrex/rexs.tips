@@ -18,6 +18,8 @@ resources:
 This is proficiency test **{{% param tdgid %}}**
 
 
+TODO: write this test!
+
 ## Demonstration
 
 ## Procedure

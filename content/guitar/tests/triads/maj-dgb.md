@@ -1,13 +1,13 @@
 ---
-date: 2020-04-13T19:47:35-07:00
-title: "Major: GBE"
-linkTitle: "Major: GBE"
+date: 2020-04-14T18:24:16-07:00
+title: "Major: DGB"
+linkTitle: "Major: DGB"
 author: "Rex Walters"
-description: "Major triads on the G, B, and E strings"
-tdgid: "TDG00004ma1"
+description: "Major triads on the D, G, and B strings"
+tdgid: "TDG0004ma2"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "docs"
-weight: 10
+weight: 20
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
@@ -19,7 +19,7 @@ This is proficiency test **{{% param tdgid %}}**
 
 ## Procedure
 
-Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/tests/learn-neck" >}}) on the G, B, and E strings.
+Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/tests/learn-neck" >}}) on the D, G, and B strings.
 
 As always, you should practice this *rubato* (without a metronome) until you build up proficiency.
 
@@ -28,7 +28,7 @@ As always, you should practice this *rubato* (without a metronome) until you bui
 2. Progress through every natural note in fourths.
 
   1. Find the note as low on the neck as possible on the first three strings.
-  2. Form and strum the correct [major triad inversion]({{< ref "guitar/fundamentals/harmony/triads/major#C-Major-Inversions" >}}) for the root note on that string.
+  2. Form and strum the correct [major triad inversion]({{< ref "guitar/fundamentals/harmony/triads/major#C-Major-inv-DGB" >}}) for the root note on that string.
   3. Find the next location for that note higher up the neck (but still on the top three strings) and repeat with the next inversion.
   4. Again, move up the neck and play the final inversion.
 

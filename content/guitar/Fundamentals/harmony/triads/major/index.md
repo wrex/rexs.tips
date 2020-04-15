@@ -113,12 +113,24 @@ Here are the shapes for each inversion on the DGB string set:
 
 {{< figproc "C-Major-inv-DGB" "Resize" "800x" >}}{{< /figproc >}}
 
-**The top four strings are by far the most important** for soloing and comping in a band situation. I strongly suggest you practice the inversions on [GBE](#C-Major-Inversions) and [DGB](#C-Major-inv-DGB) shapes first. You should learn the shapes on all string sets eventually, but the top four strings will take you a long, long way (head and shoulders above countless other guitarists).
+{{< alert color="success">}}
+The proficiency test for triads on DGB is [TDG0004ma2]({{< ref "/guitar/tests/triads/maj-dgb.md" >}})
+{{< /alert >}}
+
+**The top four strings are by far the most important** for soloing and comping in a band situation. I strongly suggest you practice the inversions on the [GBE](#C-Major-Inversions) and [DGB](#C-Major-inv-DGB) string sets first. You should learn the shapes on all string sets eventually, but the top four strings will take you a long, long way (head and shoulders above countless other guitarists).
 
 Here are the shapes on the remaining string sets:
 
 {{< figproc "C-Major-inv-ADG" "Resize" "800x" >}}{{< /figproc >}}
 
+{{< alert color="success">}}
+The proficiency test for triads on ADG is [TDG0004ma3]({{< ref "/guitar/tests/triads/maj-adg.md" >}})
+{{< /alert >}}
+
 {{< figproc "C-Major-inv-EAD" "Resize" "800x" >}}{{< /figproc >}}
+
+{{< alert color="success">}}
+The proficiency test for triads on DGB is [TDG0004ma4]({{< ref "/guitar/tests/triads/maj-ead.md" >}})
+{{< /alert >}}
 
 Note that I've moved the 2nd inversion in that last diagram down to a lower position on the neck.
