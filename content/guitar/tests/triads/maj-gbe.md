@@ -4,7 +4,7 @@ title: "Major: GBE"
 linkTitle: "Major: GBE"
 author: "Rex Walters"
 description: "Major triads on the G, B, and E strings"
-tdgid: "TDG00004ma1"
+tdgid: "TDG0004ma1"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "docs"
 weight: 10
