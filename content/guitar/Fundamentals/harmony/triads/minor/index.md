@@ -15,17 +15,29 @@ We can speed up a little with the remaining triad types and jump right to the fu
 
 {{< figproc "C-minor-arpeggios" "Resize" "800x" >}}{{< /figproc >}}
 
-Referring to [figure 1](#C-minor-arpeggios), practice playing minor triads on teach successive string set:
+First complete the minor arpeggio test:
 
 {{< alert color="success" >}}
-Proficiency test for GBE: [TDG0004mi1](#TODO)
+Proficiency test for minor arpeggios: [TDG0004mia]({{< ref "guitar/tests/triads/minor-arpeggios" >}})
+{{< /alert >}}
+
+Next, practice playing minor triads on each successive string set. Refer to [figure 1](#C-minor-arpeggios) as necessary.
+
+{{< alert color="success" >}}
+Proficiency test for GBE: [TDG0004mi1]({{< ref "guitar/tests/triads/min-gbe" >}})
 {{< /alert >}}
 {{< alert color="success" >}}
-Proficiency test for DGB: [TDG0004mi2](#TODO)
+Proficiency test for DGB: [TDG0004mi2]({{< ref "guitar/tests/triads/min-dgb" >}})
 {{< /alert >}}
 {{< alert color="success" >}}
-Proficiency test for ADG: [TDG0004mi3](#TODO)
+Proficiency test for ADG: [TDG0004mi3]({{< ref "guitar/tests/triads/min-adg" >}})
 {{< /alert >}}
 {{< alert color="success" >}}
-Proficiency test for EAD: [TDG0004mi4](#TODO)
+Proficiency test for EAD: [TDG0004mi4]({{< ref "guitar/tests/triads/min-ead" >}})
+{{< /alert >}}
+
+Finally, practice finding *different* minor triads along the GBE and DGB string sets.
+
+{{< alert color="success" >}}
+Proficiency test for finding minor triads along GBE and DGB: [TDG0004mi5]({{< ref "guitar/tests/triads/min-top4" >}})
 {{< /alert >}}
