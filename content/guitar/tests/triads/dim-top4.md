@@ -1,13 +1,13 @@
 ---
-date: 2020-04-16T11:45:19-07:00
-title: "Major: DGBE"
-linkTitle: "Major: DGBE"
+date: 2020-04-16T12:12:19-07:00
+title: "Diminished: DGBE"
+linkTitle: "Dim: DGBE"
 author: "Rex Walters"
-description: "Find all major triads on the top for strings"
-tdgid: "TDG0004ma5"
-tutorial: "guitar/Fundamentals/harmony/triads/major#minimal-movement-drills"
+description: "Find all diminished triads on the top for strings"
+tdgid: "TDG0004di5"
+tutorial: "guitar/Fundamentals/harmony/triads/diminished"
 type: "docs"
-weight: 45
+weight: 245
 ---
 
 {{% tdgtutorial %}}
@@ -28,9 +28,9 @@ The test should be performed with quarter notes at 60BPM.
 
 1. On the GBE string set:
 
-  * Find the current note on the current string set as low on the neck as possible. Form the appropriate major triad shape for a root note on that string.
+  * Find the current note on the current string set as low on the neck as possible. Form the appropriate diminished triad shape for a root note on that string.
 
-  * Play that major triad on the beat.
+  * Play that diminished triad on the beat.
 
   * Move to the next note in the cycle nearby and play the appropriate triad for that root note. You should only need to move your hand one or two frets higher up the neck.
 

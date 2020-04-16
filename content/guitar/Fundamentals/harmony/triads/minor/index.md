@@ -5,7 +5,7 @@ linkTitle: "Minor"
 author: "Rex Walters"
 description: "How to play minor triads on every string set"
 type: "docs"
-weight: 40
+weight: 60
 resources:
   - src: "C-minor-arpeggios.png"
     title: "Fig 1. C minor arpeggios"
