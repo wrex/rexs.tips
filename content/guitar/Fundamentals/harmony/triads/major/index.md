@@ -134,3 +134,15 @@ The proficiency test for triads on DGB is [TDG0004ma4]({{< ref "/guitar/tests/tr
 {{< /alert >}}
 
 Note that I've moved the 2nd inversion in that last diagram down to a lower position on the neck.
+
+## Minimal movement drills
+
+All of the proficiency tests we've done so far have you stay on the same chord throughout, and requires you to move your hand several frets to find each new inversion.
+
+This next drill has you progress through the entire cycle on the *same* string set and only requires you to move your hand slightly.
+
+This test restricts us to the top four strings (the most important strings for soloing and finding notes).
+
+{{< alert color="success" >}}
+Finding triads on the top two string sets in fourths: [TDG0004ma5]({{< ref "guitar/tests/triads/maj-top4.md" >}}).
+{{< /alert >}}

@@ -1,6 +1,6 @@
 ---
-title: "Rex's Opinionated Guitar Lessons"
-linkTitle: "Guitar"
+title: "Operators Manual for Guitar"
+linkTitle: "OMFG"
 type: docs
 weight: 20
 menu:
