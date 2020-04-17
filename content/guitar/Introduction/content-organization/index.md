@@ -84,11 +84,11 @@ This course attempts to be consistent with chord naming, but it can be difficult
 
 Any chord symbol **always** starts with an uppercase letter for the root of the chord.
 
-Whenever possible, the quality of the chord is included and abbreviated: "Maj", "min", "dim", or "aug" rather than using symbols or single letters. The "M" in Major is capitalized while the "m" in minor is lower case.
+Whenever possible, the quality of the chord is included and abbreviated: "Maj", "m", "dim", or "aug" rather than using symbols or single letters. The "M" in Major is capitalized.
 
 Thus, "CMaj" rather than "C&bigtriangleup;" or just the plain letter "C" (to avoid confusion with notes or keys).
 
-Common seventh chords are written like C7, CMaj7, Cmin7.
+Common seventh chords are written like C7, CMaj7, Cm7.
 
 Diminished chords are written like "Cdim" rather than "C&ordm;".
 
@@ -98,7 +98,7 @@ Suspended chords are written Csus2 or Csus4 (and the 2 or 4 will always be inclu
 
 If the m7 is present in the chord, extended chords will be written C9 or C13. If the m7 is *not* present they become Cadd2 or Cadd6.
 
-Slash chords indicate either a specific inversion where necessary, or an *added* bass note not normally in the chord. For brevity, the three letter abbreviation is *not* used for chord quality in slash chords. C/E is the first inversion of CMaj., Cm/G is the second inversion of Cmin, and CMaj7/F is CMaj with an additional F played in the bass.
+Slash chords indicate either a specific inversion where necessary, or an *added* bass note not normally in the chord. For brevity, the three letter abbreviation is *not* used for chord quality in slash chords. C/E is the first inversion of CMaj., Cm/G is the second inversion of Cm, and CMaj7/F is CMaj with an additional F played in the bass.
 
 Please refer to the [wikipedia page on chords](https://en.wikipedia.org/wiki/Chord_(music)) if any other notation is confusing.
 
@@ -106,7 +106,7 @@ Please refer to the [wikipedia page on chords](https://en.wikipedia.org/wiki/Cho
 
 The triads formed from a diatonic scale are written in Roman numerals. Uppercase refers to Major chords, lowercase to minor.
 
-The diatonic chords are thus written as follows: I, ii, iii, IV, V, vi, vii&ordm; (note that the symbol **is** used for diminished triads with Roman notation). In the key of C, these would be the chords CMaj, Dmin, Emin, FMaj, GMaj, Amin, and Bdim.
+The diatonic chords are thus written as follows: I, ii, iii, IV, V, vi, vii&ordm; (note that the symbol **is** used for diminished triads with Roman notation). In the key of C, these would be the chords CMaj, Dm, Em, FMaj, GMaj, Am, and Bdim.
 
 ### Keys
 
