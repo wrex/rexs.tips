@@ -3,7 +3,7 @@ date: 2020-04-11T17:13:01-07:00
 title: "Content organization"
 linkTitle: "Content notes"
 author: "Rex Walters"
-description: "How to *use* this site"
+description: "Conventions used in this course"
 type: "docs"
 weight: 20
 resources:

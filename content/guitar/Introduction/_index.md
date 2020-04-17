@@ -39,12 +39,20 @@ I can heartily recommend any of the following:
 
 So why am I publishing all this?
 
-To be completely honest, you will probably be better served by one of the sites I've listed above.
+To be completely honest, it's mostly for my own benefit.
 
-Here are a few reasons you might want to stick around, though:
+> "If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it."
+>
+> &ndash; Yogi Bhajan
 
-* **This site is written by an engineer for engineers**. Tech nerds represent! I know how we think, and how deeply we need to understand "why". I also know how easy it is for us to get distracted and miss the important stuff. Almost all of this content was written expressly for one of my closest friends (and currently the only user of the site!).
+You will probably be better served by one of the sites I've listed above.
 
-* **It's written by a beginner for beginners**. Though I've been struggling with the instrument for decades, at best I'm an intermediate player. I still have epiphanies every few days. I try to get recent breakthroughs in understanding and tricks for practicing technique onto the site while they are still fresh in my mind.
+Here are a few reasons why you might want to stick around, though:
+
+* **This site is written by an engineer for engineers**. Tech nerds represent! I know how we think, and how deeply we need to understand *"why".* I also know how easy it is for us to get distracted and miss the important stuff. Almost all of this content was written expressly for one of my closest friends (and currently the only user of the site!).
+
+* **It's written by a beginner for beginners**. Though I've been struggling with the instrument for decades, at best I'm an intermediate player. I still have epiphanies every few days. I try to get recent breakthroughs in understanding and tricks for practicing technique onto the site while they are still fresh in my mind. Experts often *forget* what triggered their own breakthroughs.
 
 * **It's prescriptive about what to practice**. Like many, my practice sessions were often a disorganized and inefficient mess. I had to think too hard about "what should I be practicing". On this site, I provide a large number of [proficiency tests]({{< ref "/guitar/tests" >}}) to choose from. Eventually I hope to provide an automated mechanism for tracking which tests have been attempted (and when) and which have been mastered, but even tracking with pencil and paper is proving useful.
+
+I'm **particularly** proud of that last item. Organizing my practice regimen with [proficiency tests]({{< ref "guitar/tests" >}}) has helped me tremendously. I'm hopeful others will find it equally useful.
