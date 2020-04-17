@@ -66,7 +66,7 @@ I try to plan out my practice sessions one or two days in advance. I may well ca
 
 If I don't particularly feel like learning a song, I may work on something more theoretical: harmony and triads, a particular scale or mode, etc.
 
-If I'm tired and don't feel up to brain work *or* difficult fingerboard exercises, I'll put on a metronome or drum loop and just try to improvise a groove of some sort (this [YouTube Video by Guitargate](https://youtu.be/ROKXgwshKwM) is a great example of this kind of practice).
+If I'm tired and don't feel up to brain work *or* difficult fingerboard exercises, I'll put on a metronome or drum loop and just try to improvise a groove of some sort (this [YouTube Video by Guitargate](https://youtu.be/7y9sdICaEds) is a great example of this kind of practice).
 
 ### What *not* to do
 
