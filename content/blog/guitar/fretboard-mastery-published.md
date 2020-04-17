@@ -2,6 +2,7 @@
 date: 2020-04-12T16:02:14-07:00
 title: "Fretboard Mastery Published"
 linkTitle: "Fretboard Mastery Published"
+toc_hide: true
 description: "All about how to learn the notes"
 author: "Rex Walters"
 ---

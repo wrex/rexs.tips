@@ -2,6 +2,7 @@
 date: 2020-04-08T15:35:48-07:00
 title: "Wanikani"
 linkTitle: "Wanikani"
+toc_hide: true
 description: "A fantastic resource for learning to read Japanese"
 author: "Rex Walters"
 ---

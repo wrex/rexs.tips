@@ -2,6 +2,7 @@
 date: 2020-04-16T17:25:03-07:00
 title: "Triads Published"
 linkTitle: "Triads Published"
+toc_hide: true
 description: "All the triad content from the old site has been ported"
 author: "Rex Walters"
 

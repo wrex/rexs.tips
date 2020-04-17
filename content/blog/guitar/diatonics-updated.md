@@ -2,6 +2,7 @@
 date: 2020-04-09T19:49:32-07:00
 title: "Diatonic theory updates"
 linkTitle: "Diatonic theory updates"
+toc_hide: true
 description: "Major rewrite of the diatonic theory page"
 author: "Rex Walters"
 resources:

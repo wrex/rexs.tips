@@ -2,6 +2,7 @@
 date: 2020-04-08T15:17:19-07:00
 title: "Beginner Content"
 linkTitle: "Beginner Content"
+toc_hide: true
 description: "Adding some new beginner oriented content."
 author: "Rex Walters"
 ---

@@ -2,6 +2,7 @@
 date: 2020-03-10T21:14:10-07:00
 title: "New Site!"
 linkTitle: "New Site"
+toc_hide: false
 description: "Announcing Rex's Tips, a docsy themed site."
 author: "Rex Walters"
 resources:

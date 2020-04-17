@@ -2,9 +2,9 @@
 date: 2020-04-08T22:08:35-07:00
 title: "Shop Pics"
 linkTitle: "Shop Pics"
+toc_hide: true
 description: "Some snapshots of my machine tools"
 author: "Rex Walters"
-
 ---
 
 I'm planning to publish more shop stuff in the future, but I needed at least one post in this category to get going. So here are some pictures of my machine tools.
