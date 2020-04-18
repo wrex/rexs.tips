@@ -44,7 +44,7 @@ I'll try to keep things as simple as possible, but the Blues ain't easy.
 
 ### Dom7 chord voicings
 
-The Blues uses Dom7 chord voicings almost exclusively. It's useful to have a few basic Dom7 shapes under your fingers before you start this chapter.
+The Blues uses Dom7 chord voicings almost exclusively. It's useful to have a few basic Dom7 shapes under your fingers before you start this chapter. All of the shapes below are quite easy to play, especially the shell voicings.
 
 #### Open position
 
@@ -64,7 +64,7 @@ These six shapes will allow you to play the I7-IV7-V7 Blues progression in any o
 
 #### Shell voicings
 
-Next learn these two "shell" voicings. They will allow you to play in *any* key, simply by choosing different root note locations on the fretboard.
+Next learn these three "shell" voicings. They will allow you to play in *any* key, simply by choosing different root note locations on the fretboard.
 
 These shell voicings leave out the P5. They are almost like triads, but with the root, M3, and m7 instead of the root, M3, and P5. It's often useful to leave out one note or another when you are trying to find a comfortable fingering for a chord.
 
@@ -72,6 +72,8 @@ It's almost always okay to leave out the P5 from any chord. The P5 is like MSG f
 
 {{< figproc "dom7-shell" "Resize" "800x" >}}{{< /figproc >}}
 
+Note that the sixth-string rooted shape mutes the fifth string. It's actually easier to mute than not: just let your index finger on the root note flop over a bit and prevent the fifth string from ringing. All three shapes should prove quite easy to play (with just three fingers!).
+
 {{< alert color="success" >}}
-Practice this proficiency test before proceeding: [TDG0005a • Basic Dom7 voicings]
+Practice this proficiency test before proceeding: [TDG0005a • Basic Dom7 voicings](#TODO)
 {{< /alert >}}
