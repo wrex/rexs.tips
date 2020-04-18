@@ -84,6 +84,8 @@ Track how much *time* you spend practicing:
 
 * **Use a metronome**. Almost all the proficiency tests require a metronome to demonstrate you've mastered an exercise, but a metronome helps even when you are still building your skill with an exercise. Remember you can use whole notes, half notes, quarter notes, triplets, and sixteenth notes in addition to adjusting the BPM!
 
+* **Record yourself**. Listening to yourself objectively is a million times easier if you *aren't currently focused on playing*. Get in the habit of recording yourself often. Go back and listen to old recordings periodically, too.
+
 ### Rule 3. Never work on more than five things at a time.
 
 Three things at a time is even better (but hard to stick to).
