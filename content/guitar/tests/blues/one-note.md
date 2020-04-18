@@ -57,7 +57,17 @@ Once you know what you are doing, you can literally force **any** note to sound 
 
 After a while it should become obvious that the root note, A, always sounds "best" (or at least "most resolved").
 
-Each phrase you ends on A will sound ... complete, back home, content. This should happen naturally, without much thought. You should just find your fingers ending up on that root note. Tension and release is the essence of soloing: every note you play other than the root adds a bit of tension (some more than others), every time you come back home to the root you release that tension.
+Each phrase you end on A sounds ... complete, back home, content. You should find your fingers *wanting* to end up on that root A. Tension and release is the essence of soloing: every note you play other than the root creates a bit of tension (some moreso than others). Every time you come back home you release that tension.
+
+The remaining four notes should feel quite different, and *the feeling changes depending on the backing chord*. Pay particular attention to the note C: over Am it should sound harmonious, but over AMaj or A7 it should create some dissonance. This is because it's clashing with the C&sharp; in the backing chord.
+
+{{< alert color="info" >}}
+
+Repeat the exercise over AMaj and A7, but every time you play the note C, tweak it a little. Give it a slight bend. Not all the way up to C&sharp;, but just a little tweak (often called a "curl"). It should sound amazingly "bluesy."
+
+This dissonant clash of the m3 over M3 in the chord is the very essence of the Blues. It's what gives the Blues that mournful, sad  feeling.
+
+{{< /alert >}}
 
 For me, I felt for the first time that *I was actually soloing* when I attempted this exercise. This is because I was playing with **intent**, actually targeting sounds I could hear in my head, *before* I played them.
 
@@ -71,4 +81,4 @@ You can never really "master" this exercise. Try to stick with it for at least a
 
 ## Extra credit
 
-Try adding "outside" notes to your phrases. Use notes that aren't in the frying pan shape. You already started this with single fret slides from above and below a target note, but see if you can create cool phrases where you hang on an "outside" note for a while. It's okay to color outside the lines sometimes. Really.
+Try adding "outside" notes to your phrases. Use notes that aren't in the frying pan shape. We did this a bit already when sliding from one fret above and below a target note, but see if you can create cool phrases where you hang on an "outside" note for a while. It's okay to color outside the lines sometimes. Really.
