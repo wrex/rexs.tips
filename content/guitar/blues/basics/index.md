@@ -47,7 +47,7 @@ Before studying anything else with the blues, it's important to practice actuall
 
 {{< youtube 7cPSRdpq8iQ  >}}
 
-{{< alert color="success" title="TDG0005a • Swung Eighths" >}}
+{{< alert color="success" title="TDG0005b • Swung Eighths" >}}
 TODO: create a p-test
 {{< /alert >}}
 
@@ -57,7 +57,7 @@ Modern blues tends to emphasize the backbeats. In slower tempos, the backbeats a
 
 {{< youtube 1CW3CWGVQdA  >}}
 
-{{< alert color="success" title="TDG0005b • Jam Over a Drum Loop" >}}
+{{< alert color="success" title="TDG0005c • Jam Over a Drum Loop" >}}
 TODO: create a p-test
 {{< /alert >}}
 
@@ -75,7 +75,7 @@ The only way to avoid getting lost at all is to practice the progression so many
 
 {{< youtube of4Fjme32eQ  >}}
 
-{{< alert color="success" title="TDG0005c • Keeping Place and Anticipating Changes" >}}
+{{< alert color="success" title="TDG0005d • Keeping Place and Anticipating Changes" >}}
 TODO: create a p-test
 {{< /alert >}}
 
