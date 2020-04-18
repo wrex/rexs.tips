@@ -79,11 +79,11 @@ I demonstrate the technique here:
 
 I recommend practicing the harmonized major scales on the top four scales.
 
-{{< alert color="success" >}}
+{{< alert color="success" title="TDG0004hs1" >}}
 Proficiency test for harmonized major scales on GBE: [TDG0004hs1]({{< ref "guitar/tests/triads/harmonized-gbe" >}})
 {{< /alert >}}
 
-{{< alert color="success" >}}
+{{< alert color="success" title="TDG0004hs2" >}}
 Proficiency test for harmonized major scales on DGB: [TDG0004hs2]({{< ref "guitar/tests/triads/harmonized-dgb" >}})
 {{< /alert >}}
 
@@ -101,11 +101,11 @@ The basic exercise was a bit of a mental struggle the first few times, but the m
 
 {{< youtube "soB7dNbXwg4" >}}
 
-{{< alert color="success" >}}
+{{< alert color="success" title="TDG0004hs3" >}}
 Proficiency test C Major harmonized on GBE in sixths: [TDG0004hs3]({{< ref "guitar/tests/triads/becker-gbe" >}})
 {{< /alert >}}
 
-{{< alert color="success" >}}
+{{< alert color="success" title="TDG0004hs4" >}}
 Proficiency test C Major harmonized on DGB in sixths: [TDG0004hs4]({{< ref "guitar/tests/triads/becker-dgb" >}})
 {{< /alert >}}
 

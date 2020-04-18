@@ -13,6 +13,6 @@ As we discussed, chords are just multiple notes played simultaneously. Technical
 
 If notes are the atoms, triads form the molecules of western harmony.
 
-{{< alert color="success" >}}
+{{< alert color="success" title="TDG0004" >}}
 The master proficiency test for triads is [TDG0004]({{< ref "guitar/tests/triads" >}})
 {{< /alert >}}

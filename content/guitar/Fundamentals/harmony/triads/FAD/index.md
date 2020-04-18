@@ -43,7 +43,7 @@ I've given each of these three shapes a name: A shape, F shape, and D shape. The
 
 The following exercise will help you become intimately familiar with these  major arpeggio shapes and how they interconnect.
 
-{{< alert color="success" >}}
+{{< alert color="success" title="TDG0004maa" >}}
 The proficiency test for these arpeggios is [TDG0004maa]({{< ref "guitar/tests/triads/major-arpeggios" >}}).
 {{< /alert >}}
 
@@ -150,6 +150,6 @@ The value of "Rex's FAD" to me is:
 
 * I can play two of the shapes two different ways, depending on whether I have fingers above or below the "kernel" triad. (The F shape is only played with fingers mostly higher on the neck.)
 
-{{< alert color="success" >}}
+{{< alert color="success" title="TDG0004fa1" >}}
 The proficiency test for FAD is [TDG0004fa1]({{< ref "guitar/tests/triads/fad-145" >}})
 {{< /alert >}}

@@ -17,11 +17,11 @@ Here is the scale in all it's glory. Believe it or not, you'll soon be playing a
 
 {{< figproc "Am-wholeneck" "Resize" "800x" >}}{{< /figproc >}}
 
-{{< alert color="success" >}}
-The master proficiency test for the minor pentatonic scale is [TDG0006](#TODO).
+{{< alert color="success" title="TDG0005">}}
+The master proficiency test for the minor pentatonic scale is [TDG0005](#TODO).
 {{< /alert >}}
 
-### Why learn scales?
+### What are scales anyway?
 
 Music comprises [notes]({{< ref "guitar/Fundamentals/notes" >}}), [harmony]({{< ref "guitar/Fundamentals/harmony" >}}), and [rhythm]({{< ref "guitar/Fundamentals/rhythm" >}}). The first two are built from *scales*.
 
