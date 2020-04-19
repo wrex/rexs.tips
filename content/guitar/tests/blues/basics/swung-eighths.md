@@ -7,7 +7,7 @@ description: "It don't mean a thing if it ain't got that swing"
 tdgid: "TDG0005a"
 tutorial: "guitar/blues/basics"
 type: "docs"
-weight: 2
+weight: 10
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

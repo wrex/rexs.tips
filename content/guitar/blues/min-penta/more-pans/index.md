@@ -49,7 +49,7 @@ Of course, you should also experiment a bit. If you stumble across something tha
 
 Once you've connected the upper and lower pairs, practice playing with all three at once.
 
-{{< alert color="success" title="TDG0005f • Connection drills" >}}
+{{< alert color="success" title="TDG0005e • Connection drills" >}}
 [TDG0005f]({{< ref "guitar/tests/blues/pan-connection-drills" >}}) provides some mechanical drills to help you cement the locations for all these pitches into your brain.
 
 Pattern drills like these force you to visualize the shapes on the fretboard. They also help to improve technique, and prevent you from playing the same old licks and ascending/descending runs over and over.

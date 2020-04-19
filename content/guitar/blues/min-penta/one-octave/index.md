@@ -52,7 +52,7 @@ As obvious as this seems: **unless you KNOW what note you're playing, you'll nev
 The sound of each note depends on *context*. In particular, the notes of the minor pentatonic scale sound different over a minor chord than they do over a major chord. Not better or worse, just different.
 
 {{< alert color="success" title="Proficiency test">}}
-Learn the sound of each pentatonic note in different contexts with [TDG0005e • Single notes over single chords]({{< ref "guitar/tests/blues/one-note" >}})
+Learn the sound of each pentatonic note in different contexts with [TDG0005d • Single notes over single chords]({{< ref "guitar/tests/blues/one-note" >}})
 {{< /alert >}}
 
 We still aren't creating complete sentences or stories with this exercise, as in a real solo, because we've intentionally limited ourselves to just the five specific notes in a single octave over a single chord. Over the course of this chapter, we'll start adding other colors to the palette and learn how to play over an entire progression, not just a single chord.
