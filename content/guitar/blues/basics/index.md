@@ -29,7 +29,7 @@ The fundamental rhythmic groove of the blues is based on triplets and swung eigh
 
 > **One**-and **two**-and **three**-and **four**-and
 
-with equal spacing between each pulse (downbeat or "and"). A blues progression with a fast straight eighths groove immediately sounds rock-and-roll (tap along to <a href="https://youtu.be/ZFo8-JqzSCM" target="_blank">Johnny B. Goode by Chuck Berry</a>, for example).
+with equal spacing between each pulse (downbeat or "and"). A blues progression with a fast straight eighths groove immediately sounds rock-and-roll (tap along to <a href="https://youtu.be/p0FLZyTZBJ4" target="_blank">Johnny B. Goode by Chuck Berry</a>, for example).
 
 **Triplets** have three pulses per beat:
 
@@ -41,14 +41,14 @@ Again, equal spacing between each of the pulses, but triplets come in groups of 
 
 > **one**-&emsp;-a   **two**-&emsp;-a   **three**&emsp;-a   **four**-&emsp;-a
 
-The spacing is unequal with swung eighths. There is a longer pause between the downbeat and the upbeat. <a href="https://youtu.be/ejr2S7bN0V8?&t=3m22s" target="_blank">Matt Smith describes the sound as the "clip-clop" of horses in old western movies</a>. Some people also call it the "flat tire" rhythm because of the uneven sound of a punctured tire rolling around the rim. A classic example of the swung eighth groove is <a href="https://youtu.be/INniLPDgQRU" target="_blank">Jimi Hendrix playing Red House</a> (again, pay particular attention to the drums to hear the rhythm &mdash; a mix of triplets and swung eighths).
+The spacing is unequal with swung eighths. There is a longer pause between the downbeat and the upbeat. <a href="https://youtu.be/ejr2S7bN0V8?&t=3m22s" target="_blank">Matt Smith describes the sound as the "clip-clop" of horses in old western movies</a>. Some people also call it the "flat tire" rhythm because of the uneven sound of a punctured tire rolling around the rim. A classic example of the swung eighth groove is <a href="https://www.youtube.com/watch?v=n2cygQ3p_-A" target="_blank">Jimi Hendrix playing Red House</a> (again, pay particular attention to the drums to hear the rhythm &mdash; a mix of triplets and swung eighths).
 
 Before studying anything else with the blues, it's important to practice actually playing swung eighths *with a metronome*. I'd recommend spending even an **hour** or two practicing just this rhythm until it is completely ingrained and automatic.
 
 {{< youtube 7cPSRdpq8iQ  >}}
 
-{{< alert color="success" title="TDG0005b • Swung Eighths" >}}
-TODO: create a p-test
+{{< alert color="success" title="TDG0005a • Swung Eighths" >}}
+Learn how to swing with [TDG0005a]({{< ref "guitar/tests/blues/basics/swung-eighths" >}})
 {{< /alert >}}
 
 ### Backbeats
@@ -57,8 +57,8 @@ Modern blues tends to emphasize the backbeats. In slower tempos, the backbeats a
 
 {{< youtube 1CW3CWGVQdA  >}}
 
-{{< alert color="success" title="TDG0005c • Jam Over a Drum Loop" >}}
-TODO: create a p-test
+{{< alert color="success" title="TDG0005b • Jam Over a Drum Loop" >}}
+Have fun jamming over a drum track with [TDG0005b]({{< ref "guitar/tests/blues/basics/drum-jam" >}})
 {{< /alert >}}
 
 ### Not losing your place within 12 bars
@@ -75,8 +75,8 @@ The only way to avoid getting lost at all is to practice the progression so many
 
 {{< youtube of4Fjme32eQ  >}}
 
-{{< alert color="success" title="TDG0005d • Keeping Place and Anticipating Changes" >}}
-TODO: create a p-test
+{{< alert color="success" title="TDG0005c • Keeping Place and Anticipating Changes" >}}
+Learn to keep your place and anticipate changes with [TDG0005c]({{< ref "guitar/tests/blues/basics/keeping-place" >}})
 {{< /alert >}}
 
 Before studying anything else with the blues, I strongly recommend putting in some serious practice on just these two elements: the swung eighth rhythm, and starting to hear and anticipate the changes in the chord progression.
