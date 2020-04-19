@@ -1,11 +1,11 @@
 ---
 date: 2020-04-18T14:45:12-07:00
-title: "Blues"
-linkTitle: "Blues"
+title: "Blues master"
+linkTitle: "Blues master"
 author: "Rex Walters"
-description: ""
-tdgid: "TDG0000"
-tutorial: ""
+description: "Master proficiency test for the blues"
+tdgid: "TDG0005"
+tutorial: "guitar/blues"
 type: "docs"
 weight: 2
 resources:
@@ -19,7 +19,11 @@ This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 
+TODO
+
 ## Procedure
+
+TODO
 
 ## Pass criteria
 

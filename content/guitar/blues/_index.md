@@ -42,6 +42,10 @@ Things really get interesting when people like <a href="https://flypaper.soundfl
 
 I'll try to keep things as simple as possible, but the Blues ain't easy.
 
+{{< alert color="success" title="TDG0005 • The Blues" >}}
+A master proficiency test for the Blues isn't really feasible, but [TDG0005]({{< ref "guitar/tests/blues" >}}) will at least let you know if you've got the basics down.
+{{< /alert >}}
+
 ### Dom7 chord voicings
 
 The Blues uses Dom7 chord voicings almost exclusively. It's useful to have a few basic Dom7 shapes under your fingers before you start this chapter. All of the shapes below are quite easy to play, especially the shell voicings.
@@ -75,5 +79,5 @@ It's almost always okay to leave out the P5 from any chord. The P5 is like MSG f
 Note that the sixth-string rooted shape mutes the fifth string. It's actually easier to mute than not: just let your index finger on the root note flop over a bit and prevent the fifth string from ringing. All three shapes should prove quite easy to play (with just three fingers!).
 
 {{< alert color="success" title="TDG0005a • Basic Dom7 voicings" >}}
-Practice this proficiency test before proceeding: [TDG0005a • Basic Dom7 voicings](#TODO)
+Practice [TDG0005a]({{< ref "guitar/tests/blues/basics/simple-dom7" >}}) before proceeding.
 {{< /alert >}}
