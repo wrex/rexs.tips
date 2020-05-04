@@ -8,9 +8,11 @@ description: "What and how to practice"
 author: "Rex Walters"
 simple_list: true
 resources:
-- src: "focus-list.jpg"
-  title: "Sample focus list"
+  - src: "focus-list.jpg"
+    title: "Sample focus list"
 ---
+
+## The rules
 
 **Rule 1:** &nbsp;&nbsp;&nbsp;Practice what you want.
 
@@ -32,7 +34,6 @@ resources:
 
 {{< figproc "focus-list" "Resize" "400x" >}}{{< /figproc >}}
 
-
 ### At the start of each practice session
 
 1. Write the date and time at the top of a fresh page in your journal.
@@ -51,45 +52,54 @@ resources:
 
 2. Write your finish time at the top of the page.
 
-3. On the next fresh page, write down the items you *intend* to practice next time. Ideally, next time you'll just need to write
-
+3. On the next fresh page, write down the items you _intend_ to practice next time. Ideally, next time you'll just need to write
 
 The system is simple, but it works. It's really helped me from becoming overwhelmed from working on too many things at once.
 
-## The rules
+## The rules in detail
 
 ### Rule 1. Practice what you want
 
-Seems obvious, but if you hate to practice, then eventually you *won't* practice. Full stop.
+Seems obvious, but if you hate to practice, then eventually you _won't_ practice. Full stop.
 
 Ideally, practice should be at least somewhat enjoyable, but keep the following in mind:
 
-* There is no point in practicing what you've already mastered. Warm-up drills and some technique exercises are an exception.
+- There is no point in practicing what you've already mastered. Warm-up drills and some technique exercises are an exception.
 
-* If what you're practicing is too hard, you'll hate practicing. If something is too difficult, break it into smaller chunks and practice those in turn, building up to the full exercise. Baby steps, baby, baby steps.
+- If what you're practicing is too hard, you'll hate practicing. If something is too difficult, break it into smaller chunks and practice those in turn, building up to the full exercise. Baby steps, baby, baby steps.
 
-* Try to balance the five T's: theory, technique, tones (ear training), tunes, and timing. Not every session, but over the long haul.
+- Try to balance the five T's: theory, technique, tones (ear training), tunes, and timing. Not every session, but over the long haul.
 
-* Remember that *you play what you practice.* The way you practice scales, triads, etc. will show up in your playing eventually. If you only practice scales by mechanically going up and down the scale linearly with a constant rhythm, guess how your solos will sound to listeners? Try to be musical with your practice! (This is why almost all the proficiency tests proceed in fourths, by the way.)
+- Remember that _you play what you practice._ The way you practice scales, triads, etc. will show up in your playing eventually. If you only practice scales by mechanically going up and down the scale linearly with a constant rhythm, guess how your solos will sound to listeners? Try to be musical with your practice! (This is why almost all the proficiency tests proceed in fourths, by the way.)
 
 ### Rule 2. Track what you practice
 
 The simple act of writing down what you're working on can really help you focus. Maintain a journal!
 
-Track how much *time* you spend practicing:
+Track how much _time_ you spend practicing:
 
-* Mark off every single day you practice on a wall-mounted calendar, even if you only practice for five minutes. Seeing long, unbroken strings on a calendar can be a real motivator.
+- Mark off every single day you practice on a wall-mounted calendar, even if you only practice for five minutes. Seeing long, unbroken strings on a calendar can be a real motivator.
 
-* **Use a kitchen timer** for focused practice sessions. Don't just look at a clock occasionally! Five minutes of focused effort as measured by a timer is **far** more valuable than a half hour of farting around and looking at the clock occasionally.
+- **Use a kitchen timer** for focused practice sessions. Don't just look at a clock occasionally! Five minutes of focused effort as measured by a timer is **far** more valuable than a half hour of farting around and looking at the clock occasionally.
 
-* **Use a metronome**. Almost all the proficiency tests require a metronome to demonstrate you've mastered an exercise, but a metronome helps even when you are still building your skill with an exercise. Remember you can use whole notes, half notes, quarter notes, triplets, and sixteenth notes in addition to adjusting the BPM!
+- **Use a metronome**. Almost all the proficiency tests require a metronome to demonstrate you've mastered an exercise, but a metronome helps even when you are still building your skill with an exercise. Remember you can use whole notes, half notes, quarter notes, triplets, and sixteenth notes in addition to adjusting the BPM!
 
-* **Record yourself**. Listening to yourself objectively is a million times easier if you *aren't currently focused on playing*. Get in the habit of recording yourself often. Go back and listen to old recordings periodically, too.
+- **Record yourself**. Listening to yourself objectively is a million times easier if you _aren't currently focused on playing_. Get in the habit of recording yourself often. Go back and listen to old recordings periodically, too.
 
 ### Rule 3. Never work on more than five things at a time.
 
 Three things at a time is even better (but hard to stick to).
 
 Your `focus list` should change slowly, certainly no more than every several days. If you're tired of working on something, feel free to swap it out for anything else that interests you, but **nothing feels better than taking something off the list because you've mastered it**. Persistence is a virtue.
+
+## A web app to manage your practice sessions
+
+I'm creating a web app to assist with practice. It helps manage your focus list, track which items you've practiced and when, track which items you've mastered, and it will also provide basic timer and metronome tools.
+
+I'm designing the app "mobile first" but expect it to be equally usable on a small or large screen.
+
+I'm designing the app from scratch. It will likely be written in React.js (with Gatsby, to be more specific). It's looking like it will take me a few months to complete.
+
+Note that the app will **not** replace the manual process described above, it will simply make the process a little easier.
 
 ## Proficiency test categories:
