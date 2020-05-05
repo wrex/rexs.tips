@@ -9,7 +9,7 @@
 {{- $page := .Site.GetPage ($path) -}}
 {{- $tdgid := $page.Params.tdgid -}}
 {{- $title := $page.Title -}}
-{{ $color := .Get 1 | default "info" }}
+{{ $color := .Get 1 | default "success" }}
 <div class="alert alert-{{ $color }}" role="alert">
   <h4 class="alert-heading"><a href="{{$page.Permalink}}">{{ $tdgid | safeHTML }}: {{ $title | safeHTML }}</a></h4>
   {{ .Inner }}
