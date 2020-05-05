@@ -1,4 +1,4 @@
-{{/* usage: {{< tdgref "path-to-test" }} */}}
+{{/* usage: {{< tdgalert "path-to-test" "warning" >}}stuff{{< /tdgalert >}}  */}}
 {{/* */}}
 {{/* remove /guitar/tests from front if present */}}
 {{/* for some reason, \s and \S (whitespace or not) isn't working */}}
@@ -9,4 +9,8 @@
 {{- $page := .Site.GetPage ($path) -}}
 {{- $tdgid := $page.Params.tdgid -}}
 {{- $title := $page.Title -}}
-<a href="{{ $page.Permalink }}" alt="{{$title}}">{{ $tdgid }}: {{ $title }}</a>
+{{ $color := .Get 1 | default "info" }}
+<div class="alert alert-{{ $color }}" role="alert">
+  <h4 class="alert-heading"><a href="{{$page.Permalink}}">{{ $tdgid | safeHTML }}: {{ $title | safeHTML }}</a></h4>
+  {{ .Inner }}
+</div>

@@ -42,9 +42,13 @@ Things really get interesting when people like <a href="https://flypaper.soundfl
 
 I'll try to keep things as simple as possible, but the Blues ain't easy.
 
-{{< alert color="success" title="TDG0005 • The Blues" >}}
-A master proficiency test for the Blues isn't really feasible, but [TDG0005]({{< ref "guitar/tests/blues" >}}) will at least let you know if you've got the basics down.
-{{< /alert >}}
+{{< tdgalert "blues" >}}
+It would be silly to pretend that a single "proficiency test" could prove
+mastery with something as deep as The Blues.<br><br>
+
+Mastery is a life's work, but {{% tdgref "blues" %}} will at least let
+you know if you've got the basics down.
+{{< /tdgalert >}}
 
 ### Dom7 chord voicings
 

@@ -16,7 +16,8 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
+## {{% param tdgid %}}: {{% param title %}}
+
 
 This is the master proficiency test (or "graduation test") for **KNOWING** the notes on the neck. You probably want to work on the indivual subtests listed below to gain proficiency before attempting this test.
 

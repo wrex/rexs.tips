@@ -1,4 +1,4 @@
-{{/* usage: {{< tdgref "path-to-test" }} */}}
+{{/* usage: {{< tdgid "path-to-test" }} */}}
 {{/* */}}
 {{/* remove /guitar/tests from front if present */}}
 {{/* for some reason, \s and \S (whitespace or not) isn't working */}}
@@ -8,5 +8,4 @@
 {{- $path := printf "guitar/tests/%s" $path -}}
 {{- $page := .Site.GetPage ($path) -}}
 {{- $tdgid := $page.Params.tdgid -}}
-{{- $title := $page.Title -}}
-<a href="{{ $page.Permalink }}" alt="{{$title}}">{{ $tdgid }}: {{ $title }}</a>
+{{ $tdgid }}

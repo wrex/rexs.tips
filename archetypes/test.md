@@ -4,7 +4,7 @@ title: "{{ replace .Name "-" " " | title }}"
 linkTitle: "{{ replace .Name "-" " " | title }}"
 author: "Rex Walters"
 description: ""
-tdgid: "TDG0000"
+tdgid: "D0000"
 tutorial: ""
 type: "docs"
 weight: 2
@@ -15,7 +15,7 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
+## {{% param tdgid %}}: {{% param title %}}
 
 ## Demonstration
 
