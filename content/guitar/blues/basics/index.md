@@ -47,9 +47,9 @@ Before studying anything else with the blues, it's important to practice actuall
 
 {{< youtube 7cPSRdpq8iQ  >}}
 
-{{< alert color="success" title="TDG0005a • Swung Eighths" >}}
-Learn how to swing with [TDG0005a]({{< ref "guitar/tests/blues/basics/swung-eighths" >}})
-{{< /alert >}}
+{{< tdgalert "blues/basics/swung-eighths" >}}
+Learn how to swing with this drill.
+{{< /tdgalert >}}
 
 ### Backbeats
 
@@ -57,9 +57,9 @@ Modern blues tends to emphasize the backbeats. In slower tempos, the backbeats a
 
 {{< youtube 1CW3CWGVQdA  >}}
 
-{{< alert color="success" title="TDG0005b • Jam Over a Drum Loop" >}}
-Have fun jamming over a drum track with [TDG0005b]({{< ref "guitar/tests/blues/basics/drum-jam" >}})
-{{< /alert >}}
+{{< tdgalert "blues/basics/drum-jam" >}}
+Have fun jamming over a drum track with this drill.
+{{< /tdgalert >}}
 
 ### Not losing your place within 12 bars
 
@@ -75,8 +75,8 @@ The only way to avoid getting lost at all is to practice the progression so many
 
 {{< youtube of4Fjme32eQ  >}}
 
-{{< alert color="success" title="TDG0005c • Keeping Place and Anticipating Changes" >}}
-Learn to keep your place and anticipate changes with [TDG0005c]({{< ref "guitar/tests/blues/basics/keeping-place" >}})
-{{< /alert >}}
+{{< tdgalert "blues/basics/keeping-place" >}}
+Learn to keep your place and anticipate changes with this drill.
+{{< /tdgalert >}}
 
 Before studying anything else with the blues, I strongly recommend putting in some serious practice on just these two elements: the swung eighth rhythm, and starting to hear and anticipate the changes in the chord progression.

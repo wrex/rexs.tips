@@ -82,6 +82,6 @@ It's almost always okay to leave out the P5 from any chord. The P5 is like MSG f
 
 Note that the sixth-string rooted shape mutes the fifth string. It's actually easier to mute than not: just let your index finger on the root note flop over a bit and prevent the fifth string from ringing. All three shapes should prove quite easy to play (with just three fingers!).
 
-{{< alert color="success" title="TDG0005a • Basic Dom7 voicings" >}}
-Practice [TDG0005a]({{< ref "guitar/tests/blues/basics/simple-dom7" >}}) before proceeding.
-{{< /alert >}}
+{{< tdgalert "blues/basics/simple-dom7" >}}
+Practice forming the chords in this proficiency test before proceeding.
+{{< /tdgalert >}}

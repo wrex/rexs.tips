@@ -9,4 +9,4 @@
 {{- $page := .Site.GetPage ($path) -}}
 {{- $tdgid := $page.Params.tdgid -}}
 {{- $title := $page.Title -}}
-<a href="{{ $page.Permalink }}" alt="{{$title}}">{{ $tdgid }}: {{ $title }}</a>
+<a href="{{ $page.Permalink }}" alt="{{$title}}">{{ $tdgid }} • {{ $title }}</a>

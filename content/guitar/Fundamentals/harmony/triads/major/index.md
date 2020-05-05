@@ -53,9 +53,9 @@ You'll often find yourself thinking only about the root notes of each new chord 
 
 If you want to play G major, for example, you can choose between the G at the 12th fret 3rd string, 8th fret of the B string, or 3rd fret of the E string. It's then just a matter of forming the correct shape around that root note. It gets easier with practice!
 
-{{< alert color="success" title="TDG0004ma1" >}}
-Now spend a practice session or two attempting [TDG0004ma1]({{< ref "/guitar/tests/triads/maj-gbe.md" >}})
-{{< /alert >}}
+{{< tdgalert "triads/maj-gbe.md" >}}
+Now spend a practice session or two attempting this proficiency test.
+{{< /tdgalert >}}
 
 ## Major triads on all string sets
 
@@ -113,9 +113,9 @@ Here are the shapes for each inversion on the DGB string set:
 
 {{< figproc "C-Major-inv-DGB" "Resize" "800x" >}}{{< /figproc >}}
 
-{{< alert color="success" title="TDG0004ma2" >}}
-The proficiency test for triads on DGB is [TDG0004ma2]({{< ref "/guitar/tests/triads/maj-dgb.md" >}})
-{{< /alert >}}
+{{< tdgalert "triads/maj-dgb.md" >}}
+The proficiency test for triads on DGB.
+{{< /tdgalert >}}
 
 **The top four strings are by far the most important** for soloing and comping in a band situation. I strongly suggest you practice the inversions on the [GBE](#C-Major-Inversions) and [DGB](#C-Major-inv-DGB) string sets first. You should learn the shapes on all string sets eventually, but the top four strings will take you a long, long way (head and shoulders above countless other guitarists).
 
@@ -123,15 +123,15 @@ Here are the shapes on the remaining string sets:
 
 {{< figproc "C-Major-inv-ADG" "Resize" "800x" >}}{{< /figproc >}}
 
-{{< alert color="success" title="TDG0004ma3" >}}
-The proficiency test for triads on ADG is [TDG0004ma3]({{< ref "/guitar/tests/triads/maj-adg.md" >}})
-{{< /alert >}}
+{{< tdgalert "triads/maj-adg.md" >}}
+The proficiency test for triads on ADG.
+{{< /tdgalert >}}
 
 {{< figproc "C-Major-inv-EAD" "Resize" "800x" >}}{{< /figproc >}}
 
-{{< alert color="success" title="TDG0004ma4" >}}
-The proficiency test for triads on DGB is [TDG0004ma4]({{< ref "/guitar/tests/triads/maj-ead.md" >}})
-{{< /alert >}}
+{{< tdgalert "triads/maj-ead.md" >}}
+The proficiency test for triads on DGB.
+{{< /tdgalert >}}
 
 Note that I've moved the 2nd inversion in that last diagram down to a lower position on the neck.
 
@@ -143,6 +143,6 @@ This next drill has you progress through the entire cycle on the *same* string s
 
 This test restricts us to the top four strings (the most important strings for soloing and finding notes).
 
-{{< alert color="success" title="TDG0004ma5" >}}
-Finding triads on the top two string sets in fourths: [TDG0004ma5]({{< ref "guitar/tests/triads/maj-top4.md" >}}).
-{{< /alert >}}
+{{< tdgalert "triads/maj-top4.md" >}}
+Finding triads on the top two string sets in fourths.
+{{< /tdgalert >}}

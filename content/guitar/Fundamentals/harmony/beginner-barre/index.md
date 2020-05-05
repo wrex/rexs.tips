@@ -36,6 +36,6 @@ If you truly **KNOW** these three shapes and how they interrelate, you'll be abl
 
 As usual, let's start with a TDG test to determine when you truly **KNOW** these chords:
 
-{{< alert color="success" title="TDG0003 • Beginner barre chords" >}}
-[TDG0003: Beginner barre chords]({{< ref "guitar/tests/beginner-barre" >}}).
-{{< /alert >}}
+{{< tdgalert "beginner-barre" >}}
+This proficiency test will help you learn basic barre chords.
+{{< /tdgalert >}}

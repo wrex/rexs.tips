@@ -25,11 +25,11 @@ There is no single master proficiency test for triads. There is simply too much 
 
 Instead, demonstrate proficiency by mastering each of these subtests:
 
-1. [TDG0004maa • Major Arpeggios]({{< ref "guitar/tests/triads/major-arpeggios.md" >}})
-2. [TDG0004fa1 • FAD I-IV-V]({{< ref "guitar/tests/triads/fad-145.md" >}})
-3. [TDG0004mia • Minor Arpeggios]({{< ref "guitar/tests/triads/minor-arpeggios.md" >}})
-4. [TDG0004hs3 • Becker GBE]({{< ref "guitar/tests/triads/becker-gbe.md" >}})
-5. [TDG0004hs4 • Becker DGB]({{< ref "guitar/tests/triads/becker-dgb.md" >}})
+1. {{< tdgref "triads/major-arpeggios.md" >}}
+2. {{< tdgref "triads/fad-145.md" >}}
+3. {{< tdgref "triads/minor-arpeggios.md" >}}
+4. {{< tdgref "triads/becker-gbe.md" >}}
+5. {{< tdgref "triads/becker-dgb.md" >}}
 
 ## Pass criteria
 

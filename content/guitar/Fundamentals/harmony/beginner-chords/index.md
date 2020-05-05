@@ -14,7 +14,7 @@ resources:
 In addition to [knowing the notes on the fretboard]({{< ref "guitar/Fundamentals/notes" >}}) every beginning guitarist needs to be competent at playing basic open-position major chords (the "cowboy chords").
 
 
-The proficiency test for this page is [TDG0002]({{< ref "guitar/tests/beginner-chords" >}})
+The proficiency test for this page is {{< tdgref "beginner-chords" >}}
 
 {{< youtube yGAtYO0VMsA  >}}
 
@@ -26,7 +26,9 @@ Here are the seven "cowboy chords":
 
 Even beginners should be familiar with these chord shapes. Please refer to a beginner guitar site if you are just getting started with guitar. You'll be hard pressed to find a better one than [Justin Sandercoe's](https://www.justinguitar.com/categories/beginner-guitar-lessons-grade-1).
 
-Practice playing each of those chord shapes individually as well as moving between them. When you feel ready, see if you can make it through [TDG002](#TDG002) without any mistakes.
+Practice playing each of those chord shapes individually as well as moving
+between them. When you feel ready, see if you can make it through
+{{< tdgref "beginner-chords" >}} without any mistakes.
 
 With just these seven chords you can accompany thousands of songs. They will get play any I-IV-V progression in a major "guitar key" (the keys of E, A, D, G, and C major).
 

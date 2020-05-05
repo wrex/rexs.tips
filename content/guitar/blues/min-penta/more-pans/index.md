@@ -49,14 +49,19 @@ Of course, you should also experiment a bit. If you stumble across something tha
 
 Once you've connected the upper and lower pairs, practice playing with all three at once.
 
-{{< alert color="success" title="TDG0005e • Connection drills" >}}
-[TDG0005f]({{< ref "guitar/tests/blues/pan-connection-drills" >}}) provides some mechanical drills to help you cement the locations for all these pitches into your brain.
+{{< tdgalert "blues/pan-connection-drills" >}}
+This proficiency test provides some mechanical drills to help you cement the
+locations for all these pitches into your brain.
+<br><br>
 
-Pattern drills like these force you to visualize the shapes on the fretboard. They also help to improve technique, and prevent you from playing the same old licks and ascending/descending runs over and over.
+Pattern drills like these force you to visualize the shapes on the fretboard.
+They also help to improve technique, and prevent you from playing the same old
+licks and ascending/descending runs over and over.
+<br><br>
 
 Remember: you play what you practice.
-{{< /alert >}}
+{{< /tdgalert >}}
 
-Once you've mastered all three pan shapes, attempt [TDG0005e]({{< ref "guitar/tests/blues/one-note" >}}) again, but this time use all fifteen pitches.
+Once you've mastered all three pan shapes, attempt {{< tdgref "blues/one-note" >}} again, but this time use all fifteen pitches.
 
 Experiment. Have fun.

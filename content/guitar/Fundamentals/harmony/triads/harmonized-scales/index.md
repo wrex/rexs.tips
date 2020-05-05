@@ -79,13 +79,13 @@ I demonstrate the technique here:
 
 I recommend practicing the harmonized major scales on the top four scales.
 
-{{< alert color="success" title="TDG0004hs1" >}}
-Proficiency test for harmonized major scales on GBE: [TDG0004hs1]({{< ref "guitar/tests/triads/harmonized-gbe" >}})
-{{< /alert >}}
+{{< tdgalert "triads/harmonized-gbe" >}}
+Proficiency test for harmonized major scales on GBE.
+{{< /tdgalert >}}
 
-{{< alert color="success" title="TDG0004hs2" >}}
-Proficiency test for harmonized major scales on DGB: [TDG0004hs2]({{< ref "guitar/tests/triads/harmonized-dgb" >}})
-{{< /alert >}}
+{{< tdgalert "triads/harmonized-dgb" >}}
+Proficiency test for harmonized major scales on DGB.
+{{< /tdgalert >}}
 
 ### Becker triads
 
@@ -101,13 +101,13 @@ The basic exercise was a bit of a mental struggle the first few times, but the m
 
 {{< youtube "soB7dNbXwg4" >}}
 
-{{< alert color="success" title="TDG0004hs3" >}}
-Proficiency test C Major harmonized on GBE in sixths: [TDG0004hs3]({{< ref "guitar/tests/triads/becker-gbe" >}})
-{{< /alert >}}
+{{< tdgalert "triads/becker-gbe" >}}
+Proficiency test C Major harmonized on GBE in sixths.
+{{< /tdgalert >}}
 
-{{< alert color="success" title="TDG0004hs4" >}}
-Proficiency test C Major harmonized on DGB in sixths: [TDG0004hs4]({{< ref "guitar/tests/triads/becker-dgb" >}})
-{{< /alert >}}
+{{< tdgalert "triads/becker-dgb" >}}
+Proficiency test C Major harmonized on DGB in sixths.
+{{< /tdgalert >}}
 
 Of course, harmonized scales can (and probably should) be practiced on the remaining two string sets, but I recommend focusing on the top four strings as much as possible (at least my brain struggles to handle more).
 
