@@ -2,9 +2,10 @@
 date: 2020-04-11T10:52:49-07:00
 title: "Fretboard note mastery"
 linkTitle: "Fretboard note mastery"
-tdgid: "TDG0001"
+tdgid: "D0001"
 type: "docs"
-weight: 10
+# This should be the first drill listed
+weight: 1
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Play every note on all strings"
 author: "Rex Walters"

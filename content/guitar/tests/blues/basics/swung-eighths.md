@@ -4,7 +4,7 @@ title: "Swung Eighths"
 linkTitle: "Swung Eighths"
 author: "Rex Walters"
 description: "It don't mean a thing if it ain't got that swing"
-tdgid: "TDG0005b"
+tdgid: "D0005-020"
 tutorial: "guitar/blues/basics"
 type: "docs"
 weight: 10

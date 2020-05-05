@@ -63,12 +63,12 @@ Why learn the notes on the fretboard? Several reasons, but chief among them:
 
 ## Master proficiency test
 
-The master proficiency test for this lesson is [TDG001: Fretboard Mastery]({{< ref "guitar/tests/learn-neck" >}}). You'll trully **KNOW** all the notes on the fretboard when you can pass that test.
+The master proficiency test for this lesson is [D0001: Fretboard Mastery]({{< ref "guitar/tests/learn-neck" >}}). You'll trully **KNOW** all the notes on the fretboard when you can pass that test.
 
 
 ## The Process
 
-Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [TDG0001]({{< ref "guitar/tests/learn-neck" >}}).
+Like anything with guitar, the way to make this tractable is to break it into small, ridiculously easy chunks, and keep practicing the chunks that give you trouble (and not repeat the ones you've already mastered!). Again, expect this to take take weeks at best. Expect to begin all of your practice sessions with some of the GTD tests on this page until you can pass [D0001]({{< ref "guitar/tests/learn-neck" >}}).
 
 Follow this process to get to the end goal:
 
@@ -77,7 +77,7 @@ Follow this process to get to the end goal:
 3. Learn the notes on the lowest (E) string.
 4. Learn some octave shapes to find notes.
 5. Practice on one string at a time.
-6. Practice [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
+6. Practice [D0001]({{< ref "guitar/tests/learn-neck" >}}) at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
 
 Spend as much time as you need on each of these steps. The first few will only take a few minutes to master, but other steps may take days, weeks, or even months. Take your time. Thorough and confident beats quick and sketchy every day.
 
@@ -111,8 +111,8 @@ Spend a few moments memorizing which note is at the 12, 3, 6, and 9 o'clock posi
 
 Be sure to practice reciting the cycle of fourths and the cycle of fifths *out loud* before continuing:
 
-* [TDG0001fo: Reciting fourths]({{< ref "guitar/tests/learn-neck/fourths.md" >}})
-* [TDG0001fi: Reciting fifths]({{< ref "guitar/tests/learn-neck/fifths.md" >}})
+* [D0001-10: Reciting fourths]({{< ref "guitar/tests/learn-neck/fourths.md" >}})
+* [D0001-20: Reciting fifths]({{< ref "guitar/tests/learn-neck/fifths.md" >}})
 
 **It's very important that you become equally proficient moving clockwise or counter-clockwise around the cycle** (moving in fourths or in fifths).
 
@@ -150,7 +150,10 @@ Spend a few minutes just saying each natural note name out loud as you play each
 
 Once you are comfortable just moving up and down the scale linearly, practice [TDG0001e: Along the E string]({{< ref "guitar/tests/learn-neck/along-e.md" >}}).
 
-Note that the notes on the low E string are exactly the same (of course) as those on the high E string. Once you can pass [TDG0001e]({{< ref "guitar/tests/learn-neck/along-e.md" >}}), you've got over half of the fretboard mastered!
+Note that the notes on the low E string are exactly the same (of course) as
+those on the high E string. Once you can pass [D0001-30]({{< ref
+"guitar/tests/learn-neck/along-e.md" >}}), you've got over half of the fretboard
+mastered!
 
 ### Octave shapes
 
@@ -212,7 +215,7 @@ Going the other way from the C on the 8th fret of the high E, you find C on the 
 
 Most of the time when playing live, your natural inclination is to move your hand up the neck to play higher and down the neck to play lower. It's thus more common to use octave shapes 1 most of the time. When you "run out of neck," though, it can be useful to continue ascending or descending by skipping another string.
 
-Practice finding notes on different strings using [TDG0001o: Octave shapes]({{< ref "guitar/tests/learn-neck/octaves.md" >}}). Be sure to use the shapes in both directions (moving from a lower note to a higher, and vice versa).
+Practice finding notes on different strings using [D0001-40: Octave shapes]({{< ref "guitar/tests/learn-neck/octaves.md" >}}). Be sure to use the shapes in both directions (moving from a lower note to a higher, and vice versa).
 
 ### One string at a time
 
@@ -224,7 +227,7 @@ If the open string is D, then E must be at the second fret, and F at the third f
 
 Practice playing the natural notes just going up and down from the lower D on the open string to the higher D at the 12th fret. As always, say the note names **out loud**.
 
-Once you can easily ascend and descend alphabetically through the natural notes, try [TDG0001d: Along D]({{< ref "guitar/tests/learn-neck/along-d.md" >}}).
+Once you can easily ascend and descend alphabetically through the natural notes, try [D0001-50: Along D]({{< ref "guitar/tests/learn-neck/along-d.md" >}}).
 
 You'll probably find that you need to use octave shape 1 as a reminder occasionally. Remember that this is just a crutch, though. Eventually you want to associate each note name with a string/fret location directly. Even one or two **KNOWN** "landmarks" can help tremendously when navigating.
 
@@ -236,9 +239,9 @@ You'll need to learn the low E and low A strings by rote, but you can use the oc
 
 Practice the proficiency tests on the remaining strings:
 
-* [TDG0001a: Along A]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
-* [TDG0001a: Along G]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
-* [TDG0001a: Along B]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
+* [D0001-60: Along A]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
+* [D0001-70: Along G]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
+* [D0001-80: Along B]({{< ref "guitar/tests/learn-neck/along-a.md" >}})
 
 ## Putting it all together
 
@@ -250,8 +253,12 @@ I *strongly* recommend you practice this without a metronome for the first sever
 
 When you're ready though, set the metronome to a nice s-l-o-w tempo and try playing whole notes at first. Then half notes. For a real challenge, try playing quarter notes at a quick tempo (say 100 BPM).
 
-This is one of those drills that may take years to master. The goal is to know the notes like the back of your hand, but if you can perform [TDG0001]({{< ref "guitar/tests/learn-neck" >}}) with half notes at 60 BPM, you'll know the fretboard well enough to tackle almost any challenge (and better than many guitarists who have been playing for *years*).
+This is one of those drills that may take years to master. The goal is to know
+the notes like the back of your hand, but if you can perform [D0001]({{< ref
+"guitar/tests/learn-neck" >}}) with half notes at 60 BPM, you'll know the
+fretboard well enough to tackle almost any challenge (and better than many
+guitarists who have been playing for *years*).
 
-[TDG0001]({{< ref "guitar/tests/learn-neck" >}}) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
+[D0001]({{< ref "guitar/tests/learn-neck" >}}) is an excellent warm up exercise, and I still perform it at the beginning of almost every practice session. It only takes a minute or two.
 
 [Figure 1](#natural-notes) doesn't look so daunting any more, does it?

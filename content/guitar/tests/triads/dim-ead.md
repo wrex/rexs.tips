@@ -4,7 +4,7 @@ title: "Diminished: EAD"
 linkTitle: "Dim: EAD"
 author: "Rex Walters"
 description: "Diminished triads on the E, A, D strings"
-tdgid: "TDG0004di4"
+tdgid: "D0004-090-040"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
 type: "docs"
 weight: 240

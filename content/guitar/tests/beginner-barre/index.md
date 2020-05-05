@@ -4,7 +4,7 @@ title: "Beginner Barre"
 linkTitle: "Beginner Barre"
 author: "Rex Walters"
 description: ""
-tdgid: "TDG0003"
+tdgid: "D0003"
 tutorial: "guitar/Fundamentals/harmony/beginner-barre"
 type: "docs"
 weight: 30

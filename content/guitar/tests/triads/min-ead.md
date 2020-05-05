@@ -4,7 +4,7 @@ title: "Minor: EAD"
 linkTitle: "Minor: EAD"
 author: "Rex Walters"
 description: "Minor triads on the E, A, D strings"
-tdgid: "TDG0004mi4"
+tdgid: "D0004-080-040"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
 type: "docs"
 weight: 140

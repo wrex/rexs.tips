@@ -4,7 +4,7 @@ title: "Backbeat jam"
 linkTitle: "Backbeat jam"
 author: "Rex Walters"
 description: "Playing to a drum track"
-tdgid: "TDG0005c"
+tdgid: "D0005-030"
 tutorial: "guitar/blues/basics"
 type: "docs"
 weight: 20

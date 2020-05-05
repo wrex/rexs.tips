@@ -4,7 +4,7 @@ title: "Keeping Place"
 linkTitle: "Keeping Place"
 author: "Rex Walters"
 description: "Keeping place and anticipating changes"
-tdgid: "TDG0005d"
+tdgid: "D0005-040"
 tutorial: "guitar/blues/basics"
 type: "docs"
 weight: 30

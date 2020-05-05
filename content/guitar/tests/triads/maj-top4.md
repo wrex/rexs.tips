@@ -4,7 +4,7 @@ title: "Major: DGBE"
 linkTitle: "Major: DGBE"
 author: "Rex Walters"
 description: "Find all major triads on the top for strings"
-tdgid: "TDG0004ma5"
+tdgid: "D0004-050"
 tutorial: "guitar/Fundamentals/harmony/triads/major#minimal-movement-drills"
 type: "docs"
 weight: 45

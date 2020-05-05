@@ -4,7 +4,7 @@ title: "Becker DGB"
 linkTitle: "Becker DGB"
 author: "Rex Walters"
 description: "Harmonizing C Major in sixths with Becker triads"
-tdgid: "TDG0004hs4"
+tdgid: "D0004-130"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "docs"
 weight: 330

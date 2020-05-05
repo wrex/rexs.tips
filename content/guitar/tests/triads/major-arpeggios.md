@@ -4,7 +4,7 @@ title: "Major Arpeggios"
 linkTitle: "Major Arpeggios"
 author: "Rex Walters"
 description: "Six-string major arpeggios"
-tdgid: "TDG0004maa"
+tdgid: "D0004-060"
 tutorial: "guitar/Fundamentals/harmony/triads/FAD"
 type: "docs"
 weight: 50

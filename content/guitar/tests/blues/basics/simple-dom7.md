@@ -4,7 +4,7 @@ title: "Dom7 voicings"
 linkTitle: "Dom7 voicings"
 author: "Rex Walters"
 description: "A few simple Dom7 voicings"
-tdgid: "TDG0005a"
+tdgid: "D0005-010"
 tutorial: "guitar/blues#dom7-chord-voicings"
 type: "docs"
 weight: 5

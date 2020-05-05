@@ -4,7 +4,7 @@ title: "Harmonized GBE"
 linkTitle: "Harmonized GBE"
 author: "Rex Walters"
 description: "Harmonizing major scales on GBE"
-tdgid: "TDG0004hs2"
+tdgid: "D0004-100"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "docs"
 weight: 300

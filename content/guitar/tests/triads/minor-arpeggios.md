@@ -4,7 +4,7 @@ title: "Minor Arpeggios"
 linkTitle: "Minor Arpeggios"
 author: "Rex Walters"
 description: "Six-string minor arpeggios"
-tdgid: "TDG0004mia"
+tdgid: "D0004-080"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
 type: "docs"
 weight: 100

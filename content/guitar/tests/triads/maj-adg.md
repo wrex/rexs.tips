@@ -4,7 +4,7 @@ title: "Major: ADG"
 linkTitle: "Major: ADG"
 author: "Rex Walters"
 description: "Major triads on the A, D, G strings"
-tdgid: "TDG0004ma3"
+tdgid: "D0004-030"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "docs"
 weight: 30

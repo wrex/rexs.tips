@@ -4,7 +4,7 @@ title: "Major: EAD"
 linkTitle: "Major: EAD"
 author: "Rex Walters"
 description: "Major triads on the E, A, D strings"
-tdgid: "TDG0004ma4"
+tdgid: "D0004-040"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "docs"
 weight: 40

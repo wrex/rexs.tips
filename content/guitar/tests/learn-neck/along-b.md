@@ -3,7 +3,7 @@ date: 2020-04-11T10:53:35-07:00
 title: "Along B"
 linkTitle: "Along B"
 type: "docs"
-tdgid: "TDG0001b"
+tdgid: "D0001-080"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the B string"
 author: "Rex Walters"

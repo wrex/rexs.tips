@@ -4,7 +4,7 @@ title: "Minor: DGBE"
 linkTitle: "Minor: DGBE"
 author: "Rex Walters"
 description: "Find all minor triads on the top for strings"
-tdgid: "TDG0004mi5"
+tdgid: "D0004-080-050"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
 type: "docs"
 weight: 145

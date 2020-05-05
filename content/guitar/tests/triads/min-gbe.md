@@ -4,7 +4,7 @@ title: "Minor: GBE"
 linkTitle: "Minor: GBE"
 author: "Rex Walters"
 description: "Minor triads on the G, B, and E strings"
-tdgid: "TDG0004mi1"
+tdgid: "D0004-080-010"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
 type: "docs"
 weight: 110

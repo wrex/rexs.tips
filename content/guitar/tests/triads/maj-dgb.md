@@ -4,7 +4,7 @@ title: "Major: DGB"
 linkTitle: "Major: DGB"
 author: "Rex Walters"
 description: "Major triads on the D, G, and B strings"
-tdgid: "TDG0004ma2"
+tdgid: "D0004-020"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "docs"
 weight: 20

@@ -4,7 +4,7 @@ title: "Octave shapes"
 linkTitle: "Octave shapess"
 author: "Rex Walters"
 description: "Finding notes with octave shapes"
-tdgid: "TDG0001o"
+tdgid: "D0001-040"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 type: "docs"
 weight: 12

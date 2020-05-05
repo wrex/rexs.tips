@@ -4,7 +4,7 @@ title: "Pan Connection Drills"
 linkTitle: "Pan Connection Drills"
 author: "Rex Walters"
 description: "Mechanical drills for connected pan shapes"
-tdgid: "TDG0005f"
+tdgid: "D0005-060"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "docs"
 weight: 50

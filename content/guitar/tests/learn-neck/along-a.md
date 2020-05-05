@@ -3,7 +3,7 @@ date: 2020-04-11T10:53:17-07:00
 title: "Along A"
 linkTitle: "Along A"
 type: "docs"
-tdgid: "TDG0001a"
+tdgid: "D0001-060"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the A string"
 author: "Rex Walters"

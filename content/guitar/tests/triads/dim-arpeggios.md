@@ -4,7 +4,7 @@ title: "Diminished Arpeggios"
 linkTitle: "Dim Arpeggios"
 author: "Rex Walters"
 description: "Six-string diminished arpeggios"
-tdgid: "TDG0004dia"
+tdgid: "D0004-090"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
 type: "docs"
 weight: 200

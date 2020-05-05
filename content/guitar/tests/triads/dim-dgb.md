@@ -4,7 +4,7 @@ title: "Diminished: DGB"
 linkTitle: "Dim: DGB"
 author: "Rex Walters"
 description: "Diminished triads on the D, G, and B strings"
-tdgid: "TDG0004di2"
+tdgid: "D0004-090-020"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
 type: "docs"
 weight: 220

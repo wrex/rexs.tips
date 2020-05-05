@@ -4,7 +4,7 @@ title: "Harmonized DGB"
 linkTitle: "Harmonized DGB"
 author: "Rex Walters"
 description: "Harmonizing major scales on DGB"
-tdgid: "TDG0004hs1"
+tdgid: "D0004-110"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "docs"
 weight: 310

@@ -4,7 +4,7 @@ title: "Beginner Chords"
 linkTitle: "Beginner Chords"
 author: "Rex Walters"
 description: "The cowboy chords everyone needs to know"
-tdgid: "TDG0002"
+tdgid: "D0002"
 tutorial: "guitar/Fundamentals/harmony/beginner-chords"
 type: "docs"
 weight: 20

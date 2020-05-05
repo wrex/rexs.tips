@@ -4,10 +4,10 @@ title: "Blues master"
 linkTitle: "Blues master"
 author: "Rex Walters"
 description: "Master proficiency test for the blues"
-tdgid: "TDG0005"
+tdgid: "D0005"
 tutorial: "guitar/blues"
 type: "docs"
-weight: 2
+weight: 90
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

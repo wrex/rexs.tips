@@ -4,7 +4,7 @@ title: "Diminished: GBE"
 linkTitle: "Dim: GBE"
 author: "Rex Walters"
 description: "Diminished triads on the G, B, and E strings"
-tdgid: "TDG0004di1"
+tdgid: "D0004-090-010"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
 type: "docs"
 weight: 210

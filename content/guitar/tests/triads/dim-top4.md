@@ -4,7 +4,7 @@ title: "Diminished: DGBE"
 linkTitle: "Dim: DGBE"
 author: "Rex Walters"
 description: "Find all diminished triads on the top for strings"
-tdgid: "TDG0004di5"
+tdgid: "D0004-090-050"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
 type: "docs"
 weight: 245

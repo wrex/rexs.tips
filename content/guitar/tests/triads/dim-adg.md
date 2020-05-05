@@ -4,7 +4,7 @@ title: "Diminished: ADG"
 linkTitle: "Dim: ADG"
 author: "Rex Walters"
 description: "Diminished triads on the A, D, G strings"
-tdgid: "TDG0004di3"
+tdgid: "D0004-090-030"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
 type: "docs"
 weight: 230

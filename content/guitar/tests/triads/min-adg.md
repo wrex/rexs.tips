@@ -4,7 +4,7 @@ title: "Minor: ADG"
 linkTitle: "Minor: ADG"
 author: "Rex Walters"
 description: "Minor triads on the A, D, G strings"
-tdgid: "TDG0004mi3"
+tdgid: "D0004-080-030"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
 type: "docs"
 weight: 130

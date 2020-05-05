@@ -1,29 +1,29 @@
 <div class="section-index">
-  {{- $pages := (where .Site.Pages "Section" "guitar").ByParam "tdgid" -}}
   <table class="table table-striped">
     <thead>
       <tr>
         <th scope="col"></th>
         <th scope="col">TDG ID</th>
         <th scope="col">Title</th>
+        <th>Last Modified</th>
       </tr>
     </thead>
     <tbody>
-      {{- range $pages -}}
-        {{- $rlink := .RelPermalink -}}
-        {{- $title := .Title }}
-        {{- /* only ist if tgdid in frontmatter */ -}}
-        {{- with .Param "tdgid" -}}
+      {{- range (where .Site.Pages ".Params.tdgid" "!=" nil).ByParam "tdgid" -}}
         <tr>
-          <th scope="row"><input disabled="" type="checkbox"></th>
-          <td>
-            {{ . }}
+          <td scope="row">
+            <input disabled="" type="checkbox">
           </td>
           <td>
-            <a href="{{ $rlink }}">{{$title}}</a>
+            <a href="{{ .RelPermalink }}">{{ .Params.tdgid }}</a>
+          </td>
+          <td>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </td>
+          <td>
+            {{ .Lastmod }}
           </td>
         </tr>
-        {{- end -}}
       {{- end -}}
     </tbody>
   </table>

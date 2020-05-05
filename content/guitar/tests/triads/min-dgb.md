@@ -4,7 +4,7 @@ title: "Minor: DGB"
 linkTitle: "Minor: DGB"
 author: "Rex Walters"
 description: "Minor triads on the D, G, and B strings"
-tdgid: "TDG0004mi2"
+tdgid: "D0004-080-020"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
 type: "docs"
 weight: 120

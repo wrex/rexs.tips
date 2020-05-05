@@ -3,7 +3,7 @@ date: 2020-04-11T12:06:55-07:00
 title: "Triads"
 linkTitle: "Triads"
 type: "docs"
-tdgid: "TDG0004"
+tdgid: "D0004"
 tutorial: "guitar/Fundamentals/harmony/triads"
 description: "Exercises for learning diatonic triads"
 author: "Rex Walters"
