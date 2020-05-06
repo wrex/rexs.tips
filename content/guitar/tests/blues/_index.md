@@ -29,6 +29,8 @@ master before they can even begin mastering the form:
 
 1. {{< tdgref "blues/basics/simple-dom7" >}}
 2. {{< tdgref "blues/pan-connection-drills" >}}
+3. {{< tdgref "blues/minor-penta/min-blues" >}}
+4. {{< tdgref "blues/minor-penta/maj-blues" >}}
 
 
 ## Subtests

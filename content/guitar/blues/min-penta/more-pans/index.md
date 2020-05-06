@@ -11,7 +11,9 @@ resources:
     title: "Fig 1. Pans above and below"
 ---
 
-By now you should have realized that we can use [octave shapes]({{< ref "guitar/fundamentals/notes/finding-notes#octave-shapes" >}}) to move that frying pan shape anywhere we want.
+By now you should have realized that we can use [octave shapes]({{< ref
+"guitar/fundamentals/notes/finding-notes#octave-shapes" >}}) to move that frying
+pan shape anywhere we want.
 
 Let's create two clones of our frying pan, one an octave lower and another an octave higher:
 
@@ -62,6 +64,121 @@ licks and ascending/descending runs over and over.
 Remember: you play what you practice.
 {{< /tdgalert >}}
 
-Once you've mastered all three pan shapes, attempt {{< tdgref "blues/one-note" >}} again, but this time use all fifteen pitches.
+## The sound of each note
 
-Experiment. Have fun.
+Please take a moment to repeat {{< tdgref "blues/one-note" >}}: _slowly_ play some lines (short
+sequences of two to seven or so notes from the Am pentatonic scale) over a
+single chord vamp (Am, or Am7). You'll probably want to end the majority of your
+lines on the note A, but experiment by ending on different notes as well.
+
+Develop a visceral feel for all the notes in the scale. Practice until
+you know how a note will sound _before_ you play it.
+
+To me, the notes sound as follows:
+
+Root (A) 
+: This is by far the most consonant sound. It feels like home. It
+sounds **good**, sweet, complete. Pure sugar. 
+
+&flat;3 (C) 
+: C evokes longing, or sadness. It fits over any Am chord (Am, Am7, Am9, Am13). It definitely belongs,
+but it emphasizes that minor/sad/savory quality. It reminds me of a sweet onion.
+
+P4 (D) 
+: D sounds slightly uncomfortable over an Am. The longer you hang on it,
+the more uncomfortable listeners become. It's not _wrong_, exactly, but it feels like it wants to go
+somewhere else. Like thyme, it's really great in moderation.
+
+P5 (E) 
+: E sounds almost as resonant as A. Not quite "home", but it's at least the
+front porch. It's like adding MSG to the flavor of the root note: it makes it meatier.
+
+&flat;7 (G) 
+: G Am sounds "cool" or "jazzy" to me. If the band is playing Am
+triads in the background, then G gives it that cool, jazzy, minor-seventh vibe.
+Technically, you **are** playing an Am7 when you play the G note over an Am
+triad! (Am7 comprises the notes A, C, E, and **G**). It's like cinnamon -- goes
+great with almost anything.
+
+In summary, over Am, the only note you need to be careful with is D (the P4),
+everything else is just compatible spices. They all sound a little different,
+but they all work. You probably don't want to hang on a D too long. Unless you
+do! Sometimes a song **wants** that extra tension.
+
+Note that these sounds/feelings/tastes change **every time the underlying chord
+changes**. So far, we've only explored the sound over a single chord: the i7
+(I minor seventh) chord. The scale note sounds will change as the chords change.
+
+The &flat;3, for example, will sound _very_ different over a I7. The half step
+difference between the &flat;3 from the scale and the M3 in the chord tends to grate
+on the ears! As we practiced, simply "curling" or "tweaking" that C a bit
+toward the major 3rd relieves _much_ of that tension.
+
+A song in the key of Am might contain the chords Am7, Dm7, Em7 and
+E7. All five notes in the Am pentatonic scale will _work_ over any of these chords
+since they are all in the **key** of Am, but the sound/feeling/taste **changes**
+as the underlying chord change. That D note, for example, will sound sweet as
+sugar when the chord changes to Dm, for example.
+
+{{% alert title="Warning!" color="warning" %}}
+Anticipating chord changes is the hardest part of soloing! 
+
+The best solos play _just_ the right note at the _exact instant_ the underlying
+chord changes. This is incredibly difficult at first, but, as always, gets
+easier with practice.
+
+Practice first with one chord vamps (e.g. Am7) as long asnecessary. Only when
+you're _completely_ comfortable should progress to the remaining drills linked to below.
+{{% /alert %}}
+
+## Learning to solo
+
+Learning to solo over a complete 12-bar blues is **hard**. It takes hours and
+hours and hours and **hours** of practice. 
+
+As always, it's best to break that practice into small, bite-sized chunks.
+
+First recognize that **most blues songs use Major chords**! 
+
+A "standard" 12-bar blues often has the following chords:
+
+    I7  / %   / %  / %
+    IV7 / %   / I7 / %
+    V7  / IV7 / I7 / V7
+
+Those dominant-7th chords are all _Major_.
+
+Minor blues progressions are much more varied, but a typical progression might
+look like:
+
+    i7  / %   / %  / %
+    iv7 / %   / i7 / %
+    v7  / iv7 / i7 / V7
+
+Those are all minor chords, except for the V7 in the last bar.
+
+While the minor pentatonic scale definitely works over a major blues, I
+recommend starting with minor chords for your backing tracks.
+
+I believe it's best to _first_ learn the sounds of a minor scale over minor
+chords. When you curl the m3 over i7, you're _adding_ tension (as opposed to
+releasing tension over a I7). It takes time to develop a feel for when and how
+to bend or curl notes. I find it easiest if most of the scale notes work "out of
+the box," without adding any bends or curls.
+
+So first get comfortable playing over just the i chord with {{< tdgref
+"blues/one-note" >}}.
+
+When you are ready, proceed to the following exercises, but take your time.
+
+I'm always in too much of a rush to move on to new exercises. It's easy to
+underestimate the _degree_ of mastery required with each exercise. Keep at it
+until you can't stand it any longer, and only then move to the next exercise.
+
+{{< tdgalert "blues/minor-penta/min-i-iv" />}}
+{{< tdgalert "blues/minor-penta/min-i-v" />}}
+{{< tdgalert "blues/minor-penta/min-i-V7" />}}
+{{< tdgalert "blues/minor-penta/min-blues" />}}
+{{< tdgalert "blues/minor-penta/maj-I-IV" />}}
+{{< tdgalert "blues/minor-penta/maj-I-V" />}}
+{{< tdgalert "blues/minor-penta/maj-blues" />}}

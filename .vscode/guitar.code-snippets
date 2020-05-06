@@ -1,4 +1,9 @@
 {
+	"alert": {
+		"prefix": "alert",
+		"body": "{{< alert title=\"${1:title}\" color=\"${2:warning}\" >}}$0{{< /alert >}}",
+		"description": "alert box from docsy theme"
+	},
 	"figproc": {
 		"prefix": "figproc",
 		"body": [ "{{< figproc \"${1:file}\" \"${2:Resize}\" \"${3:800x}\" >}}$0{{< /figproc >}}" ],
