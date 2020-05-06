@@ -1,0 +1,27 @@
+{
+	"figproc": {
+		"prefix": "figproc",
+		"body": [ "{{< figproc \"${1:file}\" \"${2:Resize}\" \"${3:800x}\" >}}$0{{< /figproc >}}" ],
+		"description": "figproc extension to hugo docsy theme"
+	},
+	"tdgalert": {
+		"prefix": "tdgalert",
+		"body": [ "{{< tdgalert \"${1:file}\" \"${2:opt-color}\" >}}$0{{< /tdgalert >}}" ],
+		"description": "Prof. test in alert box"
+	},
+	"tdgref": {
+		"prefix": "tdgref",
+		"body": "{{< tdgref \"${1:file}\" >}}",
+		"description": "Prof. test link only"
+	},
+	"tdgid": {
+		"prefix": "tdgid",
+		"body": "{{< tdgid \"${1:file}\" >}}",
+		"description": "Prof. test id only (plain text)"
+	},
+	"tdgtitle": {
+		"prefix": "tdgtitle",
+		"body": "{{< tdgtitle \"${1:file}\" >}}",
+		"description": "Prof. test title only (plain text)"
+	}
+}
