@@ -2,7 +2,7 @@
 date: 2020-04-11T12:06:55-07:00
 title: "Triads"
 linkTitle: "Triads"
-type: "docs"
+type: "tests"
 tdgid: "D0004"
 tutorial: "guitar/Fundamentals/harmony/triads"
 description: "Exercises for learning diatonic triads"
@@ -14,10 +14,6 @@ resources:
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
-
-
 
 ## Procedure
 

@@ -2,7 +2,7 @@
 date: 2020-04-11T10:53:14-07:00
 title: "Along E"
 linkTitle: "Along E"
-type: "docs"
+type: "tests"
 tdgid: "D0001-030"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the E strings"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ### Procedure
 

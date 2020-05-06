@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Harmonizing C Major in sixths with Becker triads"
 tdgid: "D0004-130"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
-type: "docs"
+type: "tests"
 weight: 330
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 ## Procedure
 

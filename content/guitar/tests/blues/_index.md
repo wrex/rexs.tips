@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Master proficiency test for the blues"
 tdgid: "D0005"
 tutorial: "guitar/blues"
-type: "docs"
+type: "tests"
 weight: 90
 resources:
   - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Procedure
 

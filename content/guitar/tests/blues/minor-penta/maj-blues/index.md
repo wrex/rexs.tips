@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Soloing over a full 12-bar Major Blues progression"
 tdgid: "D0005-060-070"
 tutorial: "guitar/blues/min-penta/more-pans"
-type: "docs"
+type: "tests"
 weight: 120
 resources:
   - src: "**.{png,jpg}"

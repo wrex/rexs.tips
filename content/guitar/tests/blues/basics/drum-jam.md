@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Playing to a drum track"
 tdgid: "D0005-030"
 tutorial: "guitar/blues/basics"
-type: "docs"
+type: "tests"
 weight: 20
 resources:
   - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

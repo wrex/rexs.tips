@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Recite the cycle of fourths out loud"
 tdgid: "D0001-010"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
-type: "docs"
+type: "tests"
 weight: 1
 resources:
 - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Procedure
 

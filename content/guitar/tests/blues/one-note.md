@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Frying pan notes over single chords"
 tdgid: "D0005-050"
 tutorial: "guitar/blues/min-penta/one-octave.md"
-type: "docs"
+type: "tests"
 weight: 40
 resources:
   - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

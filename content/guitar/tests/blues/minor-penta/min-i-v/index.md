@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Soloing over a minor i-iv progression"
 tdgid: "D0005-060-020"
 tutorial: "guitar/blues/min-penta/more-pans"
-type: "docs"
+type: "tests"
 weight: 70
 resources:
   - src: "**.{png,jpg}"

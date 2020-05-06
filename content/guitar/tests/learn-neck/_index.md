@@ -3,7 +3,7 @@ date: 2020-04-11T10:52:49-07:00
 title: "Fretboard note mastery"
 linkTitle: "Fretboard note mastery"
 tdgid: "D0001"
-type: "docs"
+type: "tests"
 # This should be the first drill listed
 weight: 1
 tutorial: "guitar/Fundamentals/notes/finding-notes"
@@ -15,8 +15,6 @@ resources:
 ---
 
 {{% tdgtutorial %}}
-
-## {{% param tdgid %}}: {{% param title %}}
 
 
 This is the master proficiency test (or "graduation test") for **KNOWING** the notes on the neck. You probably want to work on the indivual subtests listed below to gain proficiency before attempting this test.

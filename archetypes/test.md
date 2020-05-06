@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: ""
 tdgid: "D0000"
 tutorial: ""
-type: "docs"
+type: "tests"
 weight: 2
 resources:
   - src: "**.{png,jpg}"
@@ -14,8 +14,6 @@ resources:
 ---
 
 {{% tdgtutorial %}}
-
-## {{% param tdgid %}}: {{% param title %}}
 
 ## Demonstration
 

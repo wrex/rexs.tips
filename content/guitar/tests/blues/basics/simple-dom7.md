@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "A few simple Dom7 voicings"
 tdgid: "D0005-010"
 tutorial: "guitar/blues#dom7-chord-voicings"
-type: "docs"
+type: "tests"
 weight: 5
 resources:
   - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

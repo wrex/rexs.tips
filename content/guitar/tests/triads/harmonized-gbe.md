@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Harmonizing major scales on GBE"
 tdgid: "D0004-100"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
-type: "docs"
+type: "tests"
 weight: 300
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

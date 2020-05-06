@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Diminished triads on the E, A, D strings"
 tdgid: "D0004-090-040"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
-type: "docs"
+type: "tests"
 weight: 240
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 ## Procedure
 

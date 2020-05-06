@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "It don't mean a thing if it ain't got that swing"
 tdgid: "D0005-020"
 tutorial: "guitar/blues/basics"
-type: "docs"
+type: "tests"
 weight: 10
 resources:
   - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

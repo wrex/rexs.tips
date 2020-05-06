@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Finding notes with octave shapes"
 tdgid: "D0001-040"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
-type: "docs"
+type: "tests"
 weight: 12
 resources:
 - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Procedure
 

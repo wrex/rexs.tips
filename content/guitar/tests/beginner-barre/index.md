@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: ""
 tdgid: "D0003"
 tutorial: "guitar/Fundamentals/harmony/beginner-barre"
-type: "docs"
+type: "tests"
 weight: 30
 resources:
 - src: "root-movement.png"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

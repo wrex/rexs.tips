@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Keeping place and anticipating changes"
 tdgid: "D0005-040"
 tutorial: "guitar/blues/basics"
-type: "docs"
+type: "tests"
 weight: 30
 resources:
   - src: "**.{png,jpg}"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

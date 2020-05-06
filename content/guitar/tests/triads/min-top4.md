@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Find all minor triads on the top for strings"
 tdgid: "D0004-080-050"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
-type: "docs"
+type: "tests"
 weight: 145
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Six-string major arpeggios"
 tdgid: "D0004-060"
 tutorial: "guitar/Fundamentals/harmony/triads/FAD"
-type: "docs"
+type: "tests"
 weight: 50
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 This test helps you to
 

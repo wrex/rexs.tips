@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Six-string minor arpeggios"
 tdgid: "D0004-080"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
-type: "docs"
+type: "tests"
 weight: 100
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 This test helps you to
 

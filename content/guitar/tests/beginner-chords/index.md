@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "The cowboy chords everyone needs to know"
 tdgid: "D0002"
 tutorial: "guitar/Fundamentals/harmony/beginner-chords"
-type: "docs"
+type: "tests"
 weight: 20
 resources:
   - src: "**major-cowboy-chords.png"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

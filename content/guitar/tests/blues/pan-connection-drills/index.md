@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Mechanical drills for connected pan shapes"
 tdgid: "D0005-060"
 tutorial: "guitar/blues/min-penta/more-pans"
-type: "docs"
+type: "tests"
 weight: 50
 resources:
   - src: "frying-pan-ascending.png"
@@ -23,7 +23,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

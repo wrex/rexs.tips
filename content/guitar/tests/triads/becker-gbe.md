@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: ""
 tdgid: "D0004-120"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
-type: "docs"
+type: "tests"
 weight: 320
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

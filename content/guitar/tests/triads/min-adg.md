@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Minor triads on the A, D, G strings"
 tdgid: "D0004-080-030"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
-type: "docs"
+type: "tests"
 weight: 130
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 ## Procedure
 

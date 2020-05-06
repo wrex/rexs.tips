@@ -1,19 +1,21 @@
 ---
-date: 2020-05-05T22:02:21-07:00
-title: "Major I-IV"
-linkTitle: "Major I-IV"
+date: 2020-05-06T10:59:13-07:00
+title: "Blue Note"
+linkTitle: "Blue Note"
 author: "Rex Walters"
-description: "Soloing over a Major I-IV progression"
-tdgid: "D0005-060-050"
-tutorial: "guitar/blues/min-penta/more-pans"
+description: "Turning the pentatonic into the blues scale"
+tdgid: "D0005-060-080"
+tutorial: "guitar/blues/min-penta/blue-note"
+weight: 130
 type: "tests"
-weight: 100
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
 ---
 
 {{% tdgtutorial %}}
+
+
 
 ## {{% param tdgid %}}: {{% param title %}}
 

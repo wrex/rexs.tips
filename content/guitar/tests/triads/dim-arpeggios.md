@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Six-string diminished arpeggios"
 tdgid: "D0004-090"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
-type: "docs"
+type: "tests"
 weight: 200
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 This test helps you to
 

@@ -6,13 +6,11 @@ author: "Rex Walters"
 description: "Find all diminished triads on the top for strings"
 tdgid: "D0004-090-050"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
-type: "docs"
+type: "tests"
 weight: 245
 ---
 
 {{% tdgtutorial %}}
-
-This is proficiency test **{{% param tdgid %}}**
 
 ## Demonstration
 

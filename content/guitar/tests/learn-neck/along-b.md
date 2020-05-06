@@ -2,7 +2,7 @@
 date: 2020-04-11T10:53:35-07:00
 title: "Along B"
 linkTitle: "Along B"
-type: "docs"
+type: "tests"
 tdgid: "D0001-080"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the B string"
@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-This is proficiency test **{{% param tdgid %}}**
 
 ### Procedure
 
