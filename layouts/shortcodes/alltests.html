@@ -1,30 +1,36 @@
-<div class="section-index">
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th scope="col"></th>
-        <th scope="col">TDG ID</th>
-        <th scope="col">Title</th>
-        <th>Last Modified</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{- range (where .Site.Pages ".Params.tdgid" "!=" nil).ByParam "tdgid" -}}
+<section class="d-flex justify-content-center">
+  <div class="section-index">
+    <table class="table table-fixed table-striped">
+      <thead>
         <tr>
-          <td scope="row">
-            <input disabled="" type="checkbox">
-          </td>
-          <td>
-            <a href="{{ .RelPermalink }}">{{ .Params.tdgid }}</a>
-          </td>
-          <td>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          </td>
-          <td>
-            {{ .Lastmod }}
-          </td>
+          <th scope="col"></th>
+          <th scope="col">TDG ID</th>
+          <th scope="col">Title</th>
+          <th scope="col">Published</th>
+          <th scope="col" style="width: 50%;">Notes</th>
         </tr>
-      {{- end -}}
-    </tbody>
-  </table>
-</div>
+      </thead>
+      <tbody>
+        {{- range (where .Site.Pages ".Params.tdgid" "!=" nil).ByParam "tdgid" -}}
+          <tr>
+            <td scope="row">
+              <input disabled="" type="checkbox">
+            </td>
+            <td>
+              <a href="{{ .RelPermalink }}">{{ .Params.tdgid }}</a>
+            </td>
+            <td>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </td>
+            <td>
+              {{ .PublishDate.Format "1/2/2006" }}
+            </td>
+            <td>
+              &nbsp;
+            </td>
+          </tr>
+        {{- end -}}
+      </tbody>
+    </table>
+  </div>
+</section>
