@@ -1,7 +1,7 @@
 ---
 date: 2020-04-18T14:45:12-07:00
-title: "Blues master"
-linkTitle: "Blues master"
+title: "The Blues"
+linkTitle: "The Blues"
 author: "Rex Walters"
 description: "Master proficiency test for the blues"
 tdgid: "D0005"
