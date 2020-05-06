@@ -17,16 +17,20 @@ resources:
 
 This is proficiency test **{{% param tdgid %}}**
 
-## Demonstration
-
-TODO
-
 ## Procedure
 
-TODO
+1. Spend the rest of your life listening to, playing, and living the Blues.
 
-## Pass criteria
+Okay, I'm joking. There's no way to create a single master test for such a large
+topic.
 
-## Extra credit
+Here, however, are a few **basic** blues fundamentals I think anyone should
+master before they can even begin mastering the form:
+
+1. {{< tdgref "blues/basics/simple-dom7" >}}
+2. {{< tdgref "blues/pan-connection-drills" >}}
+
 
 ## Subtests
+
+
