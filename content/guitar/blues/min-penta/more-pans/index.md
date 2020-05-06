@@ -175,10 +175,116 @@ I'm always in too much of a rush to move on to new exercises. It's easy to
 underestimate the _degree_ of mastery required with each exercise. Keep at it
 until you can't stand it any longer, and only then move to the next exercise.
 
+### Soloing over a minor blues
+
+When you're ready, the first chord progression to explore is the i to the iv,
+and iv to i in a minor blues. This is explored in {{< tdgref "blues/minor-penta/min-i-iv" >}}:
+
 {{< tdgalert "blues/minor-penta/min-i-iv" />}}
+
+After a while it should become obvious that the root note always sounds "best"
+(or at least "most resolved").
+
+The movement from a i chord to a iv chord (or back from the iv to the i) is
+**extremely** common. Listen to how each of the five notes sounds over each
+chord.
+
+Notice how the note D sounds a bit out of place over Am. That's because 
+Am7 comprses the notes A, C, E, G --- with no D present. 
+
+As soon as Dm comes around, though, that D note sounds particularly sweet.
+Playing D right as the chords change _emphasizes the change_. Nothing sounds
+more professional than playing solo notes that outline chord changes!
+
+Pay attention to how the _function_ of each note changes. In particular, note
+how the &flat;3 of the i chord (C) becomes the &flat;7 of the iv chord. One of
+the best ways to sound like you know what you're doing is to emphasize thirds
+and sevenths in your playing. How does it sound to bend C up to D right as the
+backing track moves to Dm?
+
+Remember to use different slurs and articulations. In particular, be sure to try
+curling the C when you're over Am to add a little tension.
+
+#### Playing _over_ the changes
+
+You've seen how just the five notes A, C, D, E, and G suffice to make coherent
+lines over a i-iv progression. Many people have made entire careers using just a
+single scale to solo over entire songs. 
+
+That's not the only way to play, however.
+
+Most "roots music" songs have just a single "key". Some music styles like jazz
+have more complicated harmonies and key changes, but for the most part you can
+think about one key for an entire song. 
+
+That's why it's okay to play the Am pentatonic scale over both Am and Dm: both
+chords are in the key of Am.
+
+This kind of one-scale soloing is sometimes called "playing _over_ the changes."
+
+#### Playing the changes
+
+There are at least two other strategies used when soloing over the iv chord
+(Dm), however: 
+
+* You can think "key of the moment" and play Dm pentatonic instead (the notes D,
+  F, G, A, and C). You play Dm pentatonic by moving the frying pan shape onto a
+  higher string set, or by moving the shape five frets up the neck.
+
+* You can continue using Am pentatonic, but think about _adding_ the note F. You
+  add the note F to the frying pan by extending the "handle" one more fret.
+  You'll probably want to play F rather than E when playing over Dm.
+
+These strategies are called "playing the changes."
+
+Note that Am pentatonic and Dm pentatonic are _very_ closely related. They share
+the four notes A, C, D, and G:
+
+```
+Am pentatonic: A  C  D  E  G
+               R  b3 4  5  b7
+
+Dm pentatonic: A  C  D  F  G
+               5  b7 R  b3 4
+```
+
+This means playing the changes doesn't normally require a huge shift in your
+note selection.
+
+The two non-shared notes E and F are particularly interesting because they are
+only a semitone apart. Explore this in your solos to outline the changes. Try
+ending a phrase on E over the least beat of Am, then slide or bend it up to F
+just as the chord changes to Dm.
+
+Now reverse it. End a phrase on F over Dm, then bring it down to E just as the
+chord moves back to Am.
+
+Amazing how much difference a semitone can make, isn't it?
+
+Continue exploring the minor blues by examining the changes between the i and
+the v chord:
+
 {{< tdgalert "blues/minor-penta/min-i-v" />}}
+
+The last bar in a minor blues is typically a dom7 chord, which is a
+_major_ chord. You'll likely want to make different note choices when moving
+from or to the V7 than you would with the v:
+
 {{< tdgalert "blues/minor-penta/min-i-V7" />}}
+
+Once you've explored the changes between each individual chord movement, you're
+ready to tackle soloing over an entire 12-bar minor blues:
+
 {{< tdgalert "blues/minor-penta/min-blues" />}}
+
+### Soloing over a major blues
+
+As we've discussed, most blues songs are comprised of dom7 chords, major chords.
+Let's tackle them the same way:
+
 {{< tdgalert "blues/minor-penta/maj-I-IV" />}}
 {{< tdgalert "blues/minor-penta/maj-I-V" />}}
 {{< tdgalert "blues/minor-penta/maj-blues" />}}
+
+Once you're comfortable soloing over full minor or major blues with minor
+pentatonic scales, you're well on your way to mastering the blues.
