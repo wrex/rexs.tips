@@ -15,16 +15,19 @@ resources:
 
 {{% tdgtutorial %}}
 
-
-
-## {{% param tdgid %}}: {{% param title %}}
-
 ## Demonstration
+
+TODO
 
 ## Procedure
 
-## Pass criteria
+Repeat {{< tdgref "blues/minor-penta/min-blues" >}} but this time use the entire
+six note blues scale, including the &flat;5 blue note (the middle of the
+"handle").
 
-## Extra credit
+Explore the sound of the blue note, and try different techniques to resolve the
+dissonance (bending or sliding up or down a half step, as well as resolving to
+other notes).
 
-## Subtests
+If you create a phrase that you particularly like, repeat it. Write it down.
+Record yourself. Start building a vocabulary of your own licks.

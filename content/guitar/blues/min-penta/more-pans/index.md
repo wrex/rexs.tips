@@ -279,12 +279,16 @@ ready to tackle soloing over an entire 12-bar minor blues:
 
 ### Soloing over a major blues
 
-As we've discussed, most blues songs are comprised of dom7 chords, major chords.
-Let's tackle them the same way:
+As we've discussed, most blues songs are comprised of dom7 chords, major
+chords. 
 
-{{< tdgalert "blues/minor-penta/maj-I-IV" />}}
-{{< tdgalert "blues/minor-penta/maj-I-V" />}}
-{{< tdgalert "blues/minor-penta/maj-blues" />}}
+We'll need to learn about the _major_ pentatonic scale before we can really
+tackle a Major blues.
 
-Once you're comfortable soloing over full minor or major blues with minor
-pentatonic scales, you're well on your way to mastering the blues.
+Fortunately, it's possible to play **over** a major blues progression
+using the minor pentatonic scale. Don't be afraid to try some of your minor
+pentatonic licks over a major blues, but don't set your expectations too high,
+either. We'll get there soon.
+
+But first, let's take a closer look at [the blue note]({{< ref
+"guitar/blues/min-penta/blue-note" >}}).

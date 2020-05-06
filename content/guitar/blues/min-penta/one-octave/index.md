@@ -17,7 +17,10 @@ I can play the note E in *thirteen* distinct locations in five different octaves
 
 This is why we tend to think about *shapes* when memorizing scales and chords. Shapes help our tiny pea brains to remember where to find the notes.
 
-Please realize, though, that each note evokes a single mood/feeling/color/taste over a given chord or chord progression. This is true no matter which octave of the note you play. An E sounds like an E sound, even if one is double the pitch of the other.
+Please realize, though, that each note evokes a single mood/feeling/color/taste
+over a given chord or chord progression. This is true no matter which octave of
+the note you play. An E sounds like an E sound, even if one is double the pitch
+of the other.
 
 Solos generate excitement and interest as they ascend or descend into different octaves, but the *function* and feeling/color/taste of each note within each octave stays the same. Apples come in all different shapes, sizes, and flavors, but they never taste like bananas.
 
@@ -31,7 +34,9 @@ Let's first focus on just one location for each of those five notes:
 
 {{< figproc "frying-pan" "Resize" "800x" >}}{{< /figproc >}}
 
-The shape resembles a frying pan (with the E a the end of the handle).
+The shape resembles a frying pan. I think of the "pan" as having the opening on
+top, so the root note A is the "heel" at the bottom of the pan, and E is at the
+end of the handle.
 
 The note A obviously sounds great over A7: it's the root of the underlying chord. If you play any other note over A7, it won't sound quite as [consonant](https://en.wikipedia.org/wiki/Consonance_and_dissonance).
 
