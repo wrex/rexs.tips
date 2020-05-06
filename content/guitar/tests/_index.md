@@ -20,6 +20,11 @@ resources:
 
 **Rule 3:** &nbsp;&nbsp;&nbsp;Never work on more than 5 things at a time.
 
+{{% alert color="warning" title="Printable listing" %}}
+You may want to print out this [compact listing]({{< ref "guitar/compact-test-listing" >}}) 
+of all the proficiency tests on this site and add it to the back of your journal. 
+{{% /alert %}}
+
 ## How to practice
 
 ### Preparation
@@ -161,10 +166,9 @@ Hopefully, I'll have something out by the end of the summer.
 Note that the app will **not** replace the manual process described above, it
 will simply make the process a little easier.
 
-{{<alert color="warning" title="Printable listing" >}}
-You may want to print out this <a href="{{< ref "guitar/compact-test-listing"
->}}">compact listing</a> of all proficiency tests, and add it to the back of
-your journal.
-{{< /alert >}}
+{{% alert color="warning" title="Printable listing" %}}
+You may want to print out this [compact listing]({{< ref "guitar/compact-test-listing" >}}) 
+of all proficiency tests, and add it to the back of your journal. 
+{{% /alert %}}
 
 ## Proficiency test categories:

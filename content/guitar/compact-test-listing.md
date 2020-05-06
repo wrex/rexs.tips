@@ -4,6 +4,7 @@ title: "All proficiency tests"
 linkTitle: "All proficiency tests"
 author: "Rex Walters"
 description: "Compact listing of all tests"
+toc_hide: true
 weight: 1
 ---
 {{< alltests >}}
