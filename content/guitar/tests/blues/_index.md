@@ -15,7 +15,6 @@ resources:
 
 {{% tdgtutorial %}}
 
-
 ## Procedure
 
 1. Spend the rest of your life listening to, playing, and living the Blues.

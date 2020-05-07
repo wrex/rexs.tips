@@ -50,17 +50,51 @@ Engineers like myself tend to be a bit obsessive. Once we set ourselves to a tas
 
 Then we'll mono-maniacally practice that and only that for the next several days, weeks, or months until we succeed or (more likely) are ready to give up the instrument.
 
-One trick I've found useful to avoid this problem is to devise exercises and divide practice sections into one of five categories, what I call the "five T's":
 
-* Tunes (repertoire)
-* Theory (more mental effort than physical)
-* Technique (dexterity and "chops")
-* Timing (rhythm & groove)
-* Tones (ear-training)
+### The six T's
 
-All of these overlap to some degree.
+One trick I've found useful to avoid this problem is to devise exercises and
+divide practice sections into one of five categories, what I call the "six
+T's":
 
-Theory overlaps everything: it underlies all music (if only to provide a way to think and talk about what's going on). Technique and timing are also very closely related. You need chops in order to play a tune. Still, dividing things up this way helps me  ensure my practice time is balanced, that I'm working on all of the areas regularly and with some semblance of balance.
+> <img src="/svg/training.svg" style="width: 1rem; height: 1rem;" > Training
+(default)
+
+> <img src="/svg/tunes.svg" style="width: 1rem; height: 1rem;" > Tunes
+(repertoire)
+
+> <img src="/svg/theory.svg" style="width: 1rem; height: 1rem;" > Theory (book
+learnining)
+
+> <img src="/svg/technique.svg" style="width: 1rem; height: 1rem;" > Technique
+(dexterity and "chops")
+
+> <img src="/svg/timing.svg" style="width: 1rem; height: 1rem;" > Timing (rhythm &
+groove)
+
+> <img src="/svg/tones.svg" style="width: 1rem; height: 1rem;" > Tones (ear-training)
+
+Most things you practice will fall into the default "Training" category, either
+because they are hard to categorize, or overlap several categories fairly
+equally.
+
+Other items will fall predominantly into one of the remaining categories:
+
+Tunes are what it's all about. They are exercises that synthesize all you've
+learned to play actual songs.
+
+Theory means the fundamental concepts that help us think about and discuss
+music with others (concepts like harmony and the circle of fifths). Most
+"theory" exercises will involve rote memorization.
+
+Technique is for exercises that _primarily_ improve your manual dexterity. Not
+necessarily musical exercises, but things like "spider" exercises to improve
+finger independence.
+
+Timing is for drills that focus almost exclusively on your internal sense of
+rhythm.
+
+Lastly, tones are exercises that focus exclusively on ear training.
 
 I try to plan out my practice sessions one or two days in advance. I may well call an audible on any given day, though.
 
