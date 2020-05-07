@@ -15,22 +15,24 @@ If you've been following along with the proficiency tests, we briefly
 experimented with sounds outside the pentatonic scale by "curling" the m3, and
 by sliding into one of the five pentatonic notes from a fret above or below.
 
-One of those "outside" notes (the &flat;5) is so important that it's earned the
-name of "the blue note". Adding this one note changes the scale sufficiently to
-earn it a new name: the blues scale (a six note scale).
+One of those "outside" notes (the &flat;5) is so significant that it's earned
+the name of "the blue note". Adding this note to the minor pentatonic scale
+makes such a profound change that some people call this new six-note scale by
+another name: _the blues scale_:
 
 {{< figproc "blue-frying-pan" "Resize" "800x" >}}{{< /figproc >}}
 
-The &flat;5 is known as the "blue note" and sits squarely between the tip of the
+The &flat;5 is known as the "blue note." It sits squarely between the tip of the
 handle and the base of the pan.
 
 ## Start by using it wrong
 
 Put on an Am backing track and try playing **just** the note E&flat;. Try
-different rhythms, but play just that one note. Really hang on it.
+different rhythms, but sound just that one note. Really hang on it.
 
-Now throw in some other notes from the scale, but intentionally move **to** the
-&flat;5 from other notes within the scale. In other words, _end_ your lines on the &flat;5.
+Slowly add additional notes from the scale, but intentionally move back **to**
+the &flat;5 from these new notes. In other words, _end_ your lines on the
+&flat;5.
 
 Yuck!
 

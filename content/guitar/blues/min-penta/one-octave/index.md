@@ -15,20 +15,21 @@ Scales contain only a few notes, but every note appears in **many** locations on
 
 I can play the note E in *thirteen* distinct locations in five different octaves on my favorite guitar!
 
-This is why we tend to think about *shapes* when memorizing scales and chords. Shapes help our tiny pea brains to remember where to find the notes.
+This is why we tend to think about *shapes* when memorizing scales and chords. Shapes help our tiny pea brains remember where to find the notes.
 
 Please realize, though, that each note evokes a single mood/feeling/color/taste
 over a given chord or chord progression. This is true no matter which octave of
-the note you play. An E sounds like an E sound, even if one is double the pitch
-of the other.
+the note you play. One E evokes the same mood/feeling/color/taste as any other
+E, even if one is double or even quadruple the pitch of the other.
 
 Solos generate excitement and interest as they ascend or descend into different octaves, but the *function* and feeling/color/taste of each note within each octave stays the same. Apples come in all different shapes, sizes, and flavors, but they never taste like bananas.
 
 ### Five *tones*
 
-Am pentatonic is the five notes A, C, D, E, and G. PERIOD.
+Am pentatonic is the five notes A, C, D, E, and G. PERIOD. That's all there is.
 
-Each of these notes evokes a certain feeling over a Blues in &laquo;A Major&raquo; and a slightly different feeling over &laquo;A minor&raquo;.
+Each of these notes evokes a certain feeling over a Blues in &laquo;A
+Major&raquo; and a slightly different feeling over &laquo;A minor&raquo;.
 
 Let's first focus on just one location for each of those five notes:
 
@@ -42,19 +43,26 @@ The note A obviously sounds great over A7: it's the root of the underlying chord
 
 E sounds almost as consonant, but different somehow. E over AMaj adds a bit of ... salty-sweetness (it sounds slightly Celtic to my ears). The remaining notes have different qualities.
 
-In order to create great sounds, whether an off-the-cuff solo or a pre-composed melody, you must *viscerally* learn how notes sound over different chords. You must **KNOW** how it will sound *before* you play it!
+In order to create great sounds, whether an off-the-cuff solo or a pre-composed
+melody, you must *viscerally* learn how notes sound over different chords. You
+must **KNOW** how it will sound *before* you play it!
 
 ### Playing with *intent*
 
-No written description can possibly teach sounds. Everyone has to learn for themselves how notes sound in different contexts, by *practicing on their guitar*.
+No written description can possibly teach sounds. Everyone has to learn for
+themselves how notes sound in different contexts, by *practicing on their
+guitar*.
 
 > If you can't hear it in your head first, you don't **own** it and probably shouldn't be playing it.
 >
 > -- Random YouTuber
 
-As obvious as this seems: **unless you KNOW what note you're playing, you'll never learn to anticipate how it will sound**.
+As obvious as this seems: **unless you KNOW what note you're playing, you'll
+never learn to anticipate how it will sound**.
 
-The sound of each note depends on *context*. In particular, the notes of the minor pentatonic scale sound different over a minor chord than they do over a major chord. Not better or worse, just different.
+The sound of each note depends on *context*. In particular, the notes of the
+minor pentatonic scale sound different over a minor i chord than they do over a
+major I chord. Not better or worse, just different.
 
 {{< tdgalert "blues/one-note" >}}
 Learn the sound of each pentatonic note in different contexts with this drill.

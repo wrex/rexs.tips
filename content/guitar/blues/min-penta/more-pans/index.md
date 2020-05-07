@@ -19,37 +19,63 @@ Let's create two clones of our frying pan, one an octave lower and another an oc
 
 {{< figproc "more-pans" "Resize" "800x" >}}{{< /figproc >}}
 
-Simply shift the licks you've already created to these new locations to add some dynamism and energy to your solos.
+Simply shift any licks you've already learned to these new locations to add some
+dynamism and energy to your solos.
 
-Start low and slow, for example, then move toward a climax where you start wailing with loud and fast trills in the highest pan. Listen again to familiar rock or blues solos for inspiration.
+You might start low and slow, for example, then move toward a climax where you start
+wailing with loud and fast trills in the highest pan. Listen again to familiar
+rock or blues solos for inspiration.
 
-Even better, these shapes *connect* to one another. Instead of treating them as three disjoint shapes, create lines that fluidly move between them.
+These shapes *connect* to one another. Instead of treating them as
+three disjoint shapes, create lines that fluidly move between them.
 
-Best of all, it takes very little mental effort to **KNOW** *a priori* which note you're playing. Instead of thinking about a single shape with different pitches, you should be thinking about five *notes*.
+With practice, it takes very little mental effort to **KNOW** *a priori* which
+note you're playing. Try to think about which **note** you are playing, not
+which part of the shape. It's okay to think either in terms of note names
+(A/C/D/E/G) or scale degrees (R/m3/P4/P5/&flat;7) but always know what you're
+playing!
 
-Do you see how the "heel" of the original pan (the root note A) butts up to the handle of the lower pan shape? The handle of the original shape (E) also butts up to the heel of the higher pan, except the tuning anomaly moves everything up a fret.
+The shape will help you navigate around the neck, though.
 
-If you had more strings, the pattern would continue diagonally like that indefinitely, both higher and lower.
+Do you see how the "heel" of the original pan (the root note A) butts up to the
+handle of the lower pan shape? The handle of the original shape (E) also butts
+up to the heel of the higher pan, except the tuning anomaly moves everything up
+a fret.
 
-### Practice drills
+If you had more strings, the pattern would continue diagonally like that
+indefinitely, both higher and lower.
 
-The first few drills aren't worth a complete proficiency test.
+### Practicing with the pans
 
-First, simply practice each "pan" in position, individually. Just get your fingers used to finding the same five notes in a different location.
+Real drills are coming soon, but first just practice playing each "pan" in
+position, individually. Get your fingers used to finding the same five
+notes in a different location.
 
-Then try connecting the lower two pans. Do an ascending run from the G on the sixth string to the E on the third string, then descend back down. Play with these ten pitches (five notes in two different octaves) until you're comfortable. The goal is to "see" both pans on the fretboard without effort.
+Next, try connecting the lower two pans. Do an ascending run from the G on the
+sixth string to the E on the third string, then descend back down. Play with
+these ten pitches (five notes in two different octaves) until you're
+comfortable. The goal is to "see" both pans on the fretboard without effort.
 
-Make **certain** you know which note you are playing at all times! End your phrases on A as usual, but you should find it liberating to have more than one to play with.
+Make **certain** you know which note you are playing at all times! Say the note
+names out loud as you play them (believe me, it helps). End your phrases on A as
+usual. You should find it liberating to have more than one octave to play
+with.
 
-Then repeat with the higher two pans.
+Now repeat with the higher two pans.
 
-The best soloists play **confidently** and with **intent**. Try hard to aim for specific notes even as you move between pans. Know what you're aiming for *before you play it*.
+The best soloists play **confidently** and with **intent**. Try hard to aim for
+specific notes even as you move between pans. Know what you're aiming for
+*before you play it*.
 
-If it any point you aren't completely confident how a note will sound *before* you play it, **stop** and reduce the number of "pans."
+If it any point you aren't completely confident how a note will sound *before*
+you play it, **stop** and reduce the number of "pans."
 
-Of course, you should also experiment a bit. If you stumble across something that sounds good, stop and analyze what you just played. Play it again. Write it down in your journal! Remember it for next time.
+Of course, you should also experiment a bit. If you stumble across something
+that sounds good, stop and analyze what you just played. Play it again. Write it
+down in your journal! Remember it for next time.
 
-Once you've connected the upper and lower pairs, practice playing with all three at once.
+Once you've connected the upper and lower pairs, use the following exercise to
+practice playing with all three octaves:
 
 {{< tdgalert "blues/pan-connection-drills" >}}
 This proficiency test provides some mechanical drills to help you cement the
@@ -61,15 +87,16 @@ They also help to improve technique, and prevent you from playing the same old
 licks and ascending/descending runs over and over.
 <br><br>
 
-Remember: you play what you practice.
+Remember: you play what you practice. Try to make it musical.
 {{< /tdgalert >}}
 
 ## The sound of each note
 
-Please take a moment to repeat {{< tdgref "blues/one-note" >}}: _slowly_ play some lines (short
-sequences of two to seven or so notes from the Am pentatonic scale) over a
-single chord vamp (Am, or Am7). You'll probably want to end the majority of your
-lines on the note A, but experiment by ending on different notes as well.
+Now take a moment to repeat {{< tdgref "blues/one-note" >}} using all three
+octaves. _Slowly_ play some lines (short sequences of two to seven or so notes
+from the Am pentatonic scale) over a single chord vamp (Am, or Am7). You'll
+probably want to end the majority of your lines on the note A, but experiment by
+ending on different notes as well.
 
 Develop a visceral feel for all the notes in the scale. Practice until
 you know how a note will sound _before_ you play it.
@@ -90,8 +117,8 @@ the more uncomfortable listeners become. It's not _wrong_, exactly, but it feels
 somewhere else. Like thyme, it's really great in moderation.
 
 P5 (E) 
-: E sounds almost as resonant as A. Not quite "home", but it's at least the
-front porch. It's like adding MSG to the flavor of the root note: it makes it meatier.
+: E sounds almost as resonant as A. Not quite "home," but it's at least the
+front porch. It's like adding MSG to the flavor of the root note: it makes it _meatier_.
 
 &flat;7 (G) 
 : G Am sounds "cool" or "jazzy" to me. If the band is playing Am
@@ -100,24 +127,24 @@ Technically, you **are** playing an Am7 when you play the G note over an Am
 triad! (Am7 comprises the notes A, C, E, and **G**). It's like cinnamon -- goes
 great with almost anything.
 
-In summary, over Am, the only note you need to be careful with is D (the P4),
-everything else is just compatible spices. They all sound a little different,
-but they all work. You probably don't want to hang on a D too long. Unless you
-do! Sometimes a song **wants** that extra tension.
+Be careful with D over Am (the P4), everything else is just compatible spices,
+but Am _doesn't_ contain a D, so you need to use it carefully. You probably
+don't want to hang on a D too long. Unless you do! Sometimes a song **wants**
+that extra tension.
 
-Note that these sounds/feelings/tastes change **every time the underlying chord
-changes**. So far, we've only explored the sound over a single chord: the i7
-(I minor seventh) chord. The scale note sounds will change as the chords change.
+Note that these sounds/feelings/tastes change **over every underlying chord**.
+So far, we've only explored the sound over a single chord: the i7 (I minor
+seventh) chord. 
 
 The &flat;3, for example, will sound _very_ different over a I7. The half step
 difference between the &flat;3 from the scale and the M3 in the chord tends to grate
-on the ears! As we practiced, simply "curling" or "tweaking" that C a bit
+on the ears. As we practiced, simply "curling" or "tweaking" that C a bit
 toward the major 3rd relieves _much_ of that tension.
 
 A song in the key of Am might contain the chords Am7, Dm7, Em7 and
 E7. All five notes in the Am pentatonic scale will _work_ over any of these chords
-since they are all in the **key** of Am, but the sound/feeling/taste **changes**
-as the underlying chord change. That D note, for example, will sound sweet as
+since they are all in the key* of Am, but the sound/feeling/taste **changes**
+as the underlying chords change. That D note, for example, will sound sweet as
 sugar when the chord changes to Dm, for example.
 
 {{% alert title="Warning!" color="warning" %}}
@@ -127,7 +154,7 @@ The best solos play _just_ the right note at the _exact instant_ the underlying
 chord changes. This is incredibly difficult at first, but, as always, gets
 easier with practice.
 
-Practice first with one chord vamps (e.g. Am7) as long asnecessary. Only when
+Practice first with one chord vamps (e.g. Am7) as long as necessary. Only when
 you're _completely_ comfortable should progress to the remaining drills linked to below.
 {{% /alert %}}
 
@@ -171,26 +198,28 @@ So first get comfortable playing over just the i chord with {{< tdgref
 
 When you are ready, proceed to the following exercises, but take your time.
 
+{{< alert title="For what it's worth" color="warning" >}}
 I'm always in too much of a rush to move on to new exercises. It's easy to
 underestimate the _degree_ of mastery required with each exercise. Keep at it
 until you can't stand it any longer, and only then move to the next exercise.
+{{< /alert >}}
 
 ### Soloing over a minor blues
 
 When you're ready, the first chord progression to explore is the i to the iv,
-and iv to i in a minor blues. This is explored in {{< tdgref "blues/minor-penta/min-i-iv" >}}:
+and iv to i in a minor blues:
 
 {{< tdgalert "blues/minor-penta/min-i-iv" />}}
 
-After a while it should become obvious that the root note always sounds "best"
-(or at least "most resolved").
+After a while, it should be obvious that the root note always sounds "best"
+over each chord (or at least "most resolved").
 
 The movement from a i chord to a iv chord (or back from the iv to the i) is
 **extremely** common. Listen to how each of the five notes sounds over each
 chord.
 
-Notice how the note D sounds a bit out of place over Am. That's because 
-Am7 comprses the notes A, C, E, G --- with no D present. 
+Notice how the note D sounds a bit out of place over Am. That's because
+Am7 comprises the notes A, C, E, and G --- but not D.
 
 As soon as Dm comes around, though, that D note sounds particularly sweet.
 Playing D right as the chords change _emphasizes the change_. Nothing sounds
@@ -208,7 +237,7 @@ curling the C when you're over Am to add a little tension.
 #### Playing _over_ the changes
 
 You've seen how just the five notes A, C, D, E, and G suffice to make coherent
-lines over a i-iv progression. Many people have made entire careers using just a
+lines over a i-iv progression. Many careers have been made using just a
 single scale to solo over entire songs. 
 
 That's not the only way to play, however.
@@ -220,7 +249,7 @@ think about one key for an entire song.
 That's why it's okay to play the Am pentatonic scale over both Am and Dm: both
 chords are in the key of Am.
 
-This kind of one-scale soloing is sometimes called "playing _over_ the changes."
+Pro's call this kind of one-scale soloing "playing _over_ the changes."
 
 #### Playing the changes
 
@@ -228,14 +257,14 @@ There are at least two other strategies used when soloing over the iv chord
 (Dm), however: 
 
 * You can think "key of the moment" and play Dm pentatonic instead (the notes D,
-  F, G, A, and C). You play Dm pentatonic by moving the frying pan shape onto a
+  F, G, A, and C). You play Dm pentatonic by moving the frying pan onto a
   higher string set, or by moving the shape five frets up the neck.
 
 * You can continue using Am pentatonic, but think about _adding_ the note F. You
   add the note F to the frying pan by extending the "handle" one more fret.
   You'll probably want to play F rather than E when playing over Dm.
 
-These strategies are called "playing the changes."
+Pro's call these strategies "playing the changes."
 
 Note that Am pentatonic and Dm pentatonic are _very_ closely related. They share
 the four notes A, C, D, and G:
@@ -248,8 +277,8 @@ Dm pentatonic: A  C  D  F  G
                5  b7 R  b3 4
 ```
 
-This means playing the changes doesn't normally require a huge shift in your
-note selection.
+Playing the changes doesn't require a dramatic shift in your note
+selection.
 
 The two non-shared notes E and F are particularly interesting because they are
 only a semitone apart. Explore this in your solos to outline the changes. Try
@@ -279,8 +308,7 @@ ready to tackle soloing over an entire 12-bar minor blues:
 
 ### Soloing over a major blues
 
-As we've discussed, most blues songs are comprised of dom7 chords, major
-chords. 
+As we've discussed, most blues songs use dom7 chords, which are _major_ chords. 
 
 We'll need to learn about the _major_ pentatonic scale before we can really
 tackle a Major blues.
@@ -290,5 +318,5 @@ using the minor pentatonic scale. Don't be afraid to try some of your minor
 pentatonic licks over a major blues, but don't set your expectations too high,
 either. We'll get there soon.
 
-But first, let's take a closer look at [the blue note]({{< ref
-"guitar/blues/min-penta/blue-note" >}}).
+We'll get to major pentatonic scales eventually, but first, let's take a closer
+look at [the blue note]({{< ref "guitar/blues/min-penta/blue-note" >}}).
