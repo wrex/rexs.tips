@@ -4,7 +4,7 @@ title: "Minor: DGBE"
 linkTitle: "Minor: DGBE"
 author: "Rex Walters"
 description: "Find all minor triads on the top for strings"
-tdgid: "D0004-080-050"
+tdgid: "D0004-020-050"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
 type: "tests"
 tdgtype: "training"
@@ -35,12 +35,19 @@ The test should be performed with quarter notes at 60BPM.
 
   * Continue up the neck until you've played all seven natural notes.
 
-2. Repeat all seven notes on the DGB string set.
+2. Repeat with all seven notes on the DGB string set.
+
+3. With your left hand positioned at the second fret, play Bm on the top four
+   strings (the notes F&sharp;, B, D, and F&sharp;). Now play the closest Em
+   shape on the next beat, then Am, Dm, etc. through the cycle of fourths. Use
+   four note minor chord shapes on the top four strings throughout the exercise.
+   It's easiest if you visualize the root note moving across the strings (your
+   hand will move up the neck as you progress).
 
 
 ## Pass criteria
 
-You can perform the exercise with quarter notes at 60 BPM without any mistakes.
+You can perform all three exercises with quarter notes at 60 BPM without any mistakes.
 
 ## Extra credit
 
