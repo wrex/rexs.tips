@@ -7,6 +7,7 @@ description: "Major triads on the E, A, D strings"
 tdgid: "D0004-040"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "tests"
+tdgtype: "training"
 weight: 40
 resources:
   - src: "**.{png,jpg}"

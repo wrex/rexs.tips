@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="td-content">
-	<h1>{{ .Params.tdgid }} • {{ .Title }}</h1>
+	<h1><img src="/svg/{{.Params.tdgtype}}.svg" alt="{{.Params.tdgtype}}" > • {{ .Params.tdgid }} • {{ .Title }}</h1>
 	{{ with .Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
 	{{ .Content }}
         {{ partial "section-index.html" . }}

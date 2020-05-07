@@ -7,6 +7,7 @@ description: "Six-string minor arpeggios"
 tdgid: "D0004-080"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
 type: "tests"
+tdgtype: "training"
 weight: 100
 ---
 

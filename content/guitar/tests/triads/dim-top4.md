@@ -7,6 +7,7 @@ description: "Find all diminished triads on the top for strings"
 tdgid: "D0004-090-050"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
 type: "tests"
+tdgtype: "training"
 weight: 245
 ---
 

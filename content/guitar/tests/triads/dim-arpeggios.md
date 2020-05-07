@@ -7,6 +7,7 @@ description: "Six-string diminished arpeggios"
 tdgid: "D0004-090"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
 type: "tests"
+tdgtype: "training"
 weight: 200
 ---
 

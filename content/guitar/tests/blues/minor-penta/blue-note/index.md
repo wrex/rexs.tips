@@ -8,6 +8,7 @@ tdgid: "D0005-060-080"
 tutorial: "guitar/blues/min-penta/blue-note"
 weight: 130
 type: "tests"
+tdgtype: "training"
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

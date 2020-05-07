@@ -7,6 +7,7 @@ description: "Recite the cycle of fifths out loud"
 tdgid: "D0001-020"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 type: "tests"
+tdgtype: "theory"
 weight: 2
 resources:
 - src: "**.{png,jpg}"

@@ -7,6 +7,7 @@ description: "Master proficiency test for the blues"
 tdgid: "D0005"
 tutorial: "guitar/blues"
 type: "tests"
+tdgtype: "training"
 weight: 90
 resources:
   - src: "**.{png,jpg}"

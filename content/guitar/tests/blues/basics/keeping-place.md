@@ -7,6 +7,7 @@ description: "Keeping place and anticipating changes"
 tdgid: "D0005-040"
 tutorial: "guitar/blues/basics"
 type: "tests"
+tdgtype: "tones"
 weight: 30
 resources:
   - src: "**.{png,jpg}"

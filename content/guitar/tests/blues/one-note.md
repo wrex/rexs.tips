@@ -7,6 +7,7 @@ description: "Frying pan notes over single chords"
 tdgid: "D0005-050"
 tutorial: "guitar/blues/min-penta/one-octave.md"
 type: "tests"
+tdgtype: "training"
 weight: 40
 resources:
   - src: "**.{png,jpg}"

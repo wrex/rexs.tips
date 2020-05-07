@@ -7,6 +7,7 @@ description: "Minor triads on the E, A, D strings"
 tdgid: "D0004-080-040"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
 type: "tests"
+tdgtype: "training"
 weight: 140
 ---
 

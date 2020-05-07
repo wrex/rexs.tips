@@ -1,8 +1,11 @@
-<section class="d-flex justify-content-center">
+{{- .Scratch.Set "i" 1 -}}
+<section class="justify-content-center">
   <div class="section-index">
-    <table class="table table-fixed table-striped">
+    <table class="table table-sm">
       <thead>
         <tr>
+          <th scope="col"></th>
+          <th scope="col"></th>
           <th scope="col"></th>
           <th scope="col">TDG ID</th>
           <th scope="col">Title</th>
@@ -14,7 +17,13 @@
         {{- range (where .Site.Pages ".Params.tdgid" "!=" nil).ByParam "tdgid" -}}
           <tr>
             <td scope="row">
-              <input disabled="" type="checkbox">
+              <input type="checkbox">
+            </td>
+            <td scope="row">
+              <img src="/svg/{{.Params.tdgtype}}.svg" alt="{{.Params.tdgtype}}" style="width: 1em; height: 1em;">
+            </td>
+            <td scope="row">
+              {{ $.Scratch.Get "i" }}
             </td>
             <td>
               <a href="{{ .RelPermalink }}">{{ .Params.tdgid }}</a>
@@ -29,6 +38,7 @@
               &nbsp;
             </td>
           </tr>
+          {{- $.Scratch.Add "i" 1 -}}
         {{- end -}}
       </tbody>
     </table>

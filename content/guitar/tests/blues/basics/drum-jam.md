@@ -7,6 +7,7 @@ description: "Playing to a drum track"
 tdgid: "D0005-030"
 tutorial: "guitar/blues/basics"
 type: "tests"
+tdgtype: "timing"
 weight: 20
 resources:
   - src: "**.{png,jpg}"

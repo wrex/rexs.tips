@@ -7,6 +7,7 @@ description: "Find all minor triads on the top for strings"
 tdgid: "D0004-080-050"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
 type: "tests"
+tdgtype: "training"
 weight: 145
 ---
 

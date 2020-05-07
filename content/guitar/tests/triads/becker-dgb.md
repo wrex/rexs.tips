@@ -7,6 +7,7 @@ description: "Harmonizing C Major in sixths with Becker triads"
 tdgid: "D0004-130"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "tests"
+tdgtype: "training"
 weight: 330
 ---
 

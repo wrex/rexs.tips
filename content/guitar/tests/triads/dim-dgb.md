@@ -7,6 +7,7 @@ description: "Diminished triads on the D, G, and B strings"
 tdgid: "D0004-090-020"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
 type: "tests"
+tdgtype: "training"
 weight: 220
 ---
 

@@ -7,6 +7,7 @@ description: ""
 tdgid: "D0000"
 tutorial: ""
 type: "tests"
+tdgtype: "training"
 weight: 2
 resources:
   - src: "**.{png,jpg}"

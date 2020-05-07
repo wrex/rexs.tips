@@ -7,6 +7,7 @@ description: "Recite the cycle of fourths out loud"
 tdgid: "D0001-010"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 type: "tests"
+tdgtype: "theory"
 weight: 1
 resources:
 - src: "**.{png,jpg}"

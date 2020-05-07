@@ -7,6 +7,7 @@ description: "Harmonizing major scales on GBE"
 tdgid: "D0004-100"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "tests"
+tdgtype: "training"
 weight: 300
 ---
 

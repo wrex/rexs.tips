@@ -7,6 +7,7 @@ description: "Major triads on the A, D, G strings"
 tdgid: "D0004-030"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "tests"
+tdgtype: "training"
 weight: 30
 resources:
   - src: "**.{png,jpg}"

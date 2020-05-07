@@ -5,6 +5,7 @@ linkTitle: "Becker GBE"
 author: "Rex Walters"
 description: ""
 tdgid: "D0004-120"
+tdgtype: "training"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "tests"
 weight: 320

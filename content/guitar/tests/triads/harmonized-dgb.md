@@ -7,6 +7,7 @@ description: "Harmonizing major scales on DGB"
 tdgid: "D0004-110"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "tests"
+tdgtype: "training"
 weight: 310
 ---
 

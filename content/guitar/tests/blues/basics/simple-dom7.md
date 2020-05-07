@@ -7,6 +7,7 @@ description: "A few simple Dom7 voicings"
 tdgid: "D0005-010"
 tutorial: "guitar/blues#dom7-chord-voicings"
 type: "tests"
+tdgtype: "training"
 weight: 5
 resources:
   - src: "**.{png,jpg}"

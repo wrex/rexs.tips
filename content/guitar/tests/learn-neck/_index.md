@@ -4,6 +4,7 @@ title: "Fretboard note mastery"
 linkTitle: "Fretboard note mastery"
 tdgid: "D0001"
 type: "tests"
+tdgtype: "training"
 # This should be the first drill listed
 weight: 1
 tutorial: "guitar/Fundamentals/notes/finding-notes"

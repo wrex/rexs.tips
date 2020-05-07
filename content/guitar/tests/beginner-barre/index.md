@@ -7,6 +7,7 @@ description: ""
 tdgid: "D0003"
 tutorial: "guitar/Fundamentals/harmony/beginner-barre"
 type: "tests"
+tdgtype: "technique"
 weight: 30
 resources:
 - src: "root-movement.png"

@@ -7,6 +7,7 @@ description: "Soloing over a i-V7 progression"
 tdgid: "D0005-060-030"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "tests"
+tdgtype: "training"
 weight: 80
 resources:
   - src: "**.{png,jpg}"

@@ -7,6 +7,7 @@ description: "Minor triads on the G, B, and E strings"
 tdgid: "D0004-080-010"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
 type: "tests"
+tdgtype: "training"
 weight: 110
 ---
 

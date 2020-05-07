@@ -7,6 +7,7 @@ description: "Finding notes with octave shapes"
 tdgid: "D0001-040"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 type: "tests"
+tdgtype: "training"
 weight: 12
 resources:
 - src: "**.{png,jpg}"

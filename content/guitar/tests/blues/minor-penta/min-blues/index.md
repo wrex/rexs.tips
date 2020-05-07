@@ -7,6 +7,7 @@ description: "Soloing over a full 12-bar minor blues progression"
 tdgid: "D0005-060-040"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "tests"
+tdgtype: "training"
 weight: 90
 resources:
   - src: "**.{png,jpg}"

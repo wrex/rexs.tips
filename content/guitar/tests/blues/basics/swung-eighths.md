@@ -7,6 +7,7 @@ description: "It don't mean a thing if it ain't got that swing"
 tdgid: "D0005-020"
 tutorial: "guitar/blues/basics"
 type: "tests"
+tdgtype: "timing"
 weight: 10
 resources:
   - src: "**.{png,jpg}"

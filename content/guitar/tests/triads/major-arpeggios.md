@@ -7,6 +7,7 @@ description: "Six-string major arpeggios"
 tdgid: "D0004-060"
 tutorial: "guitar/Fundamentals/harmony/triads/FAD"
 type: "tests"
+tdgtype: "training"
 weight: 50
 ---
 
