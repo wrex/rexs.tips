@@ -1,7 +1,7 @@
 ---
 date: 2020-05-05T17:38:53-07:00
-title: "Blue Note"
-linkTitle: "Blue Note"
+title: "Blue note"
+linkTitle: "Blue note"
 author: "Rex Walters"
 description: "Creating the blues scale"
 type: "docs"
