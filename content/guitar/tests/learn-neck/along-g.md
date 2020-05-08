@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the G string"
 author: "Rex Walters"
 weight: 30
+toc_hide: true
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

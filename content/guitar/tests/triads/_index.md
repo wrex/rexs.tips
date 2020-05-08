@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/harmony/triads"
 description: "Exercises for learning diatonic triads"
 author: "Rex Walters"
 weight: 999
+toc_hide: true
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

@@ -1,22 +1,21 @@
 ---
-date: 2020-05-05T22:02:38-07:00
-title: "Minor i-v"
-linkTitle: "Minor i-v"
+date: 2020-05-05T22:03:57-07:00
+title: "Minor i-V7"
+linkTitle: "Minor i-V7"
 author: "Rex Walters"
-description: "Soloing over a minor i-iv progression"
-tdgid: "D0005-060-020"
+description: "Soloing over a i-V7 progression"
+tdgid: "D0006-010-060"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "tests"
 tdgtype: "training"
-weight: 70
+weight: 80
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
 ---
 
 {{% tdgtutorial %}}
-
-## {{% param tdgid %}}: {{% param title %}}
 
 ## Demonstration
 
@@ -29,7 +28,7 @@ Either record your own strumming or use an app like
 two chords. Use a nice, slow, simple 4/4 tempo.
 
 1. Two bars of Am7
-2. Two bars of Em7
+2. Two bars of E7
 
 A simple one-strum-per-beat recording suffices, but you can use any rhythm or
 style you like. If you know more than one voicing for either chord, use any or all of
@@ -45,7 +44,7 @@ Use the [connected pan shapes]({{< ref
 backing track with the Am pentatonic scale:
 
 1. Play the root note of the underlying chord on the downbeat of 1 in each
-   measure. Play the note A over Am, and E over Em.
+   measure. Play the note A over Am, and E over E7.
 
   * First just play just the root by itself, with different rhythms and
     dynamics, but be sure to hit the right root on the downbeat of 1. Be sure to
@@ -70,20 +69,19 @@ backing track with the Am pentatonic scale:
 
 ### Playing the changes
 
-Repeat the exercises above, playing the changes:
+(Skip this section if you haven't studied the _major_ pentatonic scale yet.)
 
-1. Repeat the exercise using Am pentatonic over Am, and Em pentatonic over Dm.
+Repeat the exercises above, playing the changes by:
 
-2. Repeat the exercise by staying on Am pentatonic, but play B instead of C
-   over Em.
+1. Using Am pentatonic over Am, and E (major) pentatonic over E7.
+
+2. Continuing to use Am pentatonic, but adding the notes G&sharp; and B
+   from the E7 chord to the scale.
+
+Note that playing the changes over E7 is much different than playing over Em7!
+One half step makes a huge difference.
 
 ## Pass criteria
 
 You can never really "master" this exercise. Try to stick with it for at least
 an hour or more, but come back to it periodically as you gain more experience.
-
-## Pass criteria
-
-## Extra credit
-
-## Subtests

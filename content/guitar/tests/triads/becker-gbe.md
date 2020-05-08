@@ -9,6 +9,7 @@ tdgtype: "training"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
 type: "tests"
 weight: 320
+toc_hide: true
 ---
 
 {{% tdgtutorial %}}

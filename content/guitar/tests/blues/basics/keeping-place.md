@@ -9,6 +9,7 @@ tutorial: "guitar/blues/basics"
 type: "tests"
 tdgtype: "tones"
 weight: 30
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

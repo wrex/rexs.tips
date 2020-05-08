@@ -4,11 +4,12 @@ title: "Minor Blues"
 linkTitle: "Minor Blues"
 author: "Rex Walters"
 description: "Soloing over a full 12-bar minor blues progression"
-tdgid: "D0005-060-040"
+tdgid: "D0006-010-070"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "tests"
 tdgtype: "training"
 weight: 90
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

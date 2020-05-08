@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the B string"
 author: "Rex Walters"
 weight: 40
+toc_hide: true
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

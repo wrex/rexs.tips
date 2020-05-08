@@ -1,10 +1,10 @@
 ---
-date: {{ .Date }}
-title: "{{ replace .Name "-" " " | title }}"
-linkTitle: "{{ replace .Name "-" " " | title }}"
+date: 2020-05-07T19:05:35-07:00
+title: "Minor Pentatonic: Box 1"
+linkTitle: "Box 1"
 author: "Rex Walters"
 description: ""
-tdgid: "D0000"
+tdgid: "D0006-020-010"
 tutorial: ""
 type: "tests"
 tdgtype: "training"

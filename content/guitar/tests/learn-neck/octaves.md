@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/notes/finding-notes"
 type: "tests"
 tdgtype: "training"
 weight: 12
+toc_hide: true
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

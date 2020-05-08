@@ -10,6 +10,7 @@ weight: 1
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Play every note on all strings"
 author: "Rex Walters"
+toc_hide: false
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

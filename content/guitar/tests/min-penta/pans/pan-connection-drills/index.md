@@ -4,11 +4,12 @@ title: "Pan Connection Drills"
 linkTitle: "Pan Connection Drills"
 author: "Rex Walters"
 description: "Mechanical drills for connected pan shapes"
-tdgid: "D0005-060"
+tdgid: "D0006-010-020"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "tests"
 tdgtype: "training"
 weight: 50
+toc_hide: true
 resources:
   - src: "frying-pan-ascending.png"
     title: "Drill 1: Ascending"

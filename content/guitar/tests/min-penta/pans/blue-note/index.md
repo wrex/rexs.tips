@@ -4,11 +4,12 @@ title: "Blue Note"
 linkTitle: "Blue Note"
 author: "Rex Walters"
 description: "Turning the pentatonic into the blues scale"
-tdgid: "D0005-060-080"
+tdgid: "D0006-010-030"
 tutorial: "guitar/blues/min-penta/blue-note"
 weight: 130
 type: "tests"
 tdgtype: "training"
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

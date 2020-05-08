@@ -9,6 +9,7 @@ tutorial: ""
 type: "tests"
 tdgtype: "training"
 weight: 2
+toc_hide: false
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

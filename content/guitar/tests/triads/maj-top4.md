@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/harmony/triads/major#minimal-movement-drills"
 type: "tests"
 tdgtype: "training"
 weight: 45
+toc_hide: true
 ---
 
 {{% tdgtutorial %}}

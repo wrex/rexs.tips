@@ -6,6 +6,7 @@ author: "Rex Walters"
 description: ""
 tdgid: "D0003"
 tutorial: "guitar/Fundamentals/harmony/beginner-barre"
+toc_hide: false
 type: "tests"
 tdgtype: "technique"
 weight: 30

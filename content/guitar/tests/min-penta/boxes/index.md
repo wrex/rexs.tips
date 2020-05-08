@@ -4,11 +4,12 @@ title: "Minor Pentatonic: Box 1"
 linkTitle: "Box 1"
 author: "Rex Walters"
 description: ""
-tdgid: "D0000"
+tdgid: "D0006-020"
 tutorial: ""
 type: "tests"
 tdgtype: "training"
 weight: 2
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

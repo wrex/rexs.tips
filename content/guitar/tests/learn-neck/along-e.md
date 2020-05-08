@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the E strings"
 author: "Rex Walters"
 weight: 10
+toc_hide: true
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

@@ -9,6 +9,7 @@ tutorial: "guitar/blues/basics"
 type: "tests"
 tdgtype: "timing"
 weight: 20
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

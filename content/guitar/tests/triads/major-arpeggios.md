@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/harmony/triads/FAD"
 type: "tests"
 tdgtype: "training"
 weight: 50
+toc_hide: true
 ---
 
 {{% tdgtutorial %}}

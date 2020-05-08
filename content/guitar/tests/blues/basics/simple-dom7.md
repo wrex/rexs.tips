@@ -9,6 +9,7 @@ tutorial: "guitar/blues#dom7-chord-voicings"
 type: "tests"
 tdgtype: "training"
 weight: 5
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

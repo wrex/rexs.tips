@@ -1,20 +1,23 @@
 ---
-date: 2020-05-05T22:02:33-07:00
-title: "Minor i-iv"
-linkTitle: "Minor i-iv"
+date: 2020-05-05T22:02:38-07:00
+title: "Minor i-v"
+linkTitle: "Minor i-v"
 author: "Rex Walters"
 description: "Soloing over a minor i-iv progression"
-tdgid: "D0005-060-010"
+tdgid: "D0006-010-050"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "tests"
 tdgtype: "training"
-weight: 60
+toc_hide: true
+weight: 70
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
 ---
 
 {{% tdgtutorial %}}
+
+## {{% param tdgid %}}: {{% param title %}}
 
 ## Demonstration
 
@@ -27,7 +30,7 @@ Either record your own strumming or use an app like
 two chords. Use a nice, slow, simple 4/4 tempo.
 
 1. Two bars of Am7
-2. Two bars of Dm7
+2. Two bars of Em7
 
 A simple one-strum-per-beat recording suffices, but you can use any rhythm or
 style you like. If you know more than one voicing for either chord, use any or all of
@@ -43,7 +46,7 @@ Use the [connected pan shapes]({{< ref
 backing track with the Am pentatonic scale:
 
 1. Play the root note of the underlying chord on the downbeat of 1 in each
-   measure. Play the note A over Am, and D over Dm.
+   measure. Play the note A over Am, and E over Em.
 
   * First just play just the root by itself, with different rhythms and
     dynamics, but be sure to hit the right root on the downbeat of 1. Be sure to
@@ -70,13 +73,18 @@ backing track with the Am pentatonic scale:
 
 Repeat the exercises above, playing the changes:
 
-1. Repeat the exercise using Am pentatonic over Am, and Dm pentatonic over Dm.
+1. Repeat the exercise using Am pentatonic over Am, and Em pentatonic over Dm.
 
-2. Repeat the exercise by staying on Am pentatonic, but "extending the handle"
-   over Dm by playing F. (Note that F can be found in other locations, too!)
+2. Repeat the exercise by staying on Am pentatonic, but play B instead of C
+   over Em.
 
 ## Pass criteria
 
 You can never really "master" this exercise. Try to stick with it for at least
 an hour or more, but come back to it periodically as you gain more experience.
 
+## Pass criteria
+
+## Extra credit
+
+## Subtests

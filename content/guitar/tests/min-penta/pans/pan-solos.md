@@ -4,11 +4,12 @@ title: "Pan solos"
 linkTitle: "Pan solos"
 author: "Rex Walters"
 description: "Frying pan notes over single chords"
-tdgid: "D0005-050"
+tdgid: "D0006-010-010"
 tutorial: "guitar/blues/min-penta/one-octave.md"
 type: "tests"
 tdgtype: "training"
 weight: 40
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

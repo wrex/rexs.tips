@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/harmony/triads/FAD#rexs-fad"
 type: "tests"
 tdgtype: "training"
 weight: 60
+toc_hide: true
 ---
 
 {{% tdgtutorial %}}

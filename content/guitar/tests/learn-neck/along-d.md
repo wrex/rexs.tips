@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every string along the D string"
 author: "Rex Walters"
 weight: 14
+toc_hide: true
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

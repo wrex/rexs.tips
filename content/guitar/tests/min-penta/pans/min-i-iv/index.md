@@ -1,14 +1,15 @@
 ---
-date: 2020-05-05T22:03:57-07:00
-title: "Minor i-V7"
-linkTitle: "Minor i-V7"
+date: 2020-05-05T22:02:33-07:00
+title: "Minor i-iv"
+linkTitle: "Minor i-iv"
 author: "Rex Walters"
-description: "Soloing over a i-V7 progression"
-tdgid: "D0005-060-030"
+description: "Soloing over a minor i-iv progression"
+tdgid: "D0006-010-040"
 tutorial: "guitar/blues/min-penta/more-pans"
 type: "tests"
 tdgtype: "training"
-weight: 80
+weight: 60
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
@@ -27,7 +28,7 @@ Either record your own strumming or use an app like
 two chords. Use a nice, slow, simple 4/4 tempo.
 
 1. Two bars of Am7
-2. Two bars of E7
+2. Two bars of Dm7
 
 A simple one-strum-per-beat recording suffices, but you can use any rhythm or
 style you like. If you know more than one voicing for either chord, use any or all of
@@ -43,7 +44,7 @@ Use the [connected pan shapes]({{< ref
 backing track with the Am pentatonic scale:
 
 1. Play the root note of the underlying chord on the downbeat of 1 in each
-   measure. Play the note A over Am, and E over E7.
+   measure. Play the note A over Am, and D over Dm.
 
   * First just play just the root by itself, with different rhythms and
     dynamics, but be sure to hit the right root on the downbeat of 1. Be sure to
@@ -68,19 +69,15 @@ backing track with the Am pentatonic scale:
 
 ### Playing the changes
 
-(Skip this section if you haven't studied the _major_ pentatonic scale yet.)
+Repeat the exercises above, playing the changes:
 
-Repeat the exercises above, playing the changes by:
+1. Repeat the exercise using Am pentatonic over Am, and Dm pentatonic over Dm.
 
-1. Using Am pentatonic over Am, and E (major) pentatonic over E7.
-
-2. Continuing to use Am pentatonic, but adding the notes G&sharp; and B
-   from the E7 chord to the scale.
-
-Note that playing the changes over E7 is much different than playing over Em7!
-One half step makes a huge difference.
+2. Repeat the exercise by staying on Am pentatonic, but "extending the handle"
+   over Dm by playing F. (Note that F can be found in other locations, too!)
 
 ## Pass criteria
 
 You can never really "master" this exercise. Try to stick with it for at least
 an hour or more, but come back to it periodically as you gain more experience.
+

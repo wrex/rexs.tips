@@ -6,7 +6,7 @@ type: "docs"
 weight: 9999
 description: "What and how to practice"
 author: "Rex Walters"
-simple_list: true
+simple_list: false
 resources:
   - src: "focus-list.jpg"
     title: "Sample focus list"
@@ -21,7 +21,7 @@ resources:
 **Rule 3:** &nbsp;&nbsp;&nbsp;Never work on more than 5 things at a time.
 
 {{% alert color="warning" title="Printable listing" %}}
-You may want to print out this [compact listing]({{< ref "guitar/compact-test-listing" >}}) 
+You may want to print out this [compact listing]({{< ref "guitar/tests/compact-test-listing" >}}) 
 of all the proficiency tests on this site and add it to the back of your journal. 
 {{% /alert %}}
 
@@ -167,7 +167,7 @@ Note that the app will **not** replace the manual process described above, it
 will simply make the process a little easier.
 
 {{% alert color="warning" title="Printable listing" %}}
-You may want to print out this [compact listing]({{< ref "guitar/compact-test-listing" >}}) 
+You may want to print out this [compact listing]({{< ref "guitar/tests/compact-test-listing" >}}) 
 of all proficiency tests, and add it to the back of your journal. 
 {{% /alert %}}
 

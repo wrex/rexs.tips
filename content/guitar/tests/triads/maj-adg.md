@@ -9,6 +9,7 @@ tutorial: "/guitar/fundamentals/harmony/triads/major"
 type: "tests"
 tdgtype: "training"
 weight: 30
+toc_hide: true
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

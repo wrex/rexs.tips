@@ -9,6 +9,7 @@ tutorial: "guitar/Fundamentals/harmony/triads/minor"
 type: "tests"
 tdgtype: "training"
 weight: 100
+toc_hide: true
 ---
 
 {{% tdgtutorial %}}
