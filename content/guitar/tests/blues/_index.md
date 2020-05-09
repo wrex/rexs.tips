@@ -28,9 +28,8 @@ Here, however, are a few **basic** blues fundamentals I think anyone should
 master before they can even begin mastering the form:
 
 1. {{< tdgref "blues/basics/simple-dom7" >}}
-2. {{< tdgref "blues/pan-connection-drills" >}}
-3. {{< tdgref "blues/minor-penta/min-blues" >}}
-4. {{< tdgref "blues/minor-penta/maj-blues" >}}
+2. {{< tdgref "min-penta/pans/pan-connection-drills" >}}
+3. {{< tdgref "min-penta/pans/min-blues" >}}
 
 
 ## Subtests

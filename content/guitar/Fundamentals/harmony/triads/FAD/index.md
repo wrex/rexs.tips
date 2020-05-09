@@ -41,11 +41,10 @@ An *arpeggio* is just a "broken chord". The individual notes in an arpeggio are 
 
 I've given each of these three shapes a name: A shape, F shape, and D shape. The names are just so I have something to refer to in the documentation for this course, I try *not* to think about shape names when playing!
 
-The following exercise will help you become intimately familiar with these  major arpeggio shapes and how they interconnect.
+The following exercise will help you become intimately familiar with these
+major arpeggio shapes and how they interconnect.
 
-{{< tdgalert "triads/major-arpeggios" >}}
-The proficiency test for major arpeggios.
-{{< /tdgalert >}}
+TODO add major TDG test
 
 ## CAGED
 

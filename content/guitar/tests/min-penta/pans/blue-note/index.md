@@ -23,7 +23,7 @@ TODO
 
 ## Procedure
 
-Repeat {{< tdgref "blues/minor-penta/min-blues" >}} but this time use the entire
+Repeat {{< tdgref "min-penta/pans/min-blues" >}} but this time use the entire
 six note blues scale, including the &flat;5 blue note (the middle of the
 "handle").
 

@@ -64,7 +64,7 @@ The sound of each note depends on *context*. In particular, the notes of the
 minor pentatonic scale sound different over a minor i chord than they do over a
 major I chord. Not better or worse, just different.
 
-{{< tdgalert "blues/one-note" >}}
+{{< tdgalert "min-penta/pans/pan-solos" >}}
 Learn the sound of each pentatonic note in different contexts with this drill.
 {{< /tdgalert >}}
 

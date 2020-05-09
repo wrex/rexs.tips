@@ -72,7 +72,7 @@ and picking the &flat;5 on your way to P4.
 
 Use it between other notes, too, not just the P4 and P5.
 
-{{< tdgalert "blues/minor-penta/blue-note" >}}
+{{< tdgalert "min-penta/pans/blue-note" >}}
 Spend some time with this one. It shouldn't be a hardship.
 {{< /tdgalert >}}
 

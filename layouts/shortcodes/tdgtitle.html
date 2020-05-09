@@ -6,6 +6,9 @@
 {{/* */}}
 {{/* now canonicalize by pre-pending "guitar/tests/" */}}
 {{- $path := printf "guitar/tests/%s" $path -}}
-{{- $page := .Site.GetPage ($path) -}}
-{{- $title := $page.Title -}}
+{{- with .Site.GetPage $path -}}
+{{- $title := .Title -}}
 {{ $title }}
+{{- else -}}
+{{- errorf "No tdg test at %q" $path -}}
+{{- end -}}

@@ -77,7 +77,7 @@ down in your journal! Remember it for next time.
 Once you've connected the upper and lower pairs, use the following exercise to
 practice playing with all three octaves:
 
-{{< tdgalert "blues/pan-connection-drills" >}}
+{{< tdgalert "min-penta/pans/pan-connection-drills" >}}
 This proficiency test provides some mechanical drills to help you cement the
 locations for all these pitches into your brain.
 <br><br>
@@ -92,7 +92,7 @@ Remember: you play what you practice. Try to make it musical.
 
 ## The sound of each note
 
-Now take a moment to repeat {{< tdgref "blues/one-note" >}} using all three
+Now take a moment to repeat {{< tdgref "min-penta/pans/pan-solos" >}} using all three
 octaves. _Slowly_ play some lines (short sequences of two to seven or so notes
 from the Am pentatonic scale) over a single chord vamp (Am, or Am7). You'll
 probably want to end the majority of your lines on the note A, but experiment by
@@ -194,7 +194,7 @@ to bend or curl notes. I find it easiest if most of the scale notes work "out of
 the box," without adding any bends or curls.
 
 So first get comfortable playing over just the i chord with {{< tdgref
-"blues/one-note" >}}.
+"min-penta/pans/pan-solos" >}}.
 
 When you are ready, proceed to the following exercises, but take your time.
 
@@ -209,7 +209,7 @@ until you can't stand it any longer, and only then move to the next exercise.
 When you're ready, the first chord progression to explore is the i to the iv,
 and iv to i in a minor blues:
 
-{{< tdgalert "blues/minor-penta/min-i-iv" />}}
+{{< tdgalert "min-penta/pans/min-i-iv" />}}
 
 After a while, it should be obvious that the root note always sounds "best"
 over each chord (or at least "most resolved").
@@ -293,18 +293,18 @@ Amazing how much difference a semitone can make, isn't it?
 Continue exploring the minor blues by examining the changes between the i and
 the v chord:
 
-{{< tdgalert "blues/minor-penta/min-i-v" />}}
+{{< tdgalert "min-penta/pans/min-i-v" />}}
 
 The last bar in a minor blues is typically a dom7 chord, which is a
 _major_ chord. You'll likely want to make different note choices when moving
 from or to the V7 than you would with the v:
 
-{{< tdgalert "blues/minor-penta/min-i-V7" />}}
+{{< tdgalert "min-penta/pans/min-i-V7" />}}
 
 Once you've explored the changes between each individual chord movement, you're
 ready to tackle soloing over an entire 12-bar minor blues:
 
-{{< tdgalert "blues/minor-penta/min-blues" />}}
+{{< tdgalert "min-penta/pans/min-blues" />}}
 
 ### Soloing over a major blues
 
