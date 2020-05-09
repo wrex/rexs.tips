@@ -1,14 +1,14 @@
 ---
-date: 2020-05-07T19:05:35-07:00
-title: "Minor Pentatonic: All boxes"
-linkTitle: "All boxes"
+date: 2020-05-09T14:52:50-07:00
+title: "Serpentine boxes 3/4/5"
+linkTitle: "Serpentine 3/4/5"
 author: "Rex Walters"
-description: ""
-tdgid: "D0006-020"
-tutorial: "guitar/blues/min-penta/box1"
+description: "Connecting boxes 3, 4, and 5"
+tdgid: "D0006-020-100"
+tutorial: "guitar/blues/min-penta/box4"
 type: "tests"
 tdgtype: "training"
-weight: 2
+weight: 040
 toc_hide: true
 resources:
   - src: "**.{png,jpg}"
@@ -28,26 +28,21 @@ probably only attempt one or two keys the first few times you practice this
 exercise (I recommend starting with Am).
 
 1. Play the three minor triad shapes on the top four strings. Visualize how the
-   box shapes sit within these three triad shapes.
+   box 1, 2, and 3 shapes sit within these three triad shapes.
 
-2. Start with the box shape that sits lowest on the neck (you can ignore open
-   strings for simplicity, and only play boxes that are fully fretted). For
-   example, if you are practicing in the key of F, you'd start with box 1 at the
-   first fret.
+2. First, play with pentatonic notes only:
 
-3. First, play with pentatonic notes only:
-
-  * Play the connected shapes in a serpentine manner: ascend from the lowest note
-   of first box to the highest, then descend through the next box, then ascend, etc.
+  * Play the connected shapes in a serpentine manner: ascend from the lowest
+    note of box 3 to the highest note in box 3, then descend through box 4, and
+    finally ascend through box 5. 
    
    * You can either "bounce back" from this point, or continue for several
      iterations before reversing direction. Be sure to practice _both_
      directions (ascending and descending) of every box shape, however.
 
-4. Repeat step 3, but this time add the blue note.
+3. Repeat step 2, but this time add the blue note.
 
 ## Pass criteria
 
 You can play the exercise confidently in all keys at roughly 120 BPM (quarter notes).
 
-## Subtests

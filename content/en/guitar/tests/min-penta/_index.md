@@ -19,10 +19,13 @@ resources:
 
 ## Demonstration
 
+TODO
+
 ## Procedure
 
-## Pass criteria
+To prove you've mastered the minor pentatonic scale:
 
-## Extra credit
+1. Perform {{< tdgref "min-penta/boxes" >}}
+2. TODO
 
 ## Subtests

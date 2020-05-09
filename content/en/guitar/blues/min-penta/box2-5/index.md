@@ -3,7 +3,7 @@ date: 2020-05-09T12:56:40-07:00
 title: "Boxes 2 & 5"
 linkTitle: "Box 2&5"
 author: "Rex Walters"
-description: ""
+description: "Exploring the first three minor pentatonic \"boxes\""
 type: "docs"
 weight: 50
 resources:
@@ -39,7 +39,7 @@ that connects to box 1:
 {{< figproc "fifth" "Resize" "800x" >}}{{< /figproc >}}
 
 {{< tdgalert "min-penta/boxes/box5" >}}
-Proficiency for box 5 in isolation. Note how this shape sits below the box 1 shape.
+Proficiency test for box 5 in isolation. Note how this shape sits below the box 1 shape.
 {{< /tdgalert >}}
 
 In order to gain proficiency on the neck, it's important to program your fingers
