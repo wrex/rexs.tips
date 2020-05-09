@@ -13,7 +13,7 @@ enableGitInfo = true
 #DisqusShortname = "rexstips"
 
 # Language settings
-contentDir = "content/"
+contentDir = "content/en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 # Useful when translating.
