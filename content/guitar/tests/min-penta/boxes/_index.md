@@ -1,6 +1,6 @@
 ---
 date: 2020-05-07T19:05:35-07:00
-title: "Minor Pentatonic: Box 1"
+title: "Minor Pentatonic: All boxes"
 linkTitle: "Box 1"
 author: "Rex Walters"
 description: ""
@@ -18,6 +18,8 @@ resources:
 {{% tdgtutorial %}}
 
 ## Demonstration
+
+TODO
 
 ## Procedure
 

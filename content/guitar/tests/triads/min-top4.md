@@ -16,7 +16,7 @@ toc_hide: true
 
 ## Demonstration
 
-TODO
+{{< youtube "kcugYI4JjXQ" >}}
 
 ## Procedure
 
@@ -38,12 +38,15 @@ The test should be performed with quarter notes at 60BPM.
 
 2. Repeat with all seven notes on the DGB string set.
 
-3. With your left hand positioned at the second fret, play Bm on the top four
-   strings (the notes F&sharp;, B, D, and F&sharp;). Now play the closest Em
-   shape on the next beat, then Am, Dm, etc. through the cycle of fourths. Use
-   four note minor chord shapes on the top four strings throughout the exercise.
-   It's easiest if you visualize the root note moving across the strings (your
-   hand will move up the neck as you progress).
+3. Now play *four* note "triad" shapes as shown in the video. All the Bm, then all
+   the Em, etc.
+
+4. Finally, with your left hand positioned at the second fret, play Bm on the
+   top four strings (the notes F&sharp;, B, D, and F&sharp;). Now play the
+   closest Em shape on the next beat, then Am, Dm, etc. through the cycle of
+   fourths. Use four note minor chord shapes on the top four strings throughout
+   the exercise. It's easiest if you visualize the root note moving across the
+   strings (your hand will move up the neck as you progress).
 
 
 ## Pass criteria
