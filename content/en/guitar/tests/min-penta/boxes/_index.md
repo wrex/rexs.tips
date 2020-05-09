@@ -5,7 +5,7 @@ linkTitle: "Box 1"
 author: "Rex Walters"
 description: ""
 tdgid: "D0006-020"
-tutorial: ""
+tutorial: "guitar/blues/min-penta/box1"
 type: "tests"
 tdgtype: "training"
 weight: 2

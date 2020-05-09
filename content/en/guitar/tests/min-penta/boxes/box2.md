@@ -5,7 +5,7 @@ linkTitle: "Box 2"
 author: "Rex Walters"
 description: ""
 tdgid: "D0006-020-020"
-tutorial: ""
+tutorial: "guitar/blues/min-penta/box2-5"
 type: "tests"
 tdgtype: "training"
 weight: 20
@@ -30,9 +30,9 @@ For each root note:
 
 1. Play the minor chord shape on the top four strings.
 
-2. Play all three root notes in the shape.
+2. Play both root notes in the shape.
 
-3. Practice going straight up and down the [box 1]({{< ref
+3. Practice going straight up and down the [box 2]({{< ref
    "guitar/blues/min-penta/box2-5#second" >}}) shape. Start and end on the root
    note. The first time through, play just the pentatonic notes. Then include
    the &flat;5.

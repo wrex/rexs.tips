@@ -1,14 +1,14 @@
 ---
 date: 2020-05-07T19:05:35-07:00
-title: "Minor Pentatonic: Box 1"
-linkTitle: "Box 1"
+title: "Minor Pentatonic: Box 5"
+linkTitle: "Box 2"
 author: "Rex Walters"
 description: ""
-tdgid: "D0006-020-010"
-tutorial: "guitar/blues/min-penta/box1"
+tdgid: "D0006-020-030"
+tutorial: "guitar/blues/min-penta/box2-5"
 type: "tests"
 tdgtype: "training"
-weight: 2
+weight: 30
 toc_hide: true
 resources:
   - src: "**.{png,jpg}"
@@ -28,12 +28,13 @@ for all seven natural notes, progressing in fourths as usual.
 
 For each root note:
 
-1. Play the minor chord shape on the top four strings.
+1. This scale shape fits between two triad shapes. Play both minor chords on the
+   top four strings.
 
 2. Play all three root notes in the shape.
 
-3. Practice going straight up and down the [box 1]({{< ref
-   "guitar/blues/min-penta/box1#root" >}}) shape. Start and end on the root
+3. Practice going straight up and down the [box 5]({{< ref
+   "guitar/blues/min-penta/box2-5#fifth" >}}) shape. Start and end on a root
    note. The first time through, play just the pentatonic notes. Then include
    the &flat;5.
    
