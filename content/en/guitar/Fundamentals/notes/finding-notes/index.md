@@ -92,16 +92,21 @@ to take take weeks at best.
 First practice with  all of the individual TDG subtests linked from this
 page. When you're ready, test yourself with the "master" proficiency test {{< tdgref "learn-neck" >}}.
 
-Follow this process to get to the end goal:
+We will follow this sequence to get to the end goal:
 
 1. Memorize the cycle of fourths.
 2. Learn the open strings and notes at the 5th and 12th frets.
 3. Learn the notes on the lowest (E) string.
 4. Learn some octave shapes to find notes.
 5. Practice on one string at a time.
-6. Practice {{< tdgref "learn-neck" >}} at the beginning of each practice session until you have it nailed. Repeat step 5 for any strings that give you trouble.
+6. Practice {{< tdgref "learn-neck" >}} at the beginning of each practice
+   session until you have it nailed. Repeat step 5 for any strings that give you
+   trouble.
 
-Spend as much time as you need on each of these steps. The first few will only take a few minutes to master, but other steps may take days, weeks, or even months. Take your time. Thorough and confident beats quick and sketchy every day.
+Spend as much time as you need on each of these steps. The first few will only
+take a few minutes to master, but other steps may take days, weeks, or even
+months. Take your time. Thorough and confident beats quick and sketchy every
+day.
 
 ### The cycle of fourths
 
@@ -123,9 +128,13 @@ Now regress to middle school and remember the acronym for "greatest common facto
 
 Put them together and you've got most of the sequence: B E A D G C F.
 
-That's just seven notes, though. The complete cycle of fourths includes flatted versions of the first five notes: B E A D G C F B&flat; E&flat; A&flat; D&flat; G&flat;, in that order, and then continues around to B again.
+That's just seven notes, though. The complete cycle of fourths includes flatted
+versions of the first five notes: B E A D G C F B&flat; E&flat; A&flat; D&flat;
+G&flat;, in that order. It then continues back around to B again.
 
-I'll cover this later when we discuss the [cycle of fourths](#TODO) in detail, but it's good to visualize this sequence as the numbers on a clock face. Start with the B at the 7 o\'clock position, and the C at the top. Like this:
+I'll cover this later when we discuss the [cycle of fourths](#TODO) in detail,
+but it's good to visualize this sequence as the numbers on a clock face. Start
+with the B at the 7 o\'clock position, and the C at the top. Like this:
 
 {{< figproc "fourths-clock" Resize "400x" >}}{{< /figproc >}}
 
