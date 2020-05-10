@@ -1,7 +1,7 @@
 ---
 date: 2020-05-09T14:52:50-07:00
-title: "Serpentine boxes 3/4/5"
-linkTitle: "Serpentine 3/4/5"
+title: "Major boxes 3/4/5"
+linkTitle: "Major 3/4/5"
 author: "Rex Walters"
 description: "Connecting boxes 3, 4, and 5"
 tdgid: "D0006-030-100"

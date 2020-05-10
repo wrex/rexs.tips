@@ -1,6 +1,6 @@
 ---
 date: 2020-05-07T19:05:35-07:00
-title: "wMajor Pentatonic: All boxes"
+title: "Major Pentatonic: All boxes"
 linkTitle: "Major pentationic"
 author: "Rex Walters"
 description: ""

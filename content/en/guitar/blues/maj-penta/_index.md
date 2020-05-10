@@ -74,7 +74,7 @@ of a &flat;5!
 Many books will tell you that you can form a major pentatonic "scale" (really a
 box-shaped fragment) by moving a minor pentatonic "box" three frets lower.
 
-In other words, to play A _major_ pentatonic, we couldd take the box 1 shape from
+In other words, to play A _major_ pentatonic, we could take the box 1 shape from
 figure 1 and move it down three frets. Alternately, to play C _minor_
 pentatonic, we could move it _up_ three frets.
 

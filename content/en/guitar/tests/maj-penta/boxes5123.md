@@ -1,7 +1,7 @@
 ---
 date: 2020-05-09T14:52:50-07:00
-title: "Serpentine boxes 5/1/2/3"
-linkTitle: "Serpentine 5/1/2/3"
+title: "Major boxes 5/1/2/3"
+linkTitle: "Major 5/1/2/3"
 author: "Rex Walters"
 description: "Connecting boxes 5, 1, 2, and 3"
 tdgid: "D0006-030-070"
@@ -25,7 +25,8 @@ TODO
 
 This exercise should be performed rubato in every natural key. You should
 probably only attempt one or two keys the first few times you practice this
-exercise (I recommend starting with Am).
+exercise (I recommend starting with Am). 
+
 
 1. Play the three minor triad shapes on the top four strings. Visualize how the
    box 5, 1, 2, and 3 shapes sit within these three triad shapes.
@@ -45,4 +46,3 @@ exercise (I recommend starting with Am).
 ## Pass criteria
 
 You can play the exercise confidently in all keys at roughly 120 BPM (quarter notes).
-

@@ -1,6 +1,6 @@
 ---
 date: 2020-05-07T19:05:35-07:00
-title: "Minor Pentatonic: Box 3"
+title: "Major Pentatonic: Box 3"
 linkTitle: "Box 3"
 author: "Rex Walters"
 description: ""
