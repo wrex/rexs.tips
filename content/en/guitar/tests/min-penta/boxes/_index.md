@@ -19,7 +19,7 @@ resources:
 
 ## Demonstration
 
-TODO
+{{< youtube "o1XkFdY2hiw" >}}
 
 ## Procedure
 

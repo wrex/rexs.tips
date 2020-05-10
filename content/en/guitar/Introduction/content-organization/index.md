@@ -112,14 +112,16 @@ The diatonic chords are thus written as follows: I, ii, iii, IV, V, vi, vii&ordm
 
 To prevent confusion with chords or notes, keys will usually be written in angled quotes:
 
-> The key of &laquo;C&raquo; is also called "C Major" but is different than the chord Cmaj or the note C.
+> The key of &laquo;C&raquo; is also called "C Major" but is different than the chord CMaj or the note C.
 
 
 ### Scale degrees
 
 Whenever it's necessary to refer to scale degrees I will prefix with a small circumflex preceding the number: &circ;5 is the fifth scale degree.
 
-(Scale degrees are traditionally written with a caret or hat on top of the number, but creating those glyphs on this site is technically challenging.)
+(Scale degrees are traditionally written with a caret or hat on top of the
+number, but adding those glyphs to this site is more of a hassle than I'm
+willing to undertake.)
 
 
 ---

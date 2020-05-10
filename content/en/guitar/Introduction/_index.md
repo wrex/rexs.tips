@@ -7,15 +7,24 @@ description: >
   Why learn guitar from someone barely more than a novice himself?
 ---
 
-This site attempts to teach anyone how to play guitar. The author has a decent grasp of fundamental music theory, can play well enough to occasionally make somewhat musical sounding noises, and thoroughly enjoys teaching. But I'm not going to be signing any recording contracts any time soon.
+This site attempts to teach anyone how to play guitar. The author has a decent
+grasp of fundamental music theory, can play well enough to occasionally make
+vaguely musical noises, and thoroughly enjoys teaching in general. But I'm not
+going to be signing any recording contracts any time soon.
 
-So why do I bother with this content?
+So why bother publishing this content?
 
-I'm convinced that beginners sometimes make better teachers than experts. Experts often *forget* what it was like to be completely lost. They sometimes assume context and skills that students simply don't have.
+I'm convinced that beginners sometimes make better teachers than experts.
+Experts often *forget* what it was like to be completely lost. They sometimes
+assume context and skills that students simply don't have.
 
-Many expert players simply aren't good teachers. I've heard great players trying to teach get frustrated and say something along the lines of: "Just freaking *play*, man!".
+Many expert players simply don't know _how_ to teach. I've heard fantastic players (but
+poor teachers) get frustrated and say things like: "Just freaking *play*, man!".
+Teacher and student both become frustrated.
 
-That said, there are *many* truly phenomenal guitar instruction sites already out there on the web (some free and some paid).
+That said, there are *countless* truly phenomenal guitar instruction sites already
+out there on the web (some free and some paid). There is so much amazing guitar content
+on the intertubes today that I feel a bit embarassed adding to the fray.
 
 I can heartily recommend any of the following:
 
@@ -49,7 +58,11 @@ You will probably be better served by one of the sites I've listed above.
 
 Here are a few reasons why you might want to stick around, though:
 
-* **This site is written by an engineer for engineers**. Tech nerds represent! I know how we think, and how deeply we need to understand *"why".* I also know how easy it is for us to get distracted and miss the important stuff. Almost all of this content was written expressly for one of my closest friends (and currently the only user of the site!).
+* **This site is written by an engineer for engineers**. Tech nerds represent! I
+  know how we think, and how deeply we need to understand *"why."* I also know
+  how easy it is for us to get distracted and miss the important stuff. Almost
+  all of this content was written expressly for one of my closest friends (and
+  currently the only user of the site!).
 
 * **It's written by a beginner for beginners**. Though I've been struggling with the instrument for decades, at best I'm an intermediate player. I still have epiphanies every few days. I try to get recent breakthroughs in understanding and tricks for practicing technique onto the site while they are still fresh in my mind. Experts often *forget* what triggered their own breakthroughs.
 
