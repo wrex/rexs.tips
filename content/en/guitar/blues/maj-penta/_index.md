@@ -100,7 +100,7 @@ While our fingers are already familiar with the box shapes, we
 still need to program our ears and brain to start "seeing" them
 in a major context rather than minor.
 
-The first step is to "see" and play the _Major_ chord shapes hidden within (and
-between) the boxes instead of the minor chords. The "A/G shaped" triad
-highlighted on the top four strings in [figure 2](#C-pentatonic-box1) is now a
-major chord, not minor.
+{{< tdgalert "maj-penta/majmin" >}}
+Use this exercise to "see" and hear the _major_ sounds hidden in the same shapes
+we've been playing.
+{{< /tdgalert >}}
