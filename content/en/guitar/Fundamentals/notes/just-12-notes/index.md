@@ -15,9 +15,14 @@ To play guitar well, to play with *intent* rather than just memorizing patterns,
 
 The goal is to "hear" any given sound in your head and intuitively know how to reproduce it on your instrument, without conscious effort. This takes years of practice, but it starts by learning where different notes are on the fretboard.
 
-This really should be one of the very first thing you learn on the guitar (along with some simple chord shapes and strumming patterns), but it is a surprisingly steep first step. It's *harder* on stringed instruments like the guitar because *the same note can be found in multiple locations along the neck*.
+This really should be one of the very first things you learn on the guitar
+(along with some simple chord shapes and strumming patterns), but it is a
+surprisingly steep first step. It's *harder* on stringed instruments like the
+guitar because *the same note can be found in multiple locations along the
+neck*.
 
-Before you can learn how to play the notes, though, you need to learn their names and how they work.
+Before you learn how to play the notes, though, you need to learn their names
+and how they work.
 
 The first thing to realize is that **there are only twelve unique notes in all of of western music**. Not just hillbilly, but classical music, rock, and jazz, too.
 
@@ -47,9 +52,13 @@ As we will learn when we start studying chords and harmony, C Major is formed wh
 
 Seriously, even small children learning piano can soon play a C major chord several different ways all over the keyboard. Literally millions of guitarists, though, never learn any way other than the diagram above, which is sad.
 
-Shapes are unavoidable. They aren't all bad. You can't learn guitar without memorizing shapes.
+Shapes are unavoidable, though, and they aren't all bad. You can't learn guitar
+without memorizing shapes.
 
-Shapes make it much, much easier for guitarists to play in different keys. This is far more difficult on other instruments. A guitarist is *much* more likely to play in a horn player's natural key (like F or Bb) than for a horn player to play in E, A, D or G (convenient keys for the guitar).
+Shapes make it much, much easier for guitarists to play in different keys, for
+example. This is far more difficult on other instruments. A guitarist is *much*
+more likely to play in a horn player's natural key (like F or Bb) than for a
+horn player to play in E, A, D or G (convenient keys for the guitar).
 
 ## The musical alphabet
 
@@ -77,12 +86,13 @@ Also, sometimes you want to alter a chord for different textures. "The Hendrix c
 Why isn't there a note called C&flat; or E&flat;?
 : See [diatonic scales](#diatonic-scales) below. No matter which note you start on, you never need a note between B/C or between E/F.
 
-What does diatonic mean?
-: Scales comprised of two different types of invervals. Specifically intervals of a *whole tone* and a *semitone*. Diatonic literally means "two tones."
+What does diatonic mean? 
+: Scales are comprised of two different types of
+invervals. Specifically, we call the intervals *whole tone* and a *semitone*. Diatonic
+literally means "two tones" (one whole, one half).
 
 On piano, why does the "white key" major scale start with the note C and not A?
 : The over-simplied answer is that early music was mostly minor. The notes A, B, C, D, E, F, and G can either be considered the A minor scale or the C Major scale.
-
 
 ## Diatonic scales
 
@@ -102,17 +112,24 @@ Today, a *tone* is exactly equivalent to two *semitones*.
 
 On a guitar, **playing one fret higher produces a note exactly one *semitone* higher**. Play two frets higher and you produce a note a whole *tone* higher.
 
-As we stated earlier, the whole-step / half-step interval between each of the notes in the original scale was *fixed*: there was a whole tone between every pair of notes except between B and C and between E and F which were separated by a semitone.
+As we stated earlier, the sequence of whole-step / half-step intervals between
+each of the notes was *fixed*: there was a whole tone between every pair of
+notes except between B and C and between E and F which were separated by a
+semitone.
 
 Starting on C, there is a whole step to D, another whole step to E, a half step to F, whole steps from G to B, then another half step to the next higher C where the sequence begins again.
 
-We call the characteristic sound or feel of this specific ordering of tone intervals (`W W h W W W h`) ***the major scale***.
+We call the characteristic sound or feel of this specific ordering of tone
+intervals (`W W h W W W h`) ***the major scale***.
 
 Literally all of western music derives from the major scale. It should have been promoted to General by now. Memorize that pattern: `W W h W W W h`.
 
 ### Modes
 
-If we start on A rather than C, though, the intervals become: `W h W W h W W`. We call the character or *feel* of this sequence of intervals *minor* or *Aeolian mode*. We can create a total seven different interval sequences by starting on different notes.
+If we start on A rather than C, though, the intervals become: `W h W W h W W`.
+We call the character or *feel* of this sequence of intervals *minor* or
+*Aeolian mode*. We can create a total of seven different interval sequences by
+starting on different notes.
 
 We call these different sequences of whole-tone and half-tone intervals *modes*. The first and most important *mode* (the Major scale) is obtained by starting on C. It's also called *Ionian mode*.
 
@@ -122,7 +139,11 @@ Starting with different notes results in seven different [modes](#the-modes) &md
 
 It turns out that just by emphasizing one specfice note (the "key") in the collection you can make music with very different "feels" even though you're still using exactly the same notes.
 
-You emphasize a note by playing it more often, ending *phrases* on it, letting it continue to ring out while you play other, shorter notes, etc. Technically, these are all forms of "implied harmony". Modes are a *harmonic* concept, but they are why we have twelve notes today instead of just seven.
+You emphasize a note by playing it more often, ending _phrases_ on it, and, most
+importantly, **letting it continue to ring out under the other notes you play**
+(this is called [harmony]({{< ref "guitar/Fundamentals/harmony" >}})).
+Technically, these are all forms of "implied harmony". Modes are a *harmonic*
+concept, but they are why we have twelve notes today instead of just seven.
 
 Emphasize the note C, and the notes `A B C D E F G` sound "Ionian". Emphasize D and it sounds "Dorian". And so on.
 
@@ -227,7 +248,7 @@ You'll eventually become accustomed to saying and parsing sentences like: "The &
 
 The C Major scale, for example, comprises the seven notes C, D, E, F, G, A, and B in that order. C is the root note and 1st scale degree. D is the 2nd scale degree, E the 3rd, etc.
 
-If someone says "play the flat &flat;5" and you are playing in C Major, they are telling you to play the *note* G&flat; ("the 5" or the 5th scale degree, flattened by one semitone).
+If someone says "play the &flat;5" and you are playing in C Major, they are telling you to play the *note* G&flat; ("the 5" or the 5th scale degree, flattened by one semitone).
 
 This is only for the key of C Major, though! The note "G" is only the 5th scale degree in the key of C. If we were in the key of A minor, we would call G the minor seventh (or &flat;7 sometimes written as m7) scale degree. The scale degree *depends on the key*.
 
@@ -241,7 +262,10 @@ Unfortunately, interval names confuse people for several reasons:
 
 2. Confusing things even further, guitarists often move notes into different octaves to simplify fingering: technically, a note moved to a lower octave might become a minor 7th, but it's common to still think of it as a Major 2nd.
 
-3. Actually, even that's a lie. When we start discussing harmony, specifically extended chords, the extended notes are in a higher octave and called 9ths, 11ths, and 13s instead of 2nds, 4ths, and 6ths. That note in point 2 is more commonly called the "9th" rather than the "2nd".
+3. Actually, even that's a lie. When we start discussing harmony, specifically
+   extended chords, the extended notes are in a higher octave and called 9ths,
+   11ths, and 13ths instead of 2nds, 4ths, and 6ths. That note in point 2 is more
+   commonly called the "9th" rather than the "2nd".
 
 4. Some intervals have *multiple* names. Just as F&sharp; is also known as G&flat;, the interval from C to the note F&sharp;/G&flat;, for example, can be called an "augmented 4th" or a "diminished 5th" depending on context. To confuse you even further, that specific interval is also known as a "tritone" and is nicknamed "the blue note" as well as "the devils interval" (*diabolus in musica*).
 

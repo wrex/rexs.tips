@@ -31,9 +31,24 @@ You'll eventually be able to find and name every single note in this diagram *ef
 
 I'm not going to kid you, it's *hard* to learn all those note locations, especially to the point where you can find notes without thinking.
 
-It will take weeks or months of real practice, but *everything* gets easier once you've learned the note locations.
+It will take weeks or months of real practice, but *everything* gets easier once
+you've learned the note locations.
 
-Don't feel like it's all or nothing, either. Every single note you learn (truly **KNOW**) pays huge dividends. Even if you only **KNOW** a few notes (say those at the fifth fret) you'll find that that little bit of knowledge proves immense help when navigating around the neck. The more notes you know, the easier it becomes to learn more. Eventually, you'll have the entire fretboard licked. Trust me, you'll get there sooner than you think.
+{{< alert title="Warning" color="warning" >}}
+This is a very long page. Do not expect to work through all this in one
+session!
+
+Work through this content in order, from bottom to top. Use the sub-head
+navigation menu on the right to jump back to where you left off (the menu is
+under the "hamburger" icon if you're on a small screen). 
+{{< /alert >}}
+
+Don't feel like it's all or nothing, either. Every single note you learn (truly
+**KNOW**) pays huge dividends. Even if you only **KNOW** a few notes (say those
+at the fifth fret) you'll find that that little bit of knowledge proves immense
+help when navigating around the neck. The more notes you know, the easier it
+becomes to learn more. Eventually, you'll have the entire fretboard licked.
+Trust me, you'll get there sooner than you think.
 
 {{< alert color="warning" title="Remember to always tune up!" >}}
 **Always** tune your guitar at the beginning of **every** practice session. Even if you think you just tuned it and think there is no way it fell out of tune: **check the tuning**.
@@ -70,10 +85,12 @@ test.
 ## The Process
 
 Like anything with guitar, the way to make this tractable is to break it into
-small, ridiculously easy chunks, and keep practicing the chunks that give you
-trouble (and not repeat the ones you've already mastered!). Again, expect this
-to take take weeks at best. Expect to begin all of your practice sessions with
-some of the GTD tests on this page until you can pass {{< tdgref "learn-neck" >}}.
+small, ridiculously easy chunks. You keep practicing the chunks that give you
+trouble (and try not to repeat the ones you've already mastered!). Again, expect this
+to take take weeks at best. 
+
+First practice with  all of the individual TDG subtests linked from this
+page. When you're ready, test yourself with the "master" proficiency test {{< tdgref "learn-neck" >}}.
 
 Follow this process to get to the end goal:
 
