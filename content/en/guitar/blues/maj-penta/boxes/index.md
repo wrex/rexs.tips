@@ -48,8 +48,9 @@ exercises to get used to switching back and forth.
 
 Take your time working through all of these exercises. Just be methodical and
 track your progress. Trust the process and don't worry if it takes you several
-weeks or months to master everything. There is a tremendous amount of
-information here!
+weeks or months to master everything. 
+
+These are just a repeat of the process we used with minor pentatonic boxes:
 
 {{< tdgalert "maj-penta/box1" >}}{{< /tdgalert >}}
 {{< tdgalert "maj-penta/box2" >}}{{< /tdgalert >}}

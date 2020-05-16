@@ -23,7 +23,7 @@ the minor pentatonic scale works even over _major_ chord progressions (with
 care) but the opposite is definitely **not** true. Major scales generally sound
 terrible over minor chords.
 
-The huge majority of songs are written in _major_ keys, however, so it's 
+The huge majority of songs are written in _major_ keys, however, so it's
 time we learned how to play major pentatonic scales.
 
 The good news is the box shapes are actually identical (just shifted down three
