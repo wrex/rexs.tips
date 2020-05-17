@@ -3,7 +3,7 @@ date: 2020-04-11T10:53:35-07:00
 title: "Along B"
 linkTitle: "Along B"
 type: "tests"
-tdgid: "D0001-080"
+tdgid: "RT1h"
 tdgtype: "training"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the B string"

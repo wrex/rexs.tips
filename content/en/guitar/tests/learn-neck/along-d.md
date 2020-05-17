@@ -3,7 +3,7 @@ date: 2020-04-11T10:53:21-07:00
 title: "Along D"
 linkTitle: "Along D"
 type: "tests"
-tdgid: "D0001-050"
+tdgid: "RT1e"
 tdgtype: "training"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every string along the D string"

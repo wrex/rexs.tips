@@ -2,7 +2,7 @@
 date: 2020-04-11T10:52:49-07:00
 title: "Fretboard note mastery"
 linkTitle: "Fretboard note mastery"
-tdgid: "D0001"
+tdgid: "RT1"
 type: "tests"
 tdgtype: "training"
 # This should be the first drill listed

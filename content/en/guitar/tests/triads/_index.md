@@ -3,7 +3,7 @@ date: 2020-04-11T12:06:55-07:00
 title: "Triads"
 linkTitle: "Triads"
 type: "tests"
-tdgid: "D0004"
+tdgid: "RT4"
 tdgtype: "training"
 tutorial: "guitar/Fundamentals/harmony/triads"
 description: "Exercises for learning diatonic triads"

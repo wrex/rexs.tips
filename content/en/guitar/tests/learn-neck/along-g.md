@@ -3,7 +3,7 @@ date: 2020-04-11T10:53:30-07:00
 title: "Along G"
 linkTitle: "Along G"
 type: "tests"
-tdgid: "D0001-070"
+tdgid: "RT1g"
 tdgtype: "training"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Find every note along the G string"
