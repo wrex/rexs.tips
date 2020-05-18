@@ -8,6 +8,14 @@ menu:
     weight: 20
 ---
 
+TESTING TESTING
+
+{{% padtdgid "RT6" %}}
+
+{{% padtdgid "RT6a" %}}
+
+{{% padtdgid "RT6a11b9" %}}
+
 ### Target Audience
 
 This course is for beginner and intermediate guitar students of a particular type: technical people with an engineer's practical, but inquisitive nature.
