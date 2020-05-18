@@ -1,13 +1,8 @@
 {{- $orig := .Get 0 -}}
 {{- $csv := replaceRE `^RT(\d+)(\D*)(\d*)(\D*)(\d*)` "$1,$2,$3,$4,$5" $orig -}}
 {{- $split := split $csv "," -}}
-{{- $p := printf "%03v" $split -}}
-{{- $delimit := delimit $p "" -}}
-```
-orig: {{ $orig }}
-csv: {{ $csv }}
-split: {{ $split }}
-split length: {{ len $split }}
-p: {{ $p }}
-delimit: {{ $delimit }}
-```
+{{- $s := slice "" }}
+{{- range $split -}}
+    {{- $s = $s | append (printf "%03v" .) -}}
+{{- end -}}
+{{ delimit $s "" }}
