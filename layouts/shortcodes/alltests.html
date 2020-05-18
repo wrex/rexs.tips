@@ -1,13 +1,13 @@
 {{- range (where .Site.Pages ".Params.tdgid" "!=" nil).ByParam "tdgid" -}}
-{{- $orig := .Params.tdgid -}}
-{{- $csv := replaceRE `^RT(\d+)(\D*)(\d*)(\D*)(\d*)` "$1,$2,$3,$4,$5" $orig -}}
-{{- $split := split $csv "," -}}
-{{- $s := slice "" }}
-{{- range $split -}}
-{{- $s = $s | append (printf "%03v" .) -}}
-{{- end -}}
-{{- $finalID := delimit $s "" -}}
-{{ $.Scratch.SetInMap "paddedPages" (string $finalID) .  }}
+  {{- $orig := .Params.tdgid -}}
+  {{- $csv := replaceRE `^RT(\d+)(\D*)(\d*)(\D*)(\d*)` "$1,$2,$3,$4,$5" $orig -}}
+  {{- $split := split $csv "," -}}
+  {{- $s := slice "" }}
+  {{- range $split -}}
+    {{- $s = $s | append (printf "%03v" .) -}}
+  {{- end -}}
+  {{- $finalID := delimit $s "" -}}
+  {{ $.Scratch.SetInMap "paddedPages" (string $finalID) .  }}
 {{- end -}}
 {{- .Scratch.Set "i" 1 -}}
 <section class="justify-content-center">
