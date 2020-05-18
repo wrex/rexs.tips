@@ -1,13 +1,17 @@
+{{/* Build a map of paddedID -> Page */}}
 {{- range (where .Site.Pages ".Params.tdgid" "!=" nil).ByParam "tdgid" -}}
   {{- $orig := .Params.tdgid -}}
+  {{/* RT6a11b9 -> "6,a,11,b,9" */}}
   {{- $csv := replaceRE `^RT(\d+)(\D*)(\d*)(\D*)(\d*)` "$1,$2,$3,$4,$5" $orig -}}
+  {{/* now split into an array: [6 a 11 b 9] */}}
   {{- $split := split $csv "," -}}
   {{- $s := slice "" }}
+  {{/* now build a string up from padded fields -> "00600a01100b009" */}}
   {{- range $split -}}
     {{- $s = $s | append (printf "%03v" .) -}}
   {{- end -}}
-  {{- $finalID := delimit $s "" -}}
-  {{ $.Scratch.SetInMap "paddedPages" (string $finalID) .  }}
+  {{- $paddedID := delimit $s "" -}}
+  {{- $.Scratch.SetInMap "paddedPages" (string $paddedID) .  -}}
 {{- end -}}
 {{- .Scratch.Set "i" 1 -}}
 <section class="justify-content-center">
