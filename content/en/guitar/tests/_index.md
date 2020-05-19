@@ -12,68 +12,60 @@ resources:
     title: "Sample focus list"
 ---
 
+{{% pageinfo color="primary" %}}
+Fair warning: the system described here is still quite new. It's still in flux and
+somewhat aspirational (as of May, 2020). I've **not** yet used it long enough to
+create real-world examples, and some rough edges are bound to remain. Your
+mileage may vary.
+{{% /pageinfo %}}
+
 ## Introduction
 
 This page documents my personal (and evolving) practice system.
 
-Don't let the length of this page make you think the system is at all complicated
-(I'm just being thorough). I've learned that I'll eventually give up on any
-system that isn't dirt simple.
+Don't let the length of this document fool you. The system isn't _at all_
+complicated.
+
+I've learned the hard way that I'll give up on any system that isn't dirt
+simple.
 
 My system mostly depends on just two things:
 
-1. A [library of individual exercises]({{< ref
-  "guitar/tests/compact-test-listing.md" >}}) stored on my computer (and
-  published to this site).
+1. A continually growing library of individual exercises stored on a computer
+   (mine is [published here]({{< ref "guitar/tests/compact-test-listing" >}})).
 
-2. A collection of hand-written index cards for reviewing and taking notes during
-  a practice session. The card collection includes:
+2. A collection of hand-written index cards for reviewing and taking notes
+   during a practice session. 
 
-    * One card with my `focus list` (the five or fewer exercises I'm currently
-      practicing)
-    * Several additional cards with notes from previous practice sessions (some sorted,
-      some unsorted)
-    * Several blank notes in the back for notes for this session.
+One note card in particular contains my `focus list` containing the five
+or fewer exercises I plan to focus on over the coming days or weeks.
 
-Personally, I **strongly** prefer a pen and paper for taking notes during practice.
-I want to avoid a computer keyboard if at all possible (far too much opportunity
-for distraction). But I frequently need to link to videos, audio files, neck diagrams,
-tablature/notation do document an individual exercise, so I maintain the
-`exercise library` with a computer.
+I've tried various apps to track my practice, but I've found I **strongly**
+prefer a pen and paper to take notes during practice. 
 
-I rarely refer to the online documentation except the first time I
-practice a particular exercise.
+For some reason, scribbling something with a pen seems far less intrusive and
+distracting than typing on my phone or on a computer. A pen requires far less of
+a [context switch](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
-During a practice session, I write all my notes by hand on index cards.
+I want to avoid a computer keyboard if at all possible _while practicing_, but
+my exercise _documentation_ must link to videos, audio files, neck diagrams,
+tablature/notation, _etc._
 
+My solution is to maintain an exercise library on my computer, but use hand-written notes
+on index cards while practicing. The notes refer back to exercises in the
+library.
+
+I rarely need to refer to the online documentation for a particular exercise
+after practicing it the first time.
+
+{{< alert color="info" >}}
 [Josh](mailto:josh@fretboardanatomy.com) over at [Fretboard
 Anatomy](https://fretboardanatomy.com) gave me most of the ideas that led to
 this system. In particular, many of the exercises documented here are slightly
 modified versions of drills that he taught me. He also turned me on to the
 [Zettelkasten](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 system of note-taking.
-
-## Exercise sessions
-
-I distinguish between a given day's _practice session_ (typically thirty to
-ninety minutes in my case) and individual _exercise-sessions_ within that are
-usually much shorter.
-
-In the real world, _everybody's_ "practice" sessions usually comprise a few short bursts
-of true, focused _practice_ interspersed with bits of noodling/playing, trying
-to find your blasted tuner, getting coffee, searching for something you saw online, etc.
-
-The system described here tracks individual, focused, "_exercise-sessions_"
-within a day's practice, not the total wall-clock time you spent in your
-practice area.
-
-Each exercise-session a short, focused burst of effort, typically five to twenty
-minutes long. You'll often work through more than one during a single day's
-practice.
-
-Don't feel bad about time spent noodling and goofing around, though. It's
-important to enjoy your practice time, and you'll _need_ recovery time between
-exercise-sessions.
+{{< /alert >}}
 
 ## The rules
 
@@ -83,125 +75,216 @@ exercise-sessions.
 
 **Rule 3:** Never work on more than 5 things at a time.
 
+#### Practice what you want
+
+At the risk of stating the obvious: if you hate to practice, then eventually you
+_won't_. Full stop.
+
+Practice should be at least somewhat enjoyable, but keep the following in mind:
+
+- If practice is too hard, you'll hate practicing. If it's too easy you won't
+  make progress. You must push yourself without becoming demotivated (finding
+  that balance point is tricky).
+
+- There is no point in practicing what you've already mastered _except_ for
+  "mindless" warm-up drills and technique exercises. Some days I only have
+  energy for "mindless" exercises.
+
+- I try to balance the six T's: training (general/mixed topics), timing, tunes
+  (repertoire), theory, technique, and tones (ear training). This isn't
+  necessary every session, but strive for balance over the long haul.
+
+- Remember that _you play what you practice._ The way you practice scales,
+  triads, etc. will show up in your playing eventually. If you only practice
+  scales by mechanically going up and down the scale linearly with a monotonous
+  rhythm, guess how your solos will sound? If you permit fret buzzes and muted
+  notes when playing chords during practice, they won't magically fix themselves
+  when performing.
+  
+  Try to be musical with your practice. 
+
+#### Track what you practice
+
+The simple act of writing down what you're working on helps you focus.
+
+It's motivational to track how much _time_ you spend practicing as well as
+tracking streaks (continuous days with at least one exercise practiced).
+
+A kitchen timer will keep you honest about time. 
+
+Track streaks by marking a big
+red X on a wall-calendar (or with an app like
+[strides](https://apps.apple.com/us/app/strides-goals-habits-tracker/id672401817)
+on iOS or
+[loop](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US)
+on Android).
+
+**Use a metronome**. A metronome helps to not only build speed, but also to
+measure progress. Remember you can use whole notes, half notes, quarter
+notes, triplets, and sixteenth notes in addition to adjusting BPM!
+
+**Record yourself**. Objectively listening to yourself is a million times easier
+if you _aren't currently focused on playing_. Get in the habit of recording
+yourself often. Go back and listen to old recordings periodically, too.
+
+#### Never work on more than five things at a time
+
+Three things at a time is even better (but hard to stick to).
+
+Your `focus list` should change slowly, certainly no more than every several
+days. If you're tired of working on something, feel free to swap it out for
+anything else that interests you, but nothing feels better than taking
+something off the list because you've already mastered it.
+
+Persistence is a virtue!
+
+## Practice vs. exercise sessions
+
+My practice sessions are typically thirty to ninety minutes long on any given
+day. I aspire to daily practice, but sadly miss days on occasion.
+
+Like most people, my "practice" sessions usually comprise a few short bursts of
+true, focused _practice_ interspersed with bits of noodling/playing, trying to
+find my blasted tuner or favorite pick, getting coffee, searching for something
+I just saw online, _etc_.
+
+The system described here tracks these individual, focused,
+"exercise-sessions" _within_ a day's practice, not the total wall-clock time I
+spent in my practice area.
+
+Each exercise-session is a short, focused burst of effort, typically just three to five
+minutes long. I'll often work through more than one during a single day's
+practice.
+
+Don't feel bad about time spent noodling and goofing around! Every
+minute you spend with a guitar in hand helps. It's important to enjoy your
+practice time, and we _need_ recovery time between exercise-sessions. It's
+impossible to sustain the intense focus required by real _practice_ for more
+than a few minutes at a time.
+
+## Shopping list
+
+You've probably got most of what you need already on hand, but here's the
+complete list of things you'll need to implement this system. The items I've
+linked to are just examples, not recommendations.
+
+* Some way to _easily_ record yourself. Audio only recordings suffice, but
+  videos are even better. You'll need:
+    * a [tripod](https://www.amazon.com/UBeesize-Phone-Tripod-Wireless-Compatible/dp/B07837W5NX/ref=sxin_9_ac_d_pm) and [holder](https://www.amazon.com/Universal-Adapter-Adjustable-Compatible-Camcorder/dp/B07SQ8TQT9/ref=sr_1_4) for your phone or camera
+    * (completely optional) a [GoPro](https://www.amazon.com/GoPro-Hero5-Black-E-Commerce-Packaging/dp/B01MT0TJOM/ref=sr_1_3) or the like
+    * (completely optional) a decent mic and way to connect it to your
+      computer/tablet/phone
+    * (completely optional) a DAW of some sort.
+* A [guitar
+  stand](https://www.amazon.com/AmazonBasics-Folding-Acoustic-Electric-Guitars/dp/B018FCZKR2/ref=sr_1_3)
+  so your guitar is always out of it's case and ready to go.
+* A [tuner](https://www.amazon.com/Snark-SN5X-Guitar-Violin-Current/dp/B01H74YV56/ref=sr_1_5)
+* A wall calendar and clock
+* A [kitchen timer](https://www.amazon.com/Kitchen-Timer-Digital-Countdown-Stopwatch/dp/B07D3BFY6R/ref=sr_1_5)
+* A [metronome](https://www.amazon.com/SEIKO-SQ50V-SQ50-V-Quartz-Metronome/dp/B000LFCXL8/ref=sr_1_5)
+* [Blank 3x5 index cards](https://www.amazon.com/gp/product/B07X5CSNVH/ref=ppx_yo_dt_b_asin_title_o00_s00)
+* [Colored 3x5 index
+  cards](https://www.amazon.com/gp/product/B06XSXXKFZ/ref=ppx_yo_dt_b_asin_title_o00_s00)
+  to use as separators.
+* [A set of binder
+  rings](https://www.amazon.com/gp/product/B081YXSV89/ref=ppx_yo_dt_b_asin_title_o00_s00)
+  to hold your cards.
+* [A single hole
+  punch](https://www.amazon.com/gp/product/B06XP9CPWQ/ref=ppx_yo_dt_b_asin_title_o00_s00)
+* [A multi-colored
+  pen](https://www.amazon.com/gp/product/B00ODR688E/ref=ppx_yo_dt_b_asin_title_o00_s001)
+
 ## The system
 
 ### Components
 
 The system comprises:
 
-* A `practice area`
+* A [practice area](#practice-area)
 
-* An `exercise library`
+* An [exercise library](#exercise-library)
 
-* A `focus list`
+* A ring or box of note cards, your
+  ([Zettelkasten](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1))
+  with one or more notes for each "exercise-session"
 
-* A ring or box of note cards
-  ([Zettels](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1))
-  with one or more notes for each `exercise session`
+* One special Zettel, your [focus list](#focus-list)
 
-{{< alert title="About Zettelkasten" color="info" >}}
+### Practice area
 
-The history of
-[Zettelkasten](https://www.amazon.com/dp/1542866502/ref=cm_sw_r_tw_dp_U_x_dcHWEbCA4024P)
+Create a dedicated `practice area.` Make it as distraction-free as possible. The
+corner of a room suffices, but everything you need should always be out and
+ready to go. Make it as comfortable as possible, so that it's _someplace you
+want to be_.
+  
+Phone apps work for the timer and metronome, but dedicated hardware is better
+(switching between apps on your phone can be distracting, and sometimes you
+want to record yourself _with_ a metronome).
+
+I like to have both a wall calendar and a clock visible at a glance (though again, your phone
+suffices).
+
+### Zettelkasten
+
+The [history of Zettelkasten](https://www.amazon.com/dp/1542866502/ref=cm_sw_r_tw_dp_U_x_dcHWEbCA4024P)
 is fascinating. A _ridiculously_ prolific sociologist (58 books and hundreds of
 articles, many classics in their field) named Niklas Luhman developed the system.
 
 Luhman created a lifelong note-taking system for academics. _Zettel_ apparently
 means "note" in German, and _Kasten_ means "box". _Zettelkasten_ is just a
-teutonically pragmatic way to take notes. It allows you to keep related notes
-close together and organized in hierarchies.
+teutonically prescriptive way to take notes. It allows you to keep related notes
+close together and organized in hierarchies. I found this [summary of how to use
+Zettelkasten](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+quite helpful.
 
 I just want to make my guitar practice as efficient as possible, but many of
-Luhman's ideas seem directly applicable. Luhman's system appeals to me expressly
-_because_ it only uses handwritten notes on simple index cards.
+Luhman's ideas seem directly applicable. 
+
+Luhman's system appeals to me expressly _because_ it only uses handwritten notes
+on simple index cards. I also like the smaller form factor of cards-on-a-ring over a
+notebook (it's easier to throw in a gig bag!).
+
+{{< alert color="info" >}}
+I'm unsure yet if I prefer a ring or a box. The most important thing is that you
+are able to easily re-order cards within your Zettelkasten.
+{{< /alert >}}
 
 As I mentioned above, I'm leery of touching the computer during practice: I
 _know_ that once I put down my guitar and start typing on a computer or phone, I'm
 doomed. It could be minutes, hours, or literally days until I get back to the
 guitar.
-{{< /alert >}}
 
-{{< alert title="Warning" color="warning" >}}
-The system described here is still quite new. It's still in flux and
-somewhat aspirational (as of May, 2020). I've **not** yet used it long enough to
-create real-world examples, and some rough edges are bound to remain. Your
-mileage may vary.
-{{< /alert >}}
+My Zettelkasten is organized as follows:
 
-### Preparation
+1. One colored card at the very front contains my `focus list` (the five or fewer exercises I'm currently
+  practicing). This card has id "1".
+2. That's followed by card "2": my practice history. Every day I practice, I add
+   a line with the date and references (id links) to my other practice notes.
+   When I run out of room I continue onto other cards (2a, 2b, ..., 2aa, 2ab,
+   ..., 2zzz).
+3. Next is a section with all my sorted notes from previous practice sessions.
+4. That's followed by a colored divider card.
+5. Then comes several _unsorted_ note cards from recent sessions.
+5. Lastly, I try to keep at least 20 blank cards at the end for new
+   notes.
 
-1. Create a dedicated `practice area`. Make it as distraction-free as possible.
-   The corner of a room suffices, but everything you need should always be out
-   and ready to go. Make it as comfortable as possible, so that it's _someplace
-   you want to be_.
-   
-   You'll need:
+As suggested by [abramdemski](https://www.lesswrong.com/users/abramdemski) I use
+the section of unsorted cards as a sort of recency buffer. Unsorted cards are
+things I've recently worked on. Eventually, I sort them to the front.
+  
+Note that my Zettels are numbered differently than exercises. I use the ID prefix
+"RT" for items in my `exercise library`, but cards in my Zettelkasten have no
+prefix: they all start with a number.
 
-   * your guitar
-   * a calendar (wall calendar or "streak)
-   * a kitchen timer
-   * a metronome
-   * some way to _easily_ record yourself (a smart phone is perfect)
-   * a multi-colored pen and your Zettelkasten cards (see below)
+Zettels can refer to other Zettels as well as to exercises from the library.
+Because of the RT prefix, I can tell at a glance what a note is referring to.
 
-   Phone apps work for the timer and metronome, but dedicated hardware is better
-   (switching between apps on your phone can be distracting, and sometimes you
-   want to record yourself _with_ a metronome).
+### Focus list
 
-2. Create an `exercise library` of proficiency-tests/drills/exercises (or simply
-   use the one provided here). Each drill in the library should
-   include complete documentation on how to perform the exercise, proficiency
-   criteria, examples, etc. More on this below.
+The `focus list` contains a list of one to five exercises that I want to practice for the next
+several days, weeks or months.
 
-3. Create a
-   [Zettelkasten](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
-   of index cards to track your `excercise-sessions` (at least one card per
-   exercise). We are using a modified version of the general
-   Zettelkasten note-taking system. 
-   
-   I _think_ I prefer binder-rings to a box of cards, but I might change my mind
-   down the road. See below for details.
-   
-   You'll need a few inexpensive office supplies:
-
-   * [Blank 3x5 index cards](https://www.amazon.com/gp/product/B07X5CSNVH/ref=ppx_yo_dt_b_asin_title_o00_s00)
-   * [Colored 3x5 index
-     cards](https://www.amazon.com/gp/product/B06XSXXKFZ/ref=ppx_yo_dt_b_asin_title_o00_s00)
-     to use as separators. You may want to use [plastic
-     separators](https://www.amazon.com/Oxford-Index-Inches-Assorted-Colors/dp/B0000AQOET/ref=sr_1_1)
-     instead.
-   * [A set of binder
-     rings](https://www.amazon.com/gp/product/B081YXSV89/ref=ppx_yo_dt_b_asin_title_o00_s00)
-     to hold your cards.
-   * [A single hole
-     punch](https://www.amazon.com/gp/product/B06XP9CPWQ/ref=ppx_yo_dt_b_asin_title_o00_s00)
-   * [A multi-colored
-     pen](https://www.amazon.com/gp/product/B00ODR688E/ref=ppx_yo_dt_b_asin_title_o00_s001)
-   
-   &nbsp;
-
-4. Write down a list of one to five things that you want to practice for the
-   next several days, weeks or months onto a colored index card. This is your `focus list`.
-
-   Place your `focus list` at the very front of your _Zettelkasten_. Place a
-   different colored separator card behind your focus list, and 20-50 blank cards behind
-   that separator. Later, your sorted cards will go between the `focus list` and
-   separator card. Unsorted cards will go after the separator. Lastly, try to
-   keep at least 20 or so blank cards after your unsorted cards.
-
-   You may replace any item on your `focus list` whenever you want, but never
-   allow yourself more than 5 things on the list (fewer is even better).
-   
-   The `focus list` accomplishes three things:
-   
-   * You'll never stop practicing something without a _conscious_ decision
-     (as opposed to forgetting about it because you were distracted by something
-     else).
-   * You'll never be at a loss for _what_ to practice.
-   * You'll never feel overwhelmed because you're studying too many things at
-     once. If you're working with a teacher, don't be afraid to tell him or her
-     that you _don't_ want to work on something new because your focus
-     list is full!
+The `focus list` is always at the very front of my _Zettelkasten_. 
 
 ### Process 
 
@@ -232,6 +315,11 @@ mileage may vary.
    you're energy is running low.
 
 ## The exercise library
+
+Create an `exercise library` of proficiency-tests/drills/exercises (or simply
+use the one provided here). Each drill in the library should include complete
+documentation on how to perform the exercise, proficiency criteria, examples,
+etc. More on this below.
 
 The `exercise library` contains _everything_ you might ever want to practice.
 You should try to create new exercises whenever you stumble across something
@@ -287,6 +375,36 @@ and it doesn't matter that much if things aren't perfectly ordered.
 Note that you can always reference (link to) one exercise from any other, as
 well as from any _Zettel_.
 
+## The focus list
+
+The five items on your `focus list` should be _exercises_ that you can complete
+within a single practice session. That doesn't mean you shouldn't have higher
+level goals on your focus list! 
+
+I use longer-term goals as headings/categories on my `focus list` with
+individual exercises below each heading. For example, I currently want to focus
+on _timing_ and _tunes_ over the long haul, so I've currently got two items
+under the "timing" header, and one under "tunes".
+
+I change out the items under a given heading much more frequently than I change
+the headings themselves, but I _never have more than five exercises on the list
+at a time._
+
+**You may replace any item on your `focus list` whenever you want,** but never
+allow yourself more than 5 things on the list (fewer is even better).
+
+The `focus list` accomplishes three things:
+
+* You'll never stop practicing something without a _conscious_ decision
+  (as opposed to forgetting about it because you were distracted by something
+  else).
+* You'll never be at a loss for _what_ to practice.
+* You'll never feel overwhelmed because you're studying too many things at
+  once. If you're working with a teacher, don't be afraid to tell him or her
+  that you _don't_ want to work on something new because your focus
+  list is full!
+
+
 ## The Zettelkasten
 
 I don't want to be _too_ prescriptive since I'm figuring this out for myself as
@@ -334,56 +452,5 @@ The _Zettelkasten_ itself has four sections. In order: `focus list`, sorted
 cards, unsorted cards, and finally blank cards.
 
 Always take notes on TODO
-
-## Further thoughts
-
-### 1. Practice what you want
-
-At the risk of stating the obvious: if you hate to practice, then eventually you
-_won't_ practice. Full stop.
-
-Ideally, practice should be at least somewhat enjoyable, but keep the following in mind:
-
-- There is no point in practicing what you've already mastered. Warm-up drills
-  and some technique exercises are an exception.
-
-- If what you're practicing is too hard, you'll hate practicing. If something is
-  too difficult, break it into smaller chunks and practice those in turn,
-  building up to the full exercise. It's best to take baby steps.
-
-- Try to balance the six T's: training (general/mixed topics), theory,
-  technique, tones (ear training), tunes, and timing. This isn't necessary every
-  session, but strive for balance over the long haul.
-
-- Remember that _you play what you practice._ The way you practice scales,
-  triads, etc. will show up in your playing eventually. If you only practice
-  scales by mechanically going up and down the scale linearly with a monotonous
-  rhythm, guess how your solos will sound? Try to be musical with
-  your practice. (This is why almost all my exercises proceed in
-  fourths, by the way.)
-
-### 2. Track what you practice
-
-The simple act of writing down what you're working on helps you focus.
-
-It's motivational to track how much _time_ you spend practicing. A kitchen timer
-will keep you honest.
-
-**Use a metronome**. A metronome helps not only to build speed, but also to
-measure progress. Remember that you can use whole notes, half notes, quarter
-notes, triplets, and sixteenth notes in addition to adjusting the BPM!
-
-**Record yourself**. Objectively listening to yourself is a million times easier
-if you _aren't currently focused on playing_. Get in the habit of recording
-yourself often. Go back and listen to old recordings periodically, too.
-
-### 3. Never work on more than five things at a time
-
-Three things at a time is even better (but hard to stick to).
-
-Your `focus list` should change slowly, certainly no more than every several
-days. If you're tired of working on something, feel free to swap it out for
-anything else that interests you, but **nothing feels better than taking
-something off the list because you've already mastered it**. Persistence is a virtue.
 
 ## Rex's exercise library
