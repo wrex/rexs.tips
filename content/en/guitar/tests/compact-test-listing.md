@@ -1,9 +1,9 @@
 ---
 date: 2020-04-12T14:44:28-07:00
-title: "Compact listing"
-linkTitle: "Compact listing"
+title: "Exercise library"
+linkTitle: "Exercise library"
 author: "Rex Walters"
-description: "Compact listing of all proficiency tests"
+description: "Compact listing of all exercises"
 weight: 99999
 ---
 {{< alltests >}}

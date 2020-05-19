@@ -1,7 +1,7 @@
 ---
 date: 2020-04-11T10:52:49-07:00
-title: "Practicing"
-linkTitle: "Practicing"
+title: "Practice"
+linkTitle: "Practice"
 type: "docs"
 weight: 9999
 description: "Rex's system: what and how to practice"
@@ -12,35 +12,68 @@ resources:
     title: "Sample focus list"
 ---
 
-## Background
+## Introduction
 
-My system for practicing continues to evolve. I'm trying to make it as simple
-as possible (and no simpler, to paraphrase Einstein). In particular, I strongly
-prefer a pen and paper for taking notes during practice, and want to avoid a
-computer keyboard if at all possible (far too much opportunity for distraction).
+This page documents my personal (and evolving) practice system.
+
+Don't let the length of this page make you think the system is at all complicated
+(I'm just being thorough). I've learned that I'll eventually give up on any
+system that isn't dirt simple.
+
+My system mostly depends on just two things:
+
+1. A [library of individual exercises]({{< ref
+  "guitar/tests/compact-test-listing.md" >}}) stored on my computer (and
+  published to this site).
+
+2. A collection of hand-written index cards for reviewing and taking notes during
+  a practice session. The card collection includes:
+
+    * One card with my `focus list` (the five or fewer exercises I'm currently
+      practicing)
+    * Several additional cards with notes from previous practice sessions (some sorted,
+      some unsorted)
+    * Several blank notes in the back for notes for this session.
+
+Personally, I **strongly** prefer a pen and paper for taking notes during practice.
+I want to avoid a computer keyboard if at all possible (far too much opportunity
+for distraction). But I frequently need to link to videos, audio files, neck diagrams,
+tablature/notation do document an individual exercise, so I maintain the
+`exercise library` with a computer.
+
+I rarely refer to the online documentation except the first time I
+practice a particular exercise.
+
+During a practice session, I write all my notes by hand on index cards.
 
 [Josh](mailto:josh@fretboardanatomy.com) over at [Fretboard
-Anatomy](https://fretboardanatomy.com) gave me some great ideas recently that
-have utterly transformed my practice system. He turned me on to the
+Anatomy](https://fretboardanatomy.com) gave me most of the ideas that led to
+this system. In particular, many of the exercises documented here are slightly
+modified versions of drills that he taught me. He also turned me on to the
 [Zettelkasten](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 system of note-taking.
 
-This page explains how to _use_ the system. Please see [how to practice]({{< ref
-"guitar/Fundamentals/how-to-practice" >}}) for the motivation behind the
-system.
+## Exercise sessions
 
-Note that in the real world, _everybody's_ "practice" sessions usually comprise short bursts
-of true, focused _practice_ interspersed with bits of noodling/playing, getting
-coffee, searching for something you saw online, etc. 
+I distinguish between a given day's _practice session_ (typically thirty to
+ninety minutes in my case) and individual _exercise-sessions_ within that are
+usually much shorter.
 
-The system described here tracks individual, focused, "_exercise-sessions_."
+In the real world, _everybody's_ "practice" sessions usually comprise a few short bursts
+of true, focused _practice_ interspersed with bits of noodling/playing, trying
+to find your blasted tuner, getting coffee, searching for something you saw online, etc.
+
+The system described here tracks individual, focused, "_exercise-sessions_"
+within a day's practice, not the total wall-clock time you spent in your
+practice area.
+
 Each exercise-session a short, focused burst of effort, typically five to twenty
 minutes long. You'll often work through more than one during a single day's
-practice. 
+practice.
 
-Don't feel bad about in-between time spent noodling and goofing around, though. It's
-important to enjoy your practice time, and you _need_ recovery time between
-practice sessions. But there is absolutely no point in tracking "between" time.
+Don't feel bad about time spent noodling and goofing around, though. It's
+important to enjoy your practice time, and you'll _need_ recovery time between
+exercise-sessions.
 
 ## The rules
 
@@ -50,7 +83,9 @@ practice sessions. But there is absolutely no point in tracking "between" time.
 
 **Rule 3:** Never work on more than 5 things at a time.
 
-## The components
+## The system
+
+### Components
 
 The system comprises:
 
@@ -77,22 +112,23 @@ teutonically pragmatic way to take notes. It allows you to keep related notes
 close together and organized in hierarchies.
 
 I just want to make my guitar practice as efficient as possible, but many of
-Luhman's ideas seem directly applicable.
+Luhman's ideas seem directly applicable. Luhman's system appeals to me expressly
+_because_ it only uses handwritten notes on simple index cards.
 
-I'm leery of computer apps for note taking during practice: I
+As I mentioned above, I'm leery of touching the computer during practice: I
 _know_ that once I put down my guitar and start typing on a computer or phone, I'm
 doomed. It could be minutes, hours, or literally days until I get back to the
 guitar.
-
-Luhman's system appeals to me _expressly_ because it only uses handwritten notes
-on simple index cards.
-
-I want to be clear, however, that the system described here is still somewhat in flux and
-somewhat aspirational (as of May, 2020). I've **not** yet used it long enough to
-create real-world examples, and some rough edges are bound to remain.
 {{< /alert >}}
 
-## Preparation
+{{< alert title="Warning" color="warning" >}}
+The system described here is still quite new. It's still in flux and
+somewhat aspirational (as of May, 2020). I've **not** yet used it long enough to
+create real-world examples, and some rough edges are bound to remain. Your
+mileage may vary.
+{{< /alert >}}
+
+### Preparation
 
 1. Create a dedicated `practice area`. Make it as distraction-free as possible.
    The corner of a room suffices, but everything you need should always be out
@@ -102,7 +138,7 @@ create real-world examples, and some rough edges are bound to remain.
    You'll need:
 
    * your guitar
-   * a calendar
+   * a calendar (wall calendar or "streak)
    * a kitchen timer
    * a metronome
    * some way to _easily_ record yourself (a smart phone is perfect)
@@ -167,28 +203,7 @@ create real-world examples, and some rough edges are bound to remain.
      that you _don't_ want to work on something new because your focus
      list is full!
 
-## Defining terms
-
-Your `focus list` contains up to five drills from your `exercise library`. Your
-`exercise library` is a master list of exercises: everything you might ever want
-to practice. Think of it like checking out items from a real-world library:
-you're only allowed to check out up to five items at a time onto your `focus
-list`. Each drill in your library has an ID (sort of like an ISBN number).
-
-An `exercise-session` is one attempt with any drill.
-
-Your _Zettels_ (cards) track each time you practice an individual drill, and
-allow you to keep notes from that session.
-
-Since over time you'll continuously add exercises to your library, and items
-will also come and go on your `focus list`, considerable time may elapse between
-`exercise sessions` for the same drill.
-
-The purpose of the _Zettelkasten_ is to keep
-your notes as organized as possible (and close together) no matter how long you
-go between sessions.
-
-## The process 
+### Process 
 
 1. Select an item from your `focus list` to practice.
 
@@ -272,7 +287,7 @@ and it doesn't matter that much if things aren't perfectly ordered.
 Note that you can always reference (link to) one exercise from any other, as
 well as from any _Zettel_.
 
-## Zettels and the Zettelkasten
+## The Zettelkasten
 
 I don't want to be _too_ prescriptive since I'm figuring this out for myself as
 well, but I don't want to leave everything open ended. Here are my thoughts on
@@ -318,8 +333,9 @@ the layout of each individual _Zettel_ (note card):
 The _Zettelkasten_ itself has four sections. In order: `focus list`, sorted
 cards, unsorted cards, and finally blank cards.
 
-Always take notes on
-## The rules in detail
+Always take notes on TODO
+
+## Further thoughts
 
 ### 1. Practice what you want
 
