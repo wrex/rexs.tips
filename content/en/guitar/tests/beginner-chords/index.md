@@ -9,7 +9,7 @@ tutorial: "guitar/Fundamentals/harmony/beginner-chords"
 type: "tests"
 tdgtype: "technique"
 weight: 20
-toc_hide: false
+toc_hide: true
 resources:
   - src: "**major-cowboy-chords.png"
     title: "Fig 1. Major cowboy chords"

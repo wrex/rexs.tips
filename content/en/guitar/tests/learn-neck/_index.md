@@ -10,7 +10,7 @@ weight: 1
 tutorial: "guitar/Fundamentals/notes/finding-notes"
 description: "Play every note on all strings"
 author: "Rex Walters"
-toc_hide: false
+toc_hide: true
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
@@ -19,7 +19,7 @@ resources:
 {{% tdgtutorial %}}
 
 
-This is the master proficiency test (or "graduation test") for **KNOWING** the notes on the neck. You probably want to work on the indivual subtests listed below to gain proficiency before attempting this test.
+This is the master proficiency test (or "graduation test") for **KNOWING** the notes on the neck. You probably want to work on the individual subtests listed below to gain proficiency before attempting this test.
 
 ## Demonstration
 
