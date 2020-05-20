@@ -4,6 +4,6 @@ title: "Exercise library"
 linkTitle: "Exercise library"
 author: "Rex Walters"
 description: "Compact listing of all exercises"
-weight: 99999
+weight: 0
 ---
 {{< alltests >}}
