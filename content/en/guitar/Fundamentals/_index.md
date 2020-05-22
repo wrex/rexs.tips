@@ -16,19 +16,20 @@ Music comprises just three things:
 3. [Rhythm]({{< ref "guitar/Fundamentals/rhythm" >}})
 
 This section provides a fundamental introduction to all three, and is the basis
-for everything else in this guide, but if you are an absolute beginner on the
-guitar, I **strongly** suggest you first go through a beginner's course
-elsewhere.
+for everything else in this guide.
 
-I think [Justin's new for 2020 beginner guitar
+Before teaching anything about those concepts, however, I first try to pass on a
+bit of advice about [how to practice]({{< ref
+"guitar/Fundamentals/how-to-practice" >}}).
+
+If you are an absolute beginner on the guitar, I **strongly** suggest you first
+go through a beginner's course elsewhere. I think [Justin's new for 2020
+beginner guitar
 course](https://www.justinguitar.com/categories/beginner-guitar-lessons-grade-1)
 is probably the best and most complete beginner course out there.
 
-Before getting too deep into theory, I attempt to pass on a bit of advice
-about [how to practice]({{< ref "guitar/Fundamentals/how-to-practice" >}}).
-
 In the [section on notes]({{< ref "/guitar/Fundamentals/notes" >}}) we will
-first review some [fundamental theory]({{< ref
+review some [fundamental theory]({{< ref
 "/guitar/Fundamentals/notes/just-12-notes.md" >}}) (the diatonic and chromatic
 scales in particular). Then I provide some practical lessons for [learning the
 notes on the fretboard]({{< ref "/guitar/Fundamentals/notes/finding-notes" >}}).
