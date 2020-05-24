@@ -25,7 +25,7 @@ You've already learned all five boxes in a minor context. It's now time to learn
 how to use them in a major context.
 
 {{< alert title="Printable reference" color="info" >}} 
-I've created a [printable reference pdf]( resourceref "all-boxes.pdf" ) for
+I've created a [printable reference pdf]({{< resourceref "all-boxes.pdf" >}}) for
 all five shapes in both major and minor
 contexts. More than anything else, these shapes and ideas helped me learn how
 to solo freely over most rock, blues, country, and folk songs. Don't
