@@ -95,23 +95,30 @@ readable as the rendered results.
 
 Into what you see above. 
 
-{{< alert color="info" >}}
-The color coding in the sample markdown is from a "syntax highlighter," and is
-similar to what I see in my text editor as I compose markdown source.
-{{< /alert >}}
+> Note that the color coding in the sample markdown is from a "syntax highlighter," and is
+> similar to what I see in my text editor as I compose markdown source.
 
 ## Git for revision control
 
 Anyone who's ever used any sort of "source code control system" to write
-software has probably heard of [git](https://git-scm.com).
+software is probably familiar with [git](https://git-scm.com).
 
-Writing things down helps me compose my thoughts, but I'm absolutely incapable
-of getting things right on the first try. I invariably need to revise, rewrite,
-and make changes throughout the process.
+Writing things down helps me compose my thoughts, but like most people I
+suspect, I'm absolutely incapable of getting things right on the first try. I
+invariably need to revise, rewrite, and make changes throughout the process.
 
-It's incredibly _liberating_ to simply save your work prior to making
-even drastic revisions or deletions, _completely confident that you can recover
-(or simply review) the previous content at any time_.
+> Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.”
+>
+> &mdash; Stephen King
+
+Personally, I'd never be able to "kill kill my darlings without a way to
+squirrel away copies of every single draft I ever compose.
+[Git](https://git-scm.com) lets me do just that.
+
+It's incredibly _liberating_ to easily track and save any revision you wish,
+from just a few words to drastic wholesale revisions and reorganizations of an
+entire site. It provides _complete confident that you can recover (or simply
+review) all previous content_.
 
 Unlike older revision control tools, [Git](https://git-scm.com) was designed for
 offline and disconnected use. You can make changes _and track revisions_ to your
@@ -142,19 +149,22 @@ clone.`
 The [github free tier](https://github.com/pricing#feature-comparison) provides
 more than enough features for anyone's exercise library.
 
-## Docsify and Github Pages for publishing
+## Hugo, Docsy and Github Pages for publishing
 
-The final keys to the puzzle are [docsify](https://docsify.js.org/#/) and
+The final keys to the puzzle are [hugo](https://gohugo.io), [docsy](https://docsy.dev) and
 [Github Pages](https://pages.github.com) to publish your exercise content.
 
-[Docsify](https://docsify.js.org/#/) takes the pile of markdown files you
-created and turns it into a beautiful, navigable, exercise library
-that you can view in any browser.
+[Hugo](https://gohugo.io) is a static website generator. It's what I used to
+create this site. It takes a pile of markdown files and turns it into a
+beautiful, navigable, website that you can view in any browser.
 
-You create a local server with the `docsify serve <path>` command (providing the
-path to your "pile of markdown files"). You then point your browser to
-`localhost:3000` _et voilà_ a pretty, nicely linked collection of exercises
-right on your local computer (even without a working internet connection).
+[Docsy](https://docsy.dev) is a [Hugo theme](https://themes.gohugo.io) expressly
+for documentation oriented sites.
+
+Once you've initialized your site, you can start a local server with the `hugo
+server` command. If you then point your browser to `localhost:1313` _et voilà_ a
+pretty, nicely linked collection of exercises right on your local computer (even
+without a working internet connection).
 
 If you're using [git](https://git-scm.com) and
 [github](https://github.com/pricing#feature-comparison) as I've suggested, you
@@ -166,16 +176,14 @@ You can choose whether to use the github provided URL (e.g.
 `https://username.github.io/exercises/`) or, if you have your own domain, you
 can name the site whatever you wish.
 
+Hugo and docsy aren't the only way to manage markdown documentation. I briefly
+considered a similar tool called [docsify](https://docsify.js.net) to maintain
+my exercise library, but decided to stick with what I know.
+
 ## Detailed instructions
 
-I'm using [hugo](https://gohugo.io) to create this website, including my
-exercise library. I'm also hosting it with [netlify](http://www.netlify.com). I
-_highly_ recommend both, but they are probably overkill if you only want to
-manage and publish an exercise library.
+I'm in the process of re-organizing my own exercise library ("Rexercises") to
+follow my own rapidly evolving system.
 
-So I've decided to practice what I'm preaching. I'm in the process of moving my
-entire exercise library to [docsify](https://docsify.js.org/#/) and [github
-pages](https://pages.github.com).
-
-Once I've completed the process, I'll update this post with the detailed,
-step-by-step instructions for creating your own exercise library.
+Once finished, I plan to create detailed, step-by-step instructions for anyone
+to create their own exercise library.
