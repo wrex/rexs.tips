@@ -1,22 +1,26 @@
 ---
-date: 2020-04-16T12:15:16-07:00
-title: "Diminished: ADG"
-linkTitle: "Dim: ADG"
+date: 2020-04-16T12:20:35-07:00
+title: "Diminished: GBE"
+linkTitle: "Dim: GBE"
 author: "Rex Walters"
-description: "Diminished triads on the A, D, G strings"
-tdgid: "RT4c3"
+description: "Diminished triads on the G, B, and E strings"
+tdgid: "RT4c1"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
 type: "tests"
 tdgtype: "training"
-weight: 230
+weight: 210
 toc_hide: true
 ---
 
 {{% tdgtutorial %}}
 
+## Demonstration
+
+TODO
+
 ## Procedure
 
-Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/tests/learn-neck" >}}) on the A, D, and G strings.
+Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/rexercises/learn-neck" >}}) on the G, B, and E strings.
 
 As always, you should practice this *rubato* (without a metronome) until you build up proficiency.
 

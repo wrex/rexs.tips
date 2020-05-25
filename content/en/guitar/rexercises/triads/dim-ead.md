@@ -1,25 +1,22 @@
 ---
-date: 2020-04-14T18:24:16-07:00
-title: "Major: DGB"
-linkTitle: "Major: DGB"
+date: 2020-04-16T12:19:16-07:00
+title: "Diminished: EAD"
+linkTitle: "Dim: EAD"
 author: "Rex Walters"
-description: "Major triads on the D, G, and B strings"
-tdgid: "RT4a2"
-tutorial: "/guitar/fundamentals/harmony/triads/major"
+description: "Diminished triads on the E, A, D strings"
+tdgid: "RT4c4"
+tutorial: "/guitar/fundamentals/harmony/triads/diminished"
 type: "tests"
 tdgtype: "training"
-weight: 20
+weight: 240
 toc_hide: true
-resources:
-  - src: "**.{png,jpg}"
-    title: "Image #:counter"
 ---
 
 {{% tdgtutorial %}}
 
 ## Procedure
 
-Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/tests/learn-neck" >}}) on the D, G, and B strings.
+Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/rexercises/learn-neck" >}}) on the E, A, and D strings.
 
 As always, you should practice this *rubato* (without a metronome) until you build up proficiency.
 
@@ -28,7 +25,7 @@ As always, you should practice this *rubato* (without a metronome) until you bui
 2. Progress through every natural note in fourths.
 
   1. Find the note as low on the neck as possible on the first three strings.
-  2. Form and strum the correct [major triad inversion]({{< ref "guitar/fundamentals/harmony/triads/major#C-Major-inv-DGB" >}}) for the root note on that string.
+  2. Form and strum the correct [diminished triad inversion]({{< ref "guitar/fundamentals/harmony/triads/diminished" >}}) for the root note on that string.
   3. Find the next location for that note higher up the neck (but still on the top three strings) and repeat with the next inversion.
   4. Again, move up the neck and play the final inversion.
 

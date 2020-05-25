@@ -20,6 +20,6 @@ The *entire* [introduction]({{< ref "guitar/introduction" >}}) section is nothin
 
 Please jump directly to [fundamentals]({{< ref "guitar/Fundamentals" >}}) if you just want to learn how to play.
 
-Jump to [proficiency tests]({{< ref "guitar/tests" >}}) if you are just looking for something to practice.
+Jump to [proficiency tests]({{< ref "guitar/rexercises" >}}) if you are just looking for something to practice.
 
 ### Content Sections:

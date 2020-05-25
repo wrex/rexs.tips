@@ -22,11 +22,11 @@ There are two different types of content in this course:
   objective criteria to let you know when you've mastered the exercise.
 
 Basically, read most of these pages like a book, but when you're ready to start
-practicing, head over to [tests]({{< ref "/guitar/tests" >}}) and
+practicing, head over to [tests]({{< ref "/guitar/rexercises" >}}) and
 follow the instructions.
 
 Proficiency tests are the result of what I'm calling [Test Driven Guitar]({{<
-ref "/guitar/tests/test-driven-guitar" >}}). Feel free to skip that
+ref "/guitar/rexercises/test-driven-guitar" >}}). Feel free to skip that
 chapter if you just want to get on with learning the instrument.
 
 ## Notation
@@ -156,4 +156,4 @@ willing to undertake.)
 
 ---
 
-Next: [Test Driven Guitar]({{< ref "/guitar/tests/test-driven-guitar" >}})
+Next: [Test Driven Guitar]({{< ref "/guitar/rexercises/test-driven-guitar" >}})

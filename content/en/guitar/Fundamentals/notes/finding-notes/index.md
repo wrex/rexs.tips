@@ -283,7 +283,7 @@ Practice the proficiency tests on the remaining strings:
 ## Putting it all together
 
 Once you can play the cycle of fourths on each string individually, it's time to
-start practicing {{< tdgref "guitar/tests/learn-neck" >}} in it's
+start practicing {{< tdgref "guitar/rexercises/learn-neck" >}} in it's
 entirety.
 
 You'll be finding each note on **all** of the strings at once. You may find this quite challenging at first.

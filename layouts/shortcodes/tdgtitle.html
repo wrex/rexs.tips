@@ -1,11 +1,11 @@
 {{/* usage: {{< tdgtitle "path-to-test" >}} */}}
 {{/* */}}
-{{/* remove /guitar/tests from front if present */}}
+{{/* remove /guitar/rexercises from front if present */}}
 {{/* for some reason, \s and \S (whitespace or not) isn't working */}}
-{{- $path := replaceRE "^[\t\n\f\r ]*/?guitar/tests/([^\t\n\f\r ]*)" "$1" (.Get 0) -}}
+{{- $path := replaceRE "^[\t\n\f\r ]*/?guitar/rexercises/([^\t\n\f\r ]*)" "$1" (.Get 0) -}}
 {{/* */}}
-{{/* now canonicalize by pre-pending "guitar/tests/" */}}
-{{- $path := printf "guitar/tests/%s" $path -}}
+{{/* now canonicalize by pre-pending "guitar/rexercises/" */}}
+{{- $path := printf "guitar/rexercises/%s" $path -}}
 {{- with .Site.GetPage $path -}}
 {{- $title := .Title -}}
 {{ $title }}

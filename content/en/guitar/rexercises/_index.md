@@ -1,7 +1,7 @@
 ---
 date: 2020-04-11T10:52:49-07:00
-title: "Exercises"
-linkTitle: "Exercises"
+title: "Rexercises"
+linkTitle: "Rexercises"
 type: "docs"
 weight: 9999
 description: "Rex's practice system: what and how to practice"
@@ -35,7 +35,7 @@ simple.
 My system consists primarily of just two things:
 
 1. A continually growing library of individual exercises stored on a computer
-   (mine is [published here]({{< ref "guitar/tests/compact-test-listing" >}})).
+   (mine is [published here]({{< ref "guitar/rexercises/compact-test-listing" >}})).
 
 2. A collection of hand-written index cards (my _Zettelkasten_) for reviewing
    and taking notes during a practice session. 
@@ -255,9 +255,9 @@ suffices).
 
 #### Exercise library
 
-The `exercise library` contains a list proficiency-tests/drills/exercises. You
+The `exercise library` contains a list proficiency-rexercises/drills/exercises. You
 can create your own or simply use [the ones provided here]({{< ref
-"guitar/tests/compact-test-listing" >}}). Each drill in the library should
+"guitar/rexercises/compact-test-listing" >}}). Each drill in the library should
 include complete documentation on how to perform the exercise, proficiency
 criteria, examples, etc.
 

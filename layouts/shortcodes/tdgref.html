@@ -1,5 +1,5 @@
-{{- $path := replaceRE "^[\t\n\f\r ]*/?guitar/tests/([^\t\n\f\r ]*)" "$1" (.Get 0) -}}
-{{- $path := printf "guitar/tests/%s" $path -}}
+{{- $path := replaceRE "^[\t\n\f\r ]*/?guitar/rexercises/([^\t\n\f\r ]*)" "$1" (.Get 0) -}}
+{{- $path := printf "guitar/rexercises/%s" $path -}}
 {{- with .Site.GetPage $path -}}
 {{- $tdgid := .Params.tdgid -}}
 {{- $title := .Title -}}<a href="{{ .Permalink }}" alt="{{$title}}">{{ $tdgid }} • {{ $title }}</a>

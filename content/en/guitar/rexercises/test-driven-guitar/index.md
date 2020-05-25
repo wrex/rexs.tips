@@ -11,7 +11,7 @@ weight: 30
 ---
 
 {{% pageinfo %}}
-This material is purely background on my system of [proficiency tests](/guitar/tests). It explains why and how I came up with TDG, and some of my future plans.
+This material is purely background on my system of [proficiency tests](/guitar/rexercises/). It explains why and how I came up with TDG, and some of my future plans.
 
 If you just want to get started with learning the instrument, please feel free to skip this chapter.
 {{% /pageinfo %}}

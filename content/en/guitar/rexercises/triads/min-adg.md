@@ -16,7 +16,7 @@ toc_hide: true
 
 ## Procedure
 
-Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/tests/learn-neck" >}}) on the A, D, and G strings.
+Do not attempt this exercise until you are [proficient at naming the notes]({{< ref "guitar/rexercises/learn-neck" >}}) on the A, D, and G strings.
 
 As always, you should practice this *rubato* (without a metronome) until you build up proficiency.
 

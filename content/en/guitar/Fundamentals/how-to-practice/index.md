@@ -21,7 +21,7 @@ This page contains my thoughts and philosophy regarding practice, but doesn't
 actually teach you a system. 
 
 If you want to skip the theory and just learn my system for [_how_ to
-practice]({{< ref "guitar/tests" >}}), please see the last chapter in this
+practice]({{< ref "guitar/rexercises" >}}), please see the last chapter in this
 document.
 
 ## Motivation
@@ -132,7 +132,7 @@ rhythm.
 
 Lastly, tones are exercises that focus exclusively on ear training.
 
-I use what I call a [focus list]({{< ref "guitar/tests#focus-list" >}}). I may
+I use what I call a [focus list]({{< ref "guitar/rexercises#focus-list" >}}). I may
 well call an audible on any given day, though.
 
 If I don't particularly feel like learning a song, I may work on something more
