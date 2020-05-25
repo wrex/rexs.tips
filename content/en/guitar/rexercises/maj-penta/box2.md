@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: ""
 tdgid: "RT6c2"
 tutorial: "guitar/blues/maj-penta"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 20
 toc_hide: true

@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "It don't mean a thing if it ain't got that swing"
 tdgid: "RT5b"
 tutorial: "guitar/blues/basics"
-type: "tests"
+type: "rexercises"
 tdgtype: "timing"
 weight: 10
 toc_hide: true

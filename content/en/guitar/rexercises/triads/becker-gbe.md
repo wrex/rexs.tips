@@ -7,7 +7,7 @@ description: ""
 tdgid: "RT4f"
 tdgtype: "training"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
-type: "tests"
+type: "rexercises"
 weight: 320
 toc_hide: true
 ---

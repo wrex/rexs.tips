@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Recite the cycle of fifths out loud"
 tdgid: "RT1b"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
-type: "tests"
+type: "rexercises"
 tdgtype: "theory"
 weight: 2
 toc_hide: true

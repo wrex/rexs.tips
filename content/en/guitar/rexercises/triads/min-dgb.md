@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Minor triads on the D, G, and B strings"
 tdgid: "RT4b2"
 tutorial: "/guitar/fundamentals/harmony/triads/minor"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 120
 toc_hide: true

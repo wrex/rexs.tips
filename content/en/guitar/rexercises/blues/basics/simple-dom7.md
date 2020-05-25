@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "A few simple Dom7 voicings"
 tdgid: "RT5a"
 tutorial: "guitar/blues#dom7-chord-voicings"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 5
 toc_hide: true

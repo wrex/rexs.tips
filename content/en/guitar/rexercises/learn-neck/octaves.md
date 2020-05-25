@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Finding notes with octave shapes"
 tdgid: "RT1d"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 12
 toc_hide: true

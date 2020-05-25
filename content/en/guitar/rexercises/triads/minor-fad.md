@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "i-iv-v progressions using FAD chords"
 tdgid: "RT4b6"
 tutorial: "guitar/Fundamentals/harmony/triads/FAD#rexs-fad"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 60
 toc_hide: true

@@ -2,7 +2,7 @@
 date: 2020-04-11T10:53:14-07:00
 title: "Along E"
 linkTitle: "Along E"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 tdgid: "RT1c"
 tutorial: "guitar/Fundamentals/notes/finding-notes"

@@ -7,7 +7,7 @@ description: ""
 tdgid: "RT3"
 tutorial: "guitar/Fundamentals/harmony/beginner-barre"
 toc_hide: true
-type: "tests"
+type: "rexercises"
 tdgtype: "technique"
 weight: 30
 resources:

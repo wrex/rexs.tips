@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Find all major triads on the top for strings"
 tdgid: "RT4a5"
 tutorial: "guitar/Fundamentals/harmony/triads/major#minimal-movement-drills"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 45
 toc_hide: true

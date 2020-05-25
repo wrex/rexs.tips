@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: ""
 tdgid: "RT6b2"
 tutorial: "guitar/blues/min-penta/box2-5"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 20
 toc_hide: true

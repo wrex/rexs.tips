@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Six-string minor arpeggios"
 tdgid: "RT4b"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 100
 toc_hide: true

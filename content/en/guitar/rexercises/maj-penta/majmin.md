@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Single octave tonality fun"
 tdgid: "RT6c1"
 tutorial: "guitar/blues/maj-penta"
-type: "tests"
+type: "rexercises"
 tdgtype: "tones"
 weight: 2
 toc_hide: true

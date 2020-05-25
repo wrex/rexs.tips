@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Connecting boxes 2, 2, and 3"
 tdgid: "RT6b6"
 tutorial: "guitar/blues/min-penta/box3"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 040
 toc_hide: true

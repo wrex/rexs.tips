@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Playing to a drum track"
 tdgid: "RT5c"
 tutorial: "guitar/blues/basics"
-type: "tests"
+type: "rexercises"
 tdgtype: "timing"
 weight: 20
 toc_hide: true

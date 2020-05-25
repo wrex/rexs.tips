@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Master proficiency test for the minor pentatonic scale"
 tdgid: "RT6"
 tutorial: ""
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 2
 toc_hide: true

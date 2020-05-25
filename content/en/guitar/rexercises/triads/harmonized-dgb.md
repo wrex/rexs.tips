@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Harmonizing major scales on DGB"
 tdgid: "RT4e"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 310
 toc_hide: true

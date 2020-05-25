@@ -7,7 +7,7 @@ description: "Turning the pentatonic into the blues scale"
 tdgid: "RT6a3"
 tutorial: "guitar/blues/min-penta/blue-note"
 weight: 130
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 toc_hide: true
 resources:

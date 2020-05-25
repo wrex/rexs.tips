@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "The cowboy chords everyone needs to know"
 tdgid: "RT2"
 tutorial: "guitar/Fundamentals/harmony/beginner-chords"
-type: "tests"
+type: "rexercises"
 tdgtype: "technique"
 weight: 20
 toc_hide: true

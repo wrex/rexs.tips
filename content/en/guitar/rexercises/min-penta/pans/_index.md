@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: ""
 tdgid: "RT6a"
 tutorial: ""
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 2
 toc_hide: true

@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Connecting boxes 5, 1, and 2"
 tdgid: "RT6c4"
 tutorial: "guitar/blues/maj-penta"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 040
 toc_hide: true

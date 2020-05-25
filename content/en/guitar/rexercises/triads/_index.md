@@ -2,7 +2,7 @@
 date: 2020-04-11T12:06:55-07:00
 title: "Triads"
 linkTitle: "Triads"
-type: "tests"
+type: "rexercises"
 tdgid: "RT4"
 tdgtype: "training"
 tutorial: "guitar/Fundamentals/harmony/triads"

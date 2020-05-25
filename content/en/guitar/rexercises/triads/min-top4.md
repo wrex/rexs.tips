@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Find all minor triads on the top for strings"
 tdgid: "RT4b5"
 tutorial: "guitar/Fundamentals/harmony/triads/minor"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 145
 toc_hide: true

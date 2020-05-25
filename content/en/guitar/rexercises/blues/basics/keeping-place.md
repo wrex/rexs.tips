@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Keeping place and anticipating changes"
 tdgid: "RT5d"
 tutorial: "guitar/blues/basics"
-type: "tests"
+type: "rexercises"
 tdgtype: "tones"
 weight: 30
 toc_hide: true

@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Six-string major arpeggios"
 tdgid: "RT4a"
 tutorial: "guitar/Fundamentals/harmony/triads/FAD"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 50
 toc_hide: true

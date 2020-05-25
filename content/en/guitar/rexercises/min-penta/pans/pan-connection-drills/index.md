@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Mechanical drills for connected pan shapes"
 tdgid: "RT6a2"
 tutorial: "guitar/blues/min-penta/more-pans"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 50
 toc_hide: true

@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Find all diminished triads on the top for strings"
 tdgid: "RT4c5"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 245
 toc_hide: true

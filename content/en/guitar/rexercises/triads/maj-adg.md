@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Major triads on the A, D, G strings"
 tdgid: "RT4a3"
 tutorial: "/guitar/fundamentals/harmony/triads/major"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 30
 toc_hide: true

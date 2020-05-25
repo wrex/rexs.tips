@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Master proficiency test for the blues"
 tdgid: "RT5"
 tutorial: "guitar/blues"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 90
 toc_hide: true

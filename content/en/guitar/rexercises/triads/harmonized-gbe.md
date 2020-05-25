@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Harmonizing major scales on GBE"
 tdgid: "RT4d"
 tutorial: "guitar/Fundamentals/harmony/triads/harmonized-scales"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 300
 toc_hide: true

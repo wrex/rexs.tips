@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Recite the cycle of fourths out loud"
 tdgid: "RT1a"
 tutorial: "guitar/Fundamentals/notes/finding-notes"
-type: "tests"
+type: "rexercises"
 tdgtype: "theory"
 weight: 1
 toc_hide: true

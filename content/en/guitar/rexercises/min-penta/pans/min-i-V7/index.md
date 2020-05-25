@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Soloing over a i-V7 progression"
 tdgid: "RT6a6"
 tutorial: "guitar/blues/min-penta/more-pans"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 80
 toc_hide: true

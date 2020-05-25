@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Diminished triads on the D, G, and B strings"
 tdgid: "RT4c2"
 tutorial: "/guitar/fundamentals/harmony/triads/diminished"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 220
 toc_hide: true

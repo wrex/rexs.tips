@@ -3,7 +3,7 @@ date: 2020-04-11T10:52:49-07:00
 title: "Fretboard note mastery"
 linkTitle: "Fretboard note mastery"
 tdgid: "RT1"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 # This should be the first drill listed
 weight: 1

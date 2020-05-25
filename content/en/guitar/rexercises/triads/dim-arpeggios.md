@@ -6,7 +6,7 @@ author: "Rex Walters"
 description: "Six-string diminished arpeggios"
 tdgid: "RT4c"
 tutorial: "guitar/Fundamentals/harmony/triads/diminished"
-type: "tests"
+type: "rexercises"
 tdgtype: "training"
 weight: 200
 toc_hide: true
