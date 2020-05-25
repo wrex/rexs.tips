@@ -26,7 +26,7 @@ practicing, head over to [tests]({{< ref "/guitar/rexercises" >}}) and
 follow the instructions.
 
 Proficiency tests are the result of what I'm calling [Test Driven Guitar]({{<
-ref "/guitar/rexercises/test-driven-guitar" >}}). Feel free to skip that
+ref "/guitar/Fundamentals/how-to-practice#test-driven-guitar" >}}). Feel free to skip that
 chapter if you just want to get on with learning the instrument.
 
 ## Notation
@@ -153,7 +153,3 @@ circumflex preceding the number: &circ;5 is the fifth scale degree.
 (Scale degrees are traditionally written with a caret or hat on top of the
 number, but adding those glyphs to this site is more of a hassle than I'm
 willing to undertake.)
-
----
-
-Next: [Test Driven Guitar]({{< ref "/guitar/rexercises/test-driven-guitar" >}})
