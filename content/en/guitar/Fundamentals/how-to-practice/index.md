@@ -11,6 +11,8 @@ resources:
     title: "Fig 1. Don't do this."
 ---
 
+TODO: break this into multiple pages
+
 Nobody improves without practice, **regular** practice, lots, and lots, and
 **lots** of practice. 
 
@@ -23,6 +25,199 @@ but doesn't provide much in the way of practical advice.
 
 If you want to skip the rationale and just learn _how_ to practice, jump directly
 to [Rex's System]({{< ref "guitar/rexs-system" >}}) later in the course.
+
+One of the biggest reasons we start to dread practice is that we see too little
+improvement after too much time. We must overcome a huge motivational hurdle
+to even start a session.
+
+Let's discuss each problem in turn: [motivation](#motivation) and [time](#time).
+
+## Motivation
+It's all too easy to despair about our lack of progress on the instrument
+(trust me, we've all been there).
+
+Beginners also tend to desire "spoon feeding." We are all fundamentally lazy. We
+want someone to tell us exactly what we should be working on and in what order,
+every step of the way.
+
+I've learned a few tricks that help with both issues, however.
+
+It's important to find as many ways as possible to make practice as easy and
+**pleasurable** as possible. This includes making _where_ you practice as
+pleasant as possible: bright, clutter free, and someplace you want to be.
+
+It's totally legit to bribe yourself with new toys, too: new
+guitars/pedals/amp/software (or simply new strings). Anything that makes you
+want to pick up the guitar is good (just try to at least recognize when you are playing
+with new toys more than actually practicing).
+
+## Time
+
+The other huge impediment to quality practice, of course, is _time_, or, more
+specifically, lack of it. None of us, rich or poor, working or retired, get more
+than 24 hours in a day, and we all have things other than guitar competing for
+that time.
+
+### How much time?
+
+My advice is to set _realistic_ expectations out the gate. It's easy to set
+yourself up for failure with an aggressive time goal. Few things are as
+demotivating as feeling "I'm so far behind".
+
+Behind what? Remember that at one point you couldn't play _at all_. You're
+almost always the only one setting expectations on yourself: it pays to make
+them easily achievable.
+
+Not everyone has an hour or more per day to dedicate to the guitar. Fewer
+still can remain motivated while spending that much time with the instrument.
+
+On the other hand, you're unlikely to make significant progress if you only
+dedicate, say, an hour or two every third weekend. _Regular_, near-daily
+practice is by far the most efficient way to improve.
+
+The more time you can dedicate each day, of course, the faster your progress
+will be, but even five minutes a day three or four times a week (hopefully with
+longer periods every other weekend or so) is more than sufficient.
+
+Five minutes a day, three days a week is roughly a bazillion times better than
+thirty minutes every other weekend. (Those **must** be five by-the-clock, focused,
+efficient, dedicated, distraction-free minutes each day, though!)
+
+{{% alert title="We make time for the things we care most about" color="primary" %}}
+If you can't find time to practice, then you have other things more important in
+your life than learning the guitar.
+
+That's _okay!_
+{{% /alert %}}
+
+### Time of day
+
+Divide your typical day into three segments: morning, mid-day, evening. Ask
+yourself two questions:
+
+1. Realistically, which of these segments is more often available for me to
+   practice?
+
+2. In the absence of any other constraints, which segment would I _prefer_ to
+   use for practice?
+
+Ignore weekdays vs. weekends for the moment.
+
+We're all different. Some have more energy in the mornings, others at night. Try
+to at least be aware of when you'd _prefer_ to practice.
+
+If other constraints make it impossible to practice during your preferred
+segment, realize that any practice is better than no practice.
+
+Next, spend a moment to think of any specific action you make almost every
+single day during the time segment you choose.
+
+Maybe it's making a cup of coffee. Maybe it's placing your car-keys in a tray or
+or on a hook. Maybe it's washing the dishes after dinner. Ideally, it's
+something you do almost every single day.
+
+Try to find something where you can afford to spend an extra
+minute or two on the task.
+
+That's your trigger.
+
+We are **not** going to associate the trigger with a full practice session.
+That's way too big and too much effort.
+
+Instead, we'll associate it with the very first step of practice: reviewing your
+focus list. 
+
+In my case, my trigger is retrieving my first cup of coffee from the coffee maker.
+
+Every time I make coffee in the morning (my preferred segment) I retrieve my
+   [Zettelkasten]({{< ref
+   "guitar/rexs-system/system-components#zettelkasten">}}) and review my [focus
+   list]({{< ref "guitar/rexs-system/system-components#focus-list">}}) while I
+   enjoy the coffee.
+
+That typically leads to at least a few minutes of practice. _But it doesn't
+matter whether I practice or not._ All that matters is that I physically pick up
+my ring of index cards like Pavlov's dog whenever I start making coffee.
+
+Seriously: I can't fill the coffee maker any more without at least thinking about
+guitar.
+
+It's a stupid pet trick, but it works.
+
+### The squishy nature of time
+
+I'm going to introduce two magic tools in this section.
+
+Earlier, I recommended "even five minutes" of practice per day. You may think
+"five minutes" sounds too short to accomplish anything useful.
+
+Far from it. In fact, five minutes can seem _tortuously_ long: I frequently
+practice individual exercises for even shorter intervals (three minutes is my
+preferred interval for many exercises).
+
+But short practice sessions require 100% focus. Each interval must be focused,
+active time with no distractions, snacking, or email.
+
+#### Kitchen timer
+
+The most effective way I know to accomplish this is with the first magic tool: a
+kitchen timer.
+
+Just looking at a wall clock _doesn't work._ The timer on your smartphone will
+work in a pinch, but I recommend [an inexpensive kitchen
+timer](http://amzn.com/B01D8EMXIQ).
+
+Decide on the drill or exercise you're going to perform, set the timer for three
+minutes, and go. You'll swear the bell must be broken sometimes! Three minutes
+can be an _unbelievably_ long time.
+
+I try to get in at least 20 minutes of practice most days. Some days I only have
+enough time for a single 3-5 minute exercise. Other days I have time for three
+or four 3-minute sprints, plus time for planning my next practice sessions. 
+
+Even on days where I have an hour or more to dedicate, I tend to break things
+into twenty minute sections with breaks in between.
+
+Seriously, an _awful_ lot can be accomplished with just one three-minute drill a
+day for three or more days per week.
+
+#### Metronome
+
+The other more magic tool to control time is a _metronome._
+
+A metronome has at least three different uses:
+
+- Most commonly, it's useful for building speed. You start practicing something
+  at a slow tempo, then gradually increase the tempo when you can play through
+  the exercise without mistakes.
+
+- It's useful to subdivide a beat and feel a groove. Basically, you
+  can use a metronome as a standby for an actual drummer (one that never gets
+  bored).
+
+- It's the ultimate test proctor (and reality check). You may **think** you've
+  learned a lick, chord sequence, or whatever, and can play it well, but there
+  is nothing like a metronome to prove just how wrong you are.
+
+It's the last one that I'd like to focus on here, especially in conjunction
+with a kitchen timer.
+
+Let's say you're an absolute beginner, still struggling to switch between G, C,
+and D chords in open position: A great way to practice is to set the timer
+for three minutes, the metronome to a slow tempo (say 60 BPM) and practice
+switching chords every fourth beat.
+
+As it gets easier from session to session, day to day, try every third beat,
+every second beat, or every beat. Finally, start increasing the tempo.
+
+This works for almost any exercise.
+
+Those beats just don't stop! It's _hard_ (and exhausting) to play something
+you've not yet completely mastered in time. Believe me: three minutes can seem
+an eternity with this sort of exercise.
+
+It can be unbelievably satisfying, though, when you finally complete an exercise
+without missing a beat, even if only for three minutes at a time!
 
 ## KNOWING
 
@@ -62,39 +257,16 @@ as soon as I could play each "box" on the neck.
 
 Just memorizing "the five shapes" barely scratched the surface!
 
-I needed to learn which note performed what function in each position. I needed
-to know where to _find_ each note within each "box." I needed to internalize how
-each note *sounded* over different chords in a blues progression. I needed to
-get to the point where I'd merely _think_ think "G Major pentatonic" *instantly*
-find the closest scale shape anywhere on the neck. Without conscious thought, I
-also needed to be able to _instantly_ switch to the scale for the next chord in
-a progression.
+* I needed to learn which note performed what function in each position. 
+* I needed to know where to _find_ each note within each "box." 
+* I needed to internalize how each note *sounded* over different chords in a
+  blues progression. 
+* I needed to get to the point where I'd merely _think_ think "G Major
+  pentatonic" to *instantly* find the closest scale shape anywhere on the neck. 
+* Without conscious thought, I also needed to be able to _instantly_ switch to
+  the scale for the next chord in a progression.
 
 **KNOWING** often takes months of focused practice.
-
-## Motivation
-
-One of the biggest reasons we start to dread practice is that we see too little
-improvement after too much time. We must overcome a huge motivational hurdle
-to even start a session.
-
-It's all too easy to despair about our lack of progress on the instrument
-(trust me, we've all been there).
-
-Beginners also tend to desire "spoon feeding." We are all fundamentally lazy. We
-want someone to tell us exactly what we should be working on and in what order,
-every step of the way.
-
-I've learned a few tricks that help with both issues, however.
-
-It's important to find as many ways as possible to make practice as easy and
-**pleasurable** as possible. This includes making _where_ you practice as
-pleasant as possible: bright, clutter free, and someplace you want to be.
-
-It's totally legit to bribe yourself with new toys, too: new
-guitars/pedals/amp/software (or simply new strings). Anything that makes you
-want to pick up the guitar is good (just try to at least recognize when you are playing
-with new toys more than actually practicing).
 
 ## Play vs. practice
 
@@ -451,173 +623,7 @@ since forgotten how to play those songs, and my playing sounded far better to me
 now than I remembered it sounding when I recorded it. Sometimes you need a
 little distance to evaluate things. That's also a motivation win!
 
-## Time
 
-The other huge impediment to quality practice, of course, is _time_, or, more
-specifically, lack of it. None of us, rich or poor, working or retired, get more
-than 24 hours in a day, and we all have things other than guitar competing for
-that time.
-
-### How much time?
-
-My advice is to set _realistic_ expectations out the gate. It's easy to set
-yourself up for failure with an aggressive time goal. Few things are as
-demotivating as feeling "I'm so far behind".
-
-Behind what? Remember that at one point you couldn't play _at all_. You're
-almost always the only one setting expectations on yourself: it pays to make
-them easily achievable.
-
-Not everyone has an hour or more per day to dedicate to the guitar. Fewer
-still can remain motivated while spending that much time with the instrument.
-
-On the other hand, you're unlikely to make significant progress if you only
-dedicate, say, an hour or two every third weekend. _Regular_, near-daily
-practice is by far the most efficient way to improve.
-
-The more time you can dedicate each day, of course, the faster your progress
-will be, but even five minutes a day three or four times a week (hopefully with
-longer periods every other weekend or so) is more than sufficient.
-
-Five minutes a day, three days a week is roughly a bazillion times better than
-thirty minutes every other weekend. (Those **must** be five by-the-clock, focused,
-efficient, dedicated, distraction-free minutes each day, though!)
-
-{{% alert title="We make time for the things we care most about" color="primary" %}}
-If you can't find time to practice, then you have other things more important in
-your life than learning the guitar.
-
-That's _okay!_
-{{% /alert %}}
-
-### Time of day
-
-Divide your typical day into three segments: morning, mid-day, evening. Ask
-yourself two questions:
-
-1. Realistically, which of these segments is more often available for me to
-   practice?
-
-2. In the absence of any other constraints, which segment would I _prefer_ to
-   use for practice?
-
-Ignore weekdays vs. weekends for the moment.
-
-We're all different. Some have more energy in the mornings, others at night. Try
-to at least be aware of when you'd _prefer_ to practice.
-
-If other constraints make it impossible to practice during your preferred
-segment, realize that any practice is better than no practice.
-
-Next, spend a moment to think of any specific action you make almost every
-single day during the time segment you choose.
-
-Maybe it's making a cup of coffee. Maybe it's placing your car-keys in a tray or
-or on a hook. Maybe it's washing the dishes after dinner. Ideally, it's
-something you do almost every single day.
-
-Try to find something where you can afford to spend an extra
-minute or two on the task.
-
-That's your trigger.
-
-We are **not** going to associate the trigger with a full practice session.
-That's way too big and too much effort.
-
-Instead, we'll associate it with the very first step of practice: reviewing your
-focus list. 
-
-In my case, my trigger is retrieving my first cup of coffee from the coffee maker.
-
-Every time I make coffee in the morning (my preferred segment) I retrieve my
-   [Zettelkasten]({{< ref
-   "guitar/rexs-system/system-components#zettelkasten">}}) and review my [focus
-   list]({{< ref "guitar/rexs-system/system-components#focus-list">}}) while I
-   enjoy the coffee.
-
-That typically leads to at least a few minutes of practice. _But it doesn't
-matter whether I practice or not._ All that matters is that I physically pick up
-my ring of index cards like Pavlov's dog whenever I start making coffee.
-
-Seriously: I can't fill the coffee maker any more without at least thinking about
-guitar.
-
-It's a stupid pet trick, but it works.
-
-### The squishy nature of time
-
-I'm going to introduce two magic tools in this section.
-
-Earlier, I recommended "even five minutes" of practice per day. You may think
-"five minutes" sounds too short to accomplish anything useful.
-
-Far from it. In fact, five minutes can seem _tortuously_ long: I frequently
-practice individual exercises for even shorter intervals (three minutes is my
-preferred interval for many exercises).
-
-But short practice sessions require 100% focus. Each interval must be focused,
-active time with no distractions, snacking, or email.
-
-#### Kitchen timer
-
-The most effective way I know to accomplish this is with the first magic tool: a
-kitchen timer.
-
-Just looking at a wall clock _doesn't work._ The timer on your smartphone will
-work in a pinch, but I recommend [an inexpensive kitchen
-timer](http://amzn.com/B01D8EMXIQ).
-
-Decide on the drill or exercise you're going to perform, set the timer for three
-minutes, and go. You'll swear the bell must be broken sometimes! Three minutes
-can be an _unbelievably_ long time.
-
-I try to get in at least 20 minutes of practice most days. Some days I only have
-enough time for a single 3-5 minute exercise. Other days I have time for three
-or four 3-minute sprints, plus time for planning my next practice sessions. 
-
-Even on days where I have an hour or more to dedicate, I tend to break things
-into twenty minute sections with breaks in between.
-
-Seriously, an _awful_ lot can be accomplished with just one three-minute drill a
-day for three or more days per week.
-
-#### Metronome
-
-The other more magic tool to control time is a _metronome._
-
-A metronome has at least three different uses:
-
-- Most commonly, it's useful for building speed. You start practicing something
-  at a slow tempo, then gradually increase the tempo when you can play through
-  the exercise without mistakes.
-
-- It's useful to subdivide a beat and feel a groove. Basically, you
-  can use a metronome as a standby for an actual drummer (one that never gets
-  bored).
-
-- It's the ultimate test proctor (and reality check). You may **think** you've
-  learned a lick, chord sequence, or whatever, and can play it well, but there
-  is nothing like a metronome to prove just how wrong you are.
-
-It's the last one that I'd like to focus on here, especially in conjunction
-with a kitchen timer.
-
-Let's say you're an absolute beginner, still struggling to switch between G, C,
-and D chords in open position: A great way to practice is to set the timer
-for three minutes, the metronome to a slow tempo (say 60 BPM) and practice
-switching chords every fourth beat.
-
-As it gets easier from session to session, day to day, try every third beat,
-every second beat, or every beat. Finally, start increasing the tempo.
-
-This works for almost any exercise.
-
-Those beats just don't stop! It's _hard_ (and exhausting) to play something
-you've not yet completely mastered in time. Believe me: three minutes can seem
-an eternity with this sort of exercise.
-
-It can be unbelievably satisfying, though, when you finally complete an exercise
-without missing a beat, even if only for three minutes at a time!
 
 ## Defining proficiency
 
