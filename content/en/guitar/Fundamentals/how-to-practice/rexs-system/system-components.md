@@ -38,7 +38,7 @@ suffices).
 
 The `exercise library` contains a list proficiency-tests/drills/exercises. You
 can create your own or simply use [the ones provided here]({{< ref
-"guitar/rexs-system/compact-test-listing" >}}). Each drill in the library should
+"guitar/rexercises/compact-test-listing" >}}). Each drill in the library should
 include complete documentation on how to perform the exercise, proficiency
 criteria, examples, etc.
 

@@ -20,6 +20,6 @@ The *entire* [introduction]({{< ref "guitar/introduction" >}}) section is nothin
 
 Please jump directly to [fundamentals]({{< ref "guitar/Fundamentals" >}}) if you just want to learn how to play.
 
-Jump to [Rex's System]({{< ref "guitar/rexs-system" >}}) if you are just looking for something to practice.
+Jump to [Rex's System]({{< ref "guitar/Fundamentals/how-to-practice/rexs-system" >}}) if you are just looking for something to practice.
 
 ### Content Sections:

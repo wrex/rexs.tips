@@ -14,7 +14,7 @@ I've recently been stealing a bunch of ideas from [Josh at
 FretboardAnatomy](https://fretboardanatomy.com) and others to completely revamp
 my practice system.
 
-As described in [my page on practice]({{< ref "guitar/rexs-system/_index.md" >}}), my
+As described in [my page on practice]({{< ref "guitar/Fundamentals/how-to-practice/rexs-system/_index.md" >}}), my
 practice system comprises just two things:
 
 1. An **exercise library** (on the computer)

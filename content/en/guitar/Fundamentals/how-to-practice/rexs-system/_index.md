@@ -19,34 +19,69 @@ create real-world examples, and some rough edges are bound to remain. Your
 mileage may vary.
 {{% /pageinfo %}}
 
-## Overview
+After countless failed attempts at following other's practice systems, my own
+practice system has evolved into what's described in this section.
 
-This section documents my personal (and evolving) practice system. This is a
-follow-on to my [thoughts and philosophy regarding practice]({{< ref
-"guitar/Fundamentals/how-to-practice" >}}) from the beginning
-of the course.
+Don't let the length fool you. The system isn't _at all_ complicated. I've
+learned the hard way that I'll give up on any system that isn't dirt simple.
 
-Don't let the length of this section fool you. The system isn't _at all_
-complicated.
+At its heart, it's just three things:
 
-I've learned the hard way that I'll give up on any system that isn't dirt
-simple.
+1. An [exercise library]({{< ref "guitar/Fundamentals/how-to-practice/rexs-system/system-components#exercise-library" >}})
+2. Handwritten notes on index cards (my [Zettelkasten]({{< ref
+   "guitar/Fundamentals/how-to-practice/rexs-system/system-components#zettelkasten">}}))
+3. One note in particular contains my current [focus list]({{< ref
+   "guitar/Fundamentals/how-to-practice/rexs-system/system-components#focus-list" >}}) (the five or fewer
+   exercises I'm currently focused on)
 
-My system consists primarily of just two things:
+Every time I stumble across something new and interesting online or wherever, I
+add one or more items to my [exercise library]({{< ref
+"guitar/Fundamentals/how-to-practice/rexs-system/system-components#exercise-library"
+>}}).
 
-1. A continually growing library of individual exercises stored on a computer
-   (mine is [published here]({{< ref "guitar/rexs-system/compact-test-listing" >}})).
+If it's particularly interesting, I'll replace one of the items on my [focus
+list]({{< ref "guitar/Fundamentals/how-to-practice/rexs-system/system-components#focus-list" >}}).
 
-2. A collection of hand-written index cards (my _Zettelkasten_) for reviewing
-   and taking notes during a practice session. 
-
-One note card in particular contains my `focus list` with just five
-or fewer exercises that I plan to focus on over the coming days or weeks.
+To keep myself _focused_, I force myself to keep five or fewer items on my
+[focus list]({{< ref "guitar/Fundamentals/how-to-practice/rexs-system/system-components#focus-list" >}}). Any
+more than that and I have a hard time deciding what to practice on any given day.
 
 {{< figproc "focus-list.jpg" "Resize" "400x" >}}{{< /figproc >}}
 
-I've tried various apps to track my practice, but I've found I **strongly**
-prefer a pen and paper to take notes during practice. 
+I still let myself watch whatever videos and read whatever content I want. If
+something seems worthwhile, I'll add a link to it from my library. 
+
+But before I take up any valuable practice time with the latest cool video or
+whatever, I first look at my [focus list]({{< ref
+"guitar/Fundamentals/how-to-practice/rexs-system/system-components#focus-list"
+>}}) and ask myself if the new thing seems more important or valuable than
+everything already there.
+
+Sometimes I realize I've already mastered something on the list,
+so I feel no guilt about replacing it with the new thing. Other times, an item on
+the list no longer "sparks joy" as Marie Kondo would say, so I drop it and put
+the new thing in its place.
+
+Usually, though, I realize I've already got plenty to work on, so I just
+add the link to my library and relax knowing I won't forget about it and will
+get to it eventually.
+
+Neither my focus list nor my exercise library are in **any** sort of priority
+order &mdash; I work on what I want when I want.
+
+{{< alert color="info" >}}
+[Josh](mailto:josh@fretboardanatomy.com) over at [Fretboard
+Anatomy](https://fretboardanatomy.com) gave me most of the ideas that led to
+this system. In particular, many of the exercises documented here are slightly
+modified versions of drills that he taught me. He also turned me on to the
+[Zettelkasten](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+system of note-taking.
+{{< /alert >}}
+
+## Pen vs. computer
+
+I've tried various phone and computer apps to manage my practice, but I've found
+I **strongly** prefer a pen and paper to take notes during practice. 
 
 For some reason, scribbling something with a pen seems far less intrusive and
 distracting than typing on my phone or on a computer. A pen requires far less of
@@ -63,14 +98,6 @@ library.
 I rarely need to refer to the online documentation for a particular exercise
 after practicing it the first time.
 
-{{< alert color="info" >}}
-[Josh](mailto:josh@fretboardanatomy.com) over at [Fretboard
-Anatomy](https://fretboardanatomy.com) gave me most of the ideas that led to
-this system. In particular, many of the exercises documented here are slightly
-modified versions of drills that he taught me. He also turned me on to the
-[Zettelkasten](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
-system of note-taking.
-{{< /alert >}}
 
 ## The rules
 
@@ -166,3 +193,4 @@ minute you spend with a guitar in hand helps. It's important to enjoy your
 practice time, and we _need_ recovery time between exercise-sessions. It's
 impossible to sustain the intense focus required by real _practice_ for more
 than a few minutes at a time.
+
