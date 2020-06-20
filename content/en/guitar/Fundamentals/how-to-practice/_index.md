@@ -15,11 +15,11 @@ Nobody improves without practice, _regular_ practice, lots, and lots, and
 
 The student asks, "How do I ..."
 
-"Practice."
+Teacher: "Practice."
 
-"But why can't I ..."
+Student: "But why can't I ..."
 
-"You just need more practice."
+Teacher: "You just need more practice."
 
 Despite the absolute, inarguable truth of that answer, _every_ student grows frustrated with
 the response. We _know_ we need more practice, but how? _What_ should we
