@@ -34,7 +34,7 @@ To start learning how to actually find and play the notes on the fretboard, plea
 
 ## Shapes versus notes
 
-A surprising number of guitarists never learn where all the notes are on the fretboard, much less how to read music. This is a real shame. Musicians learning almost any other instrument **start** by associating written notes on the staff with where and how to produce those notes on their instrument. It’s an odd quirk and unfortunate side-effect of a guitar’s layout that encourages students to think abut "shaps" rather than notes.
+A surprising number of guitarists never learn where all the notes are on the fretboard, much less how to read music. This is a real shame. Musicians learning almost any other instrument **start** by associating written notes on the staff with where and how to produce those notes on their instrument. It’s an odd quirk and unfortunate side-effect of a guitar’s layout that encourages students to think abut "shapes" rather than notes.
 
 For example, the first thing millions of beginners learn to play is this C Major chord:
 
