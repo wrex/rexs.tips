@@ -83,7 +83,7 @@ Why do some notes have two names (like E&flat;/D&sharp;)?
 
 Also, sometimes you want to alter a chord for different textures. "The Hendrix chord," for example, sharpens the 9th scale degree in the chord so it's common to use &sharp; if the 9th scale degree lands on an accidental.
 
-Why isn't there a note called C&flat; or E&flat;?
+Why isn't there a note called C&flat; or E&sharp;?
 : See [diatonic scales](#diatonic-scales) below. No matter which note you start on, you never need a note between B/C or between E/F.
 
 What does diatonic mean? 
